@@ -1,14 +1,16 @@
+
+
+/* FONTS */
 $font-family-first: 'Amatica SC', cursive;
 $font-family-second: 'Raleway', sans-serif;
-$font-size: 18px;
-
-
+$font-size: 1em;
 
 /* COLORS */
-$grey-dark: #272727;
+$grey-dark: #666666;
 $green: #D9D9C6;
-$white: #FFF;
-$blue: #59A6C0;
+$light: #F6F6F6;
+$white: #FFFFFF;
+$red: #9C7B7B;
 
 
 /* MIXINS */
@@ -23,5 +25,21 @@ $blue: #59A6C0;
     content: "";
     display: table;
     clear: both;
+  }
+}
+
+/* CONTAINERS */
+$padding: 20px;
+$container-width: 740px;
+.container {
+  @include center();
+  max-width: $container-width;
+}
+.col--2 {
+	max-width: ($container-width - $padding - 5)/2;
+  display: inline-block;
+  vertical-align: middle;
+  &:first-child{
+    margin-right: $padding;
   }
 }

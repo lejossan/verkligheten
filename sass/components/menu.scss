@@ -1,0 +1,27 @@
+
+/* Menu */
+
+.menu{
+
+	height: 40px;
+	background-color: $grey-dark;
+	ul {
+    vertical-align: middle;
+		li{
+			display: inline-block;
+      margin: 0 1em;
+      line-height: 35px;
+		}
+    li:first-child{
+      margin-left: 0;
+    }
+    li.active{
+      font-weight: bold;
+      font-size: 2em;
+    }
+	}
+  a {
+    color: $white;
+    text-decoration: none;
+  }
+}

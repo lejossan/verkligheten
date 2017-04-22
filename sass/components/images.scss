@@ -1,0 +1,42 @@
+
+/* Imagehandling */
+
+.imagewrapper{
+  width: 100%;
+  .header-image{
+    &--big, &--small {
+      background-size: cover;
+      background-position: 50%;
+      background-repeat: no-repeat;
+    }
+    &--big{
+      height: 650px;
+    }
+    &--medium{
+      height: 450px;
+    }
+    &--small{
+      height: 350px;
+    }
+  }
+  .image-wood{
+    background-image: url(../img/wood2.jpg);
+  }
+  .image-view{
+    background-image: url(../img/view1.jpg);
+    background-position: 70%;
+  }
+  h1{
+    position: absolute;
+    top: 5em;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    border: 3px solid;
+    transform: translate(-50%, -90%);
+    padding: 0.2em;
+  }
+  img{
+    width: 100%;
+  }
+}
