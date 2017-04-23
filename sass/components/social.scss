@@ -1,7 +1,21 @@
 /* Social */
 
 .social{
-	img{
-		max-width: inherit;
-	}
+  h2{
+    line-height: 1.5em;
+  }
+	.facebook{
+    margin-top: $gutter;
+  }
+  .odlaiverkligheten{
+    margin-right: $gutter;
+  }
+  .banner{
+    background-color: $red;
+    height: 80px;
+    position: relative;
+    margin-top: -80px;
+    text-align: left;
+    padding: 0 $gutter;
+  }
 }

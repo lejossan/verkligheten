@@ -2,15 +2,15 @@
 /* Menu */
 
 .menu{
-
-	height: 40px;
-	background-color: $grey-dark;
+  padding: 0 $gutter;
+	height: 50px;
+	background-color: $dark;
 	ul {
     vertical-align: middle;
 		li{
 			display: inline-block;
-      margin: 0 1em;
-      line-height: 35px;
+      margin: 0 0.8em;
+      line-height: 45px;
 		}
     li:first-child{
       margin-left: 0;

@@ -1,36 +1,12 @@
 
 /* Imagehandling */
 
-.imagewrapper{
+
+.imagewrapper--small, .imagewrapper--medium, .imagewrapper--big{
   width: 100%;
-  .header-image{
-    &--big, &--small {
-      background-size: cover;
-      background-position: 50%;
-      background-repeat: no-repeat;
-    }
-    &--big{
-      height: 650px;
-    }
-    &--medium{
-      height: 450px;
-    }
-    &--small{
-      height: 350px;
-    }
-  }
-  .image-wood{
-    background-image: url(../img/wood2.jpg);
-  }
-  .image-view{
-    background-image: url(../img/view1.jpg);
-    background-position: 70%;
-  }
   h1{
     position: absolute;
-    top: 5em;
     left: 50%;
-    transform: translate(-50%, -50%);
     text-align: center;
     border: 3px solid;
     transform: translate(-50%, -90%);
@@ -38,5 +14,79 @@
   }
   img{
     width: 100%;
+  }
+  .header-image{
+      background-size: cover;
+      background-position: 50%;
+      background-repeat: no-repeat;
+  }
+  &.wood .image{
+    background-image: url(../img/wood2.jpg);
+  }
+  &.far{
+    .image{
+      background-image: url(../img/far.jpg);
+    }
+    h1{
+      left: 80%;
+    }
+  }
+  &.halmhus{ 
+    .image{
+      background-image: url(../img/halmhus.jpg);
+      background-position: 0 50%;
+    }
+    h1{
+      left: 90%; 
+    }
+  } 
+  &.folk{ 
+    .image{
+      background-image: url(../img/kaspertekla.jpg);
+      background-position: 0 50%;
+    }
+    h1{
+      left: 15%; 
+    }
+  }
+  &.brollop{
+    .image{
+      background-image: url(../img/brollop.jpg);
+      background-position: 0 40%;
+    }
+    h1{
+      left: 13%;
+    }
+  }
+  &.honor .image{
+    background-image: url(../img/honor.jpg);
+    background-position: 0 90%;
+  }
+  .image-view{
+    background-image: url(../img/view1.jpg);
+    background-position: 0 60%;
+  }
+}
+.imagewrapper{
+  &--big {
+    h1{
+      top: 5em;
+    }
+    .header-image{
+      height: 650px;
+    }
+  }
+  &--medium .header-image{
+    height: 450px;
+  }
+  &--small {
+    h1 {
+      top: 4.5em;
+      font-size: 3.5em;
+      left: 70%;
+    }
+    .header-image{
+      height: 350px;
+    }
   }
 }

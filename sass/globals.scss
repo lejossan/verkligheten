@@ -6,7 +6,7 @@ $font-family-second: 'Raleway', sans-serif;
 $font-size: 1em;
 
 /* COLORS */
-$grey-dark: #666666;
+$dark: #666666;
 $green: #D9D9C6;
 $light: #F6F6F6;
 $white: #FFFFFF;
@@ -29,17 +29,25 @@ $red: #9C7B7B;
 }
 
 /* CONTAINERS */
-$padding: 20px;
 $container-width: 740px;
+$column-count: 12;
+$gutter: 15px;
+
 .container {
   @include center();
   max-width: $container-width;
 }
-.col--2 {
-	max-width: ($container-width - $padding - 5)/2;
-  display: inline-block;
-  vertical-align: middle;
-  &:first-child{
-    margin-right: $padding;
+@for $i from 1 through $column-count {
+  .col--#{$i} {
+    width: calc(#{100%/$column-count * $i} - #{$gutter}); 
+    display: inline-block;
+    vertical-align: top;
+    margin-right: $gutter;
+    img{
+      width: 100%;
+    }
+    &:last-child{
+      margin-right: 0;
+    }
   }
 }

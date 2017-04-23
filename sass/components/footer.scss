@@ -1,0 +1,14 @@
+#footer{
+  background-color: $dark;
+  color: $light;
+  padding: $gutter 0;
+  a {
+    color: $light;
+  }
+  iframe{
+    margin: $gutter 0;
+  }
+  .second {
+    margin-top: $gutter;
+  }
+}
