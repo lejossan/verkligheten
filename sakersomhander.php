@@ -13,7 +13,7 @@
       <li class="h3"><a href="halmhus.php">HALMHUS</a></li>
       <li class="h3 active">SAKER SOM HÄNDER</li>
       <li class="h3"><a href="folkochfa.php">FOLK & FÄ</a></li>
-      <li class="h3"><a href="#kontakt">KONTAKT</a></li>
+      <li class="h3"><a href="#footer">KONTAKT</a></li>
       </ul>
   </div>
   
