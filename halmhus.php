@@ -53,15 +53,21 @@
 
   <div class="section container">
     <div class="col--6">
-      <img class="" src="../img/halmhus/entreplan.jpg" alt="entreplan" />
+      <a href="../img/halmhus/entreplan.jpg" data-fancybox="ritningar" data-caption="Entreplan">
+        <img class="" src="../img/halmhus/entreplan.jpg" alt="Entréplan" />
+      </a>
     </div>
     <div class="col--6">
-      <img class="" src="../img/halmhus/ovreplan.jpg" alt="entreplan" />
+      <a href="../img/halmhus/ovreplan.jpg" data-fancybox="ritningar" data-caption="Övre plan">
+        <img class="" src="../img/halmhus/ovreplan.jpg" alt="Övre plan" />
+      </a>
     </div>
   </div>
   <div class="section container">
     <div class="col--12">
-      <img class="" src="../img/halmhus/collage.jpg" alt="collage" />
+      <a href="../img/halmhus/collage.jpg" data-fancybox="ritningar" data-caption="Kollage">
+        <img class="" src="../img/halmhus/collage.jpg" alt="collage" />
+      </a>
     </div>
   </div>
 
@@ -78,6 +84,8 @@
     </div>
   </div>
 <div class="section container">
+  
+   
   <div class="col--12">
     <img class="" src="../img/halmhus/skumglas.png" alt="skumglas" />
     <br/>
@@ -110,6 +118,7 @@ Länk till filmen på trädflytten
   </div>
 
 </div>
+
 
 
 

@@ -20,5 +20,11 @@
     </div>
   </div>
 </div>
+
+
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/jquery.fancybox.min.js"></script>
+<script src="js/verkligheten.js"></script>
+
 </body>
 </html>
