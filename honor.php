@@ -4,7 +4,7 @@
 
   <div class="imagewrapper--small honor">
     <div class="header-image image"></div>
-    <h1><a href="index.html" class="nolink" alt="home">HÖNS I VERKLIGHETEN</a></h1>
+    <h1>HÖNS I VERKLIGHETEN</h1>
   </div><div class="menu">
       <ul class="container">
       <li class="h3"><a href="index.php">HEM</a></li>

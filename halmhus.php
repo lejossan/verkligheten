@@ -3,7 +3,7 @@
 
   <div class="imagewrapper--small halmhus">
     <div class="header-image image"></div>
-    <h1><a href="index.html" class="nolink" alt="home">HALMHUSET LILLA VERKLIGHETEN</a></h1>
+    <h1>HALMHUSET LILLA VERKLIGHETEN</h1>
   </div><div class="menu">
       <ul class="container">
       <li class="h3"><a href="index.php">HEM</a></li>
@@ -133,6 +133,7 @@
     <li><span class="h2">4.</span>
     <p class="col--10">Om du ska flytta en ek som har grenar på över sju meter, var noga med att kontrollera eventuella luftledningar längs med vägen.</p></li>
   </ul>
+  <br/>
     <a href="../img/halmhus/teklabarkar.jpg" data-fancybox="rundtimmer" data-caption="Barkning pågår">
       <img class="" src="../img/halmhus/teklabarkar.jpg" alt="Barkning" />
     </a>
@@ -244,7 +245,9 @@
 
 <div class="section container">
   <div class="col--6">
-    Tack till Manos och Marta från <a href="http://www.minoeco.com/en/">Minoeco</a> för bilder på halmning och putsning.
+    <p>Vi kommer att fylla på den här sidan under hela bygget men för att få det senaste är det bäst att kolla <a class="readmore" href="www.facebook.com/verklighetensgard">Verklighetens Gård på Facebook</a></p>
+    <p>Tack till Manos och Marta från <a href="http://www.minoeco.com/en/">Minoeco</a> för bilder på halmning och putsning.</p>
+    <a href="/halmhus.php" class="readup">Gå upp</a>
   </div>
 </div>
 

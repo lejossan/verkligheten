@@ -4,7 +4,7 @@
 
   <div class="imagewrapper--small brollop">
     <div class="header-image image"></div>
-    <h1><a href="index.html" class="nolink" alt="home">SAKER SOM HÄNDER</a></h1>
+    <h1>SAKER SOM HÄNDER</h1>
   </div><div class="menu">
       <ul class="container">
       <li class="h3"><a href="index.php">HEM</a></li>
@@ -32,8 +32,6 @@
       <a href="../img/advent/hylla.png" data-fancybox="advent" data-caption="Folly hjälper till att dra hem granar">
         <img class="" src="../img/advent/hylla-thumb.png" alt="folly" />
       </a>
-      <br/>
-      <!--<img src="../img/advent1.png" alt="adventsmarknad"/>-->
       
     </div>
   </div>

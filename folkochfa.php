@@ -3,7 +3,7 @@
 
   <div class="imagewrapper--small folk">
     <div class="header-image image"></div>
-    <h1><a href="index.html" class="nolink" alt="home">FOLK & FÄ</a></h1>
+    <h1>FOLK & FÄ</h1>
   </div><div class="menu">
       <ul class="container">
       <li class="h3"><a href="index.php">HEM</a></li>
@@ -20,23 +20,47 @@
   <div class="section container">
     <div class="col--6 ">
       <h2>FOLK</h2>
+      <p>I verkligheten bor två familjer. Familjen Salbark bygger halmhus och familjen Espenkrona bor i det gamla boningshuset på gården. Framöver kommer även Linnea och Josefines föräldrar flytta in i ett av husen.</p>
+      <p>Lokaltidningen Corren var här och gjorde ett reportage till Bostadsbilagan om familjen Espenkrona och deras hus, <a class="readmore" href="http://www.corren.se/bostad/bildextra-kolla-in-pa-garden-om4595102.aspx">läs det här</a>
     </div>
     <div class="col--6 ">
-      <h2>FÄ</h2>v
+      <h2>FÄ</h2>
+      <p>I verkligheten bor tre bruna hästar. Den stora hästen heter MaryAnne. Den mellanstora heter Spice. Den minsta heter Folly.</p>
+      <p>Vi har också två katter som heter Evert och Missen, de bor i logen och hjälper oss hålla koll på den.</p>
     </div>
-
   </div>
   
-  <div class="section container">
-    <div class="col--6 ">
-      <p>asd</p>
-      <p>Vasd</p>
 
-    </div> 
-    <div class="col--6">
-      <p>asd </p>
-    
-      <img src="img/teklaochlamm.png" alt="Tekla och lamm" />
+  <div class="section container">
+    <div class="col--2">
+      <a href="../img/folkfa/pertekla.jpg" data-fancybox="folkfa" data-caption="Per och Tekla vid gungan">
+        <img class="" src="../img/folkfa/pertekla.jpg" alt="Per och Tekla vid gungan" />
+      </a>
+    </div><!--
+    --><div class="col--2">
+      <a href="../img/folkfa/pulka.png" data-fancybox="folkfa" data-caption="Pulka bakom Folly.">
+        <img class="" src="../img/folkfa/pulka-thumb.png" alt="pulka" />
+      </a>
+    </div><!--
+    --><div class="col--2">
+      <a href="../img/folkfa/hestar.png" data-fancybox="folkfa" data-caption="Från logen ut mot vinterhagen ligger kvällssolen på.">
+        <img class="" src="../img/folkfa/hestar-thumb.png" alt="solnedgång" />
+      </a>
+    </div><!--
+    --><div class="col--2">
+        <a href="../img/folkfa/klaselin.jpg" data-fancybox="folkfa" data-caption="Klas och Elin posar vid sågverket.">
+          <img class="" src="../img/folkfa/klaselin.jpg" alt="sågverk" />
+        </a>
+    </div><!--    
+    --><div class="col--2">
+        <a href="../img/folkfa/löksättning.jpg" data-fancybox="folkfa" data-caption="Mycket lök ska ner i jorden.">
+          <img class="" src="../img/folkfa/löksättning.jpg" alt="Löksättning" />
+        </a>
+    </div><!--    
+    --><div class="col--2">
+      <a href="../img/folkfa/hest.png" data-fancybox="folkfa" data-caption="MaryAnne i solnedgång.">
+        <img class="" src="../img/folkfa/hest-thumb.png" alt="MaryAnne i solnedgång." />
+      </a>
     </div>
   </div>
 

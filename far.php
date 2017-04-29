@@ -3,7 +3,7 @@
 
   <div class="imagewrapper--small far">
     <div class="header-image image"></div>
-    <h1><a href="index.html" class="nolink" alt="home">FÅR I VERKLIGHETEN</a></h1>
+    <h1>FÅR I VERKLIGHETEN</h1>
   </div><div class="menu">
       <ul class="container">
       <li class="h3"><a href="index.php">HEM</a></li>

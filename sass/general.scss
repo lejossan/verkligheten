@@ -17,7 +17,6 @@ h2,.h2{
   line-height: 1.2em;
 }
 h3,.h3{
-  //color: $light;
   font-size: 1.4em;
 }
 p{
@@ -28,13 +27,19 @@ p{
 a{
   color: $red;
   text-decoration: underline;
-  &.readmore:after{
-    content: '\f061';
+  &.readmore:after,
+  &.readup:after{
     font-family: FontAwesome;
     font-weight: normal;
     font-style: normal;
     margin: 0px 0px 0px 10px;
     text-decoration: none;
+  }
+  &.readmore:after{
+    content: '\f061';
+  }
+  &.readup:after{
+    content: '\f062';
   }
   &.nolink{
     text-decoration: none;

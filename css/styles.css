@@ -210,13 +210,16 @@ p {
 a {
   color: #9C7B7B;
   text-decoration: underline; }
-  a.readmore:after {
-    content: '\f061';
+  a.readmore:after, a.readup:after {
     font-family: FontAwesome;
     font-weight: normal;
     font-style: normal;
     margin: 0px 0px 0px 10px;
     text-decoration: none; }
+  a.readmore:after {
+    content: '\f061'; }
+  a.readup:after {
+    content: '\f062'; }
   a.nolink {
     text-decoration: none;
     color: #FFFFFF; }
