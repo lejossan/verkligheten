@@ -7,7 +7,7 @@
     <h1><a href="index.html" class="nolink" alt="home">SAKER SOM HÄNDER</a></h1>
   </div><div class="menu">
       <ul class="container">
-      <li class="h3"><a href="index.php"></a></li>
+      <li class="h3"><a href="index.php">HEM</a></li>
       <li class="h3"><a href="far.php">FÅR</a></li>
       <li class="h3"><a href="honor.php">HÖNS</a></li>
       <li class="h3"><a href="halmhus.php">HALMHUS</a></li>

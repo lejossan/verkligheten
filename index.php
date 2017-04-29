@@ -37,7 +37,7 @@
         <img class="lamm" src="../img/halmhus-round.png" alt="lamm" />
       </div>
       <div class="col--6 left-align">
-      <br/><br/>
+      <br/><br/><br/>
         <h2>Halmhuset lilla Verkligheten</h2>
         <p>Eftersom vi bor så många på gården behöver vi ett boningshus till. Vi vill bygga ett hus med liten påverkan på miljön och ett hus som vi känner att vi verkligen har byggt själva. Därför har vi valt att bygga ett hus med trä från den egna skogen, väggar av halm från en bonde i närheten och lera från våra egna marker. </p>
         <a class="readmore" href="halmhus.php">Läs mer om bygget här.</a>

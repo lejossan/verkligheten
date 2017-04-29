@@ -20,19 +20,59 @@
     <h2>MILJÖVÄNLIGT OCH DJURETISKT</h2>
     <div class="col--6 ">
       <p>Under sommarhalvåret går våra djur i stora hagar och är avgörande för att vi ska kunna hålla markerna öppna. På vintern äter de ensilage från bönderna runtomkring vilket gör att mängden kraftfoder är minimal. Djuren gör om gräs som vi inte kan äta till något för oss ätbart, lammkött. Detta gör att vårt kött har en låg inverkan på miljön och klimatet.</p>
+      <h3>Djurens bästa i focus</h3>
       <p>Vi känner våra tackor väl och har en relation till varje djur. För oss är det mycket viktigt att de trivs och har det bra. Därför går djuren i stora hagar med varierande terräng på somrarna och på vintrarna har de möjlighet att gå ut som de själva vill. Du kan därför vara säker på att det kött du har på tallriken både är bra för miljön och att djuret har haft det bra under sin uppväxt.</p>
-
+    <h3>Slakten</h3>
+      <p>Till hösten slaktas lammen på ett litet slakteri, vi kör själva dit och lämnar över direkt till slaktaren. Stressen blir därför minimal för djuren. Köttet styckas, om så önskas, annars kan man få lammet ostyckat och göra det själv. Önskas inälvsmat eller andra delar som normalt inte tas tillbaka, säg till innan slakt så ordnar vi det. </p>
     </div> 
     <div class="col--6">
-      <p>Till hösten slaktas lammen på ett litet slakteri, vi kör själva dit och lämnar över direkt till slaktaren. Stressen blir därför minimal för djuren. Köttet styckas, om så önskas, annars kan man få lammet ostyckat och göra det själv. Önskas inälvsmat eller andra delar som normalt inte tas tillbaka, säg till innan slakt så ordnar vi det. </p>
-      <img src="img/tackalamm.png" alt="Tacka och lamm" />
+
+      <p>Lamm växer olika fort och det beror också mycket på hur vädret har varit under sommaren. Ett lamm bör väga ca 40-50kg när det slaktas, därför skickas de iväg i lite olika omgångar. Vi kommer efter hand som köttet kommer tillbaka skicka ut på Facebook att det finns tillgängligt. </p>
+      <br/><br/>
+      <a href="../img/far/tackalamm.png" data-fancybox="far" data-caption="Tacka">
+        <img src="img/far/tackalamm.png" alt="Tacka och lamm" />
+      </a>
     </div>
   </div>
 
   <div class="section container">
+    <div class="col--2">
+      <a href="../img/far/far1.jpg" data-fancybox="far" data-caption="Får på rad.">
+        <img class="" src="../img/far/far1.jpg" alt="får" />
+      </a>
+    </div><!--
+    --><div class="col--2">
+      <a href="../img/far/lamm1.jpg" data-fancybox="far" data-caption="Söta lamm.">
+        <img class="" src="../img/far/lamm1.jpg" alt="Lamm" />
+      </a>
+    </div><!--
+    --><div class="col--2">
+        <a href="../img/far/far3.png" data-fancybox="far" data-caption="Lammhage.">
+          <img class="" src="../img/far/far3-thumb.png" alt="lammhage" />
+        </a>
+    </div><!--
+    --><div class="col--2">
+      <a href="../img/far/far4.png" data-fancybox="far" data-caption="Mysigt inne i lammstallet">
+        <img class="" src="../img/far/far4-thumb.png" alt="Lammstall" />
+      </a>
+    </div><!--    
+    --><div class="col--2">
+        <a href="../img/far/far5.png" data-fancybox="far" data-caption="Tacka">
+          <img class="" src="../img/far/far5-thumb.png" alt="Tacka" />
+        </a>
+    </div><!--    
+    --><div class="col--2">
+      <a href="../img/far/far2.jpg" data-fancybox="far" data-caption="På grönbete">
+        <img class="" src="../img/far/far2.jpg" alt="Får på grönbete" />
+      </a>
+    </div>
+  </div>
+
+
+  <div class="section container">
     <div class="col--6">
       <h2>LAMMSKINN</h2>
-      <p>Vi bereder alla lammskinn och säljer de efter hand när de kommer in. Håll utkik på facebook, när det finns kommer vi även sälja skinnen på våra evenemang som tex adventsmarknaden.</p>
+      <p>Vi bereder alla lammskinn och säljer de efter hand när de kommer in. Håll utkik på <a href="www.facebook.com/verklighetensgard">Verklighetens Gård</a> på Facebook, när det finns kommer vi även sälja skinnen på våra evenemang som tex adventsmarknaden.</p>
       <a class="readmore" href="bygg.php">Läs mer om vår adventsmarknad här.</a>
     </div>
     <div class="col--6">
@@ -41,12 +81,6 @@
       <p>Vi har två gotlandstackor, övriga är korsningar mellan finull/gotland/suffolk. Detta gör att vi har många olika kvaliteér och färger på ullen. Av ullen gör vi tex tomtar och dynor som säljs på våra evenemang som tex adventsmys.</p>
     </div>
   </div>
-  <div class="section container">
-    <div class="col--6">
-      <h2>INTRESSEANMÄLAN FÖR LAMMKÖTT</h2>
-      <p>något slags mailformulär som skickar mail till verklighetensgard@gmail.com</p>
-    </div>
-    <div class="col--6"></div>
-  </div>
+
 
 <?php include('footer.php'); ?>
