@@ -31,8 +31,8 @@
   </div>
 
   <div class="section container">
-    <div class="col--6"><img src="img/knut.png" alt="Tuppen knut" /></div>
     <div class="col--6"><img src="img/doris.png" alt="Tuppen Doris" /></div>
+    <div class="col--6"><img src="img/knut.png" alt="Tuppen knut" /></div>
   </div>
 
 

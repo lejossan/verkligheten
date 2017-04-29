@@ -16,36 +16,37 @@
       </ul>
   </div>
 
-  
+  <ul class="index col--2">
+    <li><h3>Innehåll</h3></li>
+    <li><a href="#sektion-planering">Planering & Ritning</a></li>
+    <li><a href="#sektion-grund">Grund med skumglas</a></li>
+    <li><a href="#sektion-rundtimmer">Rundtimmer & Ek</a></li>
+    <li><a href="#sektion-rundhustak">Självbärande rundhustak</a></li>
+    <li><a href="#sektion-halmväggar">Väggar i halm</a></li>
+    <li><a href="#sektion-kalkputs">Egen kalkputs</a></li>
+  </ul>
   <div class="section container">
     <div class="col--6 ">
       <h2>DET RUNDA HALMHUSET</h2>
 
-      <ul class="">
-        <li><h3>Innehåll</h3></li>
-        <li><a href="#bakgrund">Bakgrund</a></li>
-        <li><a href="#grund">Grund med skumglas</a></li>
-        <li><a href="#rundtimmer">Rundtimmer & Ek</a></li>
-        <li><a href="#rundhustak">Självbärande rundhustak</a></li>
-        <li><a href="#halmväggar">Väggar i halm</a></li>
-        <li><a href="#kalkputs">Egen kalkputs</a></li>
-      </ul>
-
-      <p>Vi ville bygga ett hus, på riktigt och från grunden. Det skulle vara ett hus som är miljövänligare och med mindre kemikalier, både i byggskedet och när vi bor i det. Här har vi försökt att förklara lite hur vi har gjort och vad vi har lärt oss hittills. Eftersom vi inte är färdiga än kommer vi fylla på allt eftersom. För att följa bygget så kolla vår <a class="readmore" href="www.facebook.com/verklighetensgard">Facebook sida</a></p>
+      <p>Vi ville bygga ett hus, på riktigt och från grunden. Det skulle vara ett hus som är miljövänligare och med mindre kemikalier, både i byggskedet och när vi bor i det. Här har vi försökt att förklara lite hur vi har gjort och vad vi har lärt oss hittills. Eftersom vi inte är färdiga än kommer vi fylla på allt eftersom. Du kan också följa bygget på vår <a class="readmore" href="www.facebook.com/verklighetensgard">Facebook sida</a></p>
 
 
     </div>
   </div>
 
-  <div class="section container">
+  <div id="sektion-planering" class="section container">
     <div class="col--6">
-      <h2 id="bakgrund">BAKGRUND</h2>
+      <h2>PLANERING & RITNING</h2>
       <p>Efter lite funderande beslöt oss vi för att bygga ett hus med en stomme av timmer och med halmbalar som isolering. Vi trodde också att det skulle bli billigare och vara enklare än att bygga ett vanligt hus, men så här halvvägs in i projektet kan vi inget annat än konstatera att det var helt fel! </p>
-      <p>Vi har designat huset själva och lagt in saker som vi tycker är viktiga. Eftersom vi, så småningom, vill odla mycket av vår mat själva har huset stora skafferier, ett varmt och ett kallt. I huset finns en grovéntre, vilket jag tror alla som bor på landet ser som en nödvändighet i vardagen. Där kommer vi även ha en diskbänk och i planen finns även en gallersektion precis innanför dörren för alla smutsig stövlar, vi får väl se om den blir verklighet.</p>
+      <h3>Skafferi & Entré</h3>
+      <p>Vi har designat huset själva och lagt in saker som vi tycker är viktiga. Eftersom vi, så småningom, vill odla mycket av vår mat själva har huset stora skafferier, ett varmt och ett kallt. I huset finns en grovéntre, vilket vi tror alla som bor på landet ser som en nödvändighet i vardagen. Där kommer vi även ha en diskbänk och i planen finns även en gallersektion precis innanför dörren för alla smutsig stövlar, vi får väl se om den blir verklighet.</p>
     </div>
     <div class="col--6 ">
+    <br/>
       <p>Det stora rummet är väl tilltaget och har plats för kök, matplats, soffa och finentré. Rummet har stora fönster och stora glasdörrar som på sommaren kan stå öppna för att sudda ut gränser för vad som är inne och ute. Vi funderade ett tag även på att variera golvmaterialen så att stenläggningen ute går en bit in i rummet, men vi kanske skippar det, vi får se!
       </p>
+      <h3>Badrum</h3>
       <p>I badrummet finns en låg dubbeldörr som leder ut, för där vill vi ha ett badkar till så vi kan sitta ute och bada även när vi inte orkar elda upp i badtunnan! </p>
       <p>Planen är att vi ska vara inflyttade julen 2018, färdigt blir det nog aldrig men det blir väl inga hus! </p>
     </div>
@@ -53,91 +54,199 @@
 
   <div class="section container">
     <div class="col--6">
-      <a href="../img/halmhus/entreplan.jpg" data-fancybox="ritningar" data-caption="Entreplan">
-        <img class="" src="../img/halmhus/entreplan.jpg" alt="Entréplan" />
+      <a href="../img/halmhus/entreplan.png" data-fancybox="ritningar" data-caption="Entreplan">
+        <img class="" src="../img/halmhus/entreplan-thumb.png" alt="Entréplan" />
       </a>
     </div>
     <div class="col--6">
-      <a href="../img/halmhus/ovreplan.jpg" data-fancybox="ritningar" data-caption="Övre plan">
-        <img class="" src="../img/halmhus/ovreplan.jpg" alt="Övre plan" />
+      <a href="../img/halmhus/ovreplan.png" data-fancybox="ritningar" data-caption="Övre plan">
+        <img class="" src="../img/halmhus/ovreplan-thumb.png" alt="Övre plan" />
       </a>
     </div>
   </div>
   <div class="section container">
     <div class="col--12">
-      <a href="../img/halmhus/collage.jpg" data-fancybox="ritningar" data-caption="Kollage">
-        <img class="" src="../img/halmhus/collage.jpg" alt="collage" />
+      <a href="../img/halmhus/collage.png" data-fancybox="ritningar" data-caption="Kollage">
+        <img class="" src="../img/halmhus/collage-thumb.png" alt="collage" />
       </a>
     </div>
   </div>
 
-  <div class="section container">
+  <div id="sektion-grund" class="section container">
     <div class="col--6">
       <h2 id="grund">GRUND MED SKUMGLAS</h2>
       <p>135 m3 skumglas är ganska mycket skumglas, men packat är det en yta på ca 150 m2 och ca 70 cm djupt. Skumglas är en restprodukt som är både isolerande och kapillärbrytande. En bra grej är också att man inte behöver lägga i allt som ska vara i grunden direkt utan kan vänta till man har bestämt sig kring det. Skumglaset går nämligen hyfsat enkelt att gräva i, trots att det är packat, i alla fall enklare än en betongplatta. Passar bra för oss som ser ritningen mer som en idéskiss än som ett faktum…. </p>
       <p>Under varje resare (alltså stående stockar) finns en betongplint. För att få upp halmen från fukt och regn på marken så har vi murat en syll av lecablock och natursten under alla ytterväggar. På syllen har vi lagt en tjärpapp för att förhindra att fukt kryper uppåt i konstruktionen.</p>
     </div>
-    <div class="col--6">
+    <div class="col--6 lessons">
       <h2>LÄRDOMAR</h2>
-      <p>Bygg alla plintar EXAKT lika höga och några centimeter under färdigt golv, annars finns risk att det blir fina badkar till stockarna som står på dom. Höjden är bra att ha samma eftersom det blir lättare att räkna ut höjden på resarna då.</p><p>Tro inte att du kan skydda trät med tjärpapp, står stockarna ute i regn kommer det bara kapsla in fukten.</p>
-      <img class="" src="../img/halmhus/syll2.jpg" alt="syll" />
+      <ul>
+        <li><span class="h3">1.</span><p class="col--10">Bygg alla plintar EXAKT lika höga och några centimeter under färdigt golv, annars finns risk att det blir fina badkar till stockarna som står på dem. Höjden är bra att ha samma eftersom det blir lättare att räkna ut höjden på resarna då.</p></li>
+        <li><span class="h3">2.</span><p class="col--10">Tro inte att du kan skydda trät med tjärpapp, står stockarna ute i regn kommer det bara kapsla in fukten.</p></li>
+      </ul>
     </div>
   </div>
 <div class="section container">
   
    
-  <div class="col--12">
-    <img class="" src="../img/halmhus/skumglas.png" alt="skumglas" />
-    <br/>
-  </div>
   <div class="col--6">
-    <img class="" src="../img/halmhus/plint.png" alt="plint" />
+    <a href="../img/halmhus/skumglas.png" data-fancybox="skumglas" data-caption="Skumglas">
+      <img class="" src="../img/halmhus/skumglas-thumb.png" alt="skumglas" />
+    </a>
+    <br/>
+    <a href="../img/halmhus/plint.jpg" data-fancybox="skumglas" data-caption="Plint">
+      <img class="" src="../img/halmhus/plint-thumb.png" alt="plint" />
+    </a>
+    <br/>
+    <a href="../img/halmhus/syll2.png" data-fancybox="skumglas" data-caption="Syll">
+      <img class="" src="../img/halmhus/syll2-thumb.png" alt="syll" />
+    </a>
   </div> 
   <div class="col--6">
-    <img class="" src="../img/halmhus/syll.png" alt="syll" />
+    <a href="../img/halmhus/syll.jpg" data-fancybox="skumglas" data-caption="Syll">
+      <img class="" src="../img/halmhus/syll.jpg" alt="syll" />
+    </a>
+  </div>
+</div>
+
+<div id="sektion-rundtimmer" class="section container">
+  <div class="col--6">
+    <h2>ATT BYGGA MED RUNDTIMMER OCH HA EN STOR EK I VARDAGSRUMMET</h2>
+    <p>Bygget började egentligen januari 2014 med att vi tog ner stockar i skogen som vi sedan ägnade sommaren åt att barka. Vi ville bygga med rundtimmer för att vi vill ha en synlig timmerkonstruktion på insidan och vi ville komma åt det naturliga med att se de runda stockarna. Eftersom vi har egen skog blev det också ett sätt att använda lokala byggmaterial i huset. Första sommaren barkade vi över 1 km stock! </p>
+    <p>Väggkonstruktionerna har vi rest och satt ihop för hand. De tyngsta stockarna vägde över 200 kg, men vi är ganska starka. </p>
+    <h3>Eken</h3>
+    <p>En tidig idé var att ha ett träd inomhus, det tog lång tid innan vi kom fram till vilket träd men till slut bestämde vi oss för en ek på gården. Eken stod i en hage ihop med nio andra stora ekar och alldeles för många björkar för att må bra. Så när vi tog ner eken passade vi på att gallra och ta bort björkarna så att resterande ekar trivs bättre. Eken till huset är ca 100 år gammal och väger nästan 6 ton. Grenarna var över sju meter långa. Som tur var så var frakten bara några hundra meter. </p>
+    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fverklighetensgard%2Fvideos%2F1612467465688516%2F&show_text=0&width=560" width="100%" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+    <br/>
+    <a href="../img/halmhus/timmerknut.png" data-fancybox="rundtimmer" data-caption="Timmerknut">
+      <img class="" src="../img/halmhus/timmerknut-thumb.png" alt="timmerknut" />
+    </a>
+  </div>
+  <div class="col--6 lessons">
+  <h2>LÄRDOMAR</h2>
+  <ul>
+    <li><span class="h2">1.</span><p class="col--10">Det tar tid att barka, lättast gör man genom att barka färskt virke med en barkspade eller barkkniv beroende på grovlek på barken och sedan högtryckstvätta för att få bort underbarken som annars blir ganska ful när den torkar. </p></li>
+    <li><span class="h2">2.</span>
+    <p class="col--10">Stockar som har torkat väger inte alls lika mycket som färska!</p></li>
+    <li><span class="h2">3.</span>
+    <p class="col--10">Stockar som ligger ute för länge blir dåligt, vi har fått kasta en del tunnare timmer som legat ute i två år.</p></li>
+    <li><span class="h2">4.</span>
+    <p class="col--10">Om du ska flytta en ek som har grenar på över sju meter, var noga med att kontrollera eventuella luftledningar längs med vägen.</p></li>
+  </ul>
+    <a href="../img/halmhus/teklabarkar.jpg" data-fancybox="rundtimmer" data-caption="Barkning pågår">
+      <img class="" src="../img/halmhus/teklabarkar.jpg" alt="Barkning" />
+    </a>
   </div>
 </div>
 
 <div class="section container">
-  <div class="col--6">
-    <h2>ATT BYGGA MED RUNDTIMMER OCH HA EN STOR EK I VARDAGSRUMMET</h2>
-    <p>Bygget började egentligen januari 2014 med att vi tog ner stockar i skogen som vi sedan ägnade sommaren åt att barka. Vi ville bygga med rundtimmer för att vi vill ha en synlig timmerkonstruktion på insidan och vi ville komma åt det naturliga med att se de runda stockarna. Eftersom vi har egen skog blev det också ett sätt att använda lokala byggmaterial i huset. Första sommaren barkade vi över 1 km stock! </p>
-    <p>Väggkonstruktionerna har vi rest och satt ihop för hand. Dom tyngsta stockarna vägde över 200 kg, men vi är ganska starka. </p>
-    <p>En tidig idé var att ha ett träd inomhus, det tog lång tid innan vi kom fram till vilket träd men till slut bestämde vi oss för en ek på gården. Eken stod i en hage ihop med nio andra stora ekar och alldeles för många björkar för att må bra. Så när vi tog ner eken passade vi på att gallra och ta bort björkarna så att resterande ekar trivs bättre. Eken till huset är ca 100 år gammal och väger nästan 6 ton. Grenarna var över sju meter långa. Som tur var så var frakten bara några hundra meter. </p>
-Länk till filmen på trädflytten
+  <div class="col--12">
+    <a href="../img/halmhus/spaning.png" data-fancybox="rundtimmer" data-caption="Per och Kasper spanar in huset.">
+      <img class="" src="../img/halmhus/spaning-thumb.png" alt="Spaning" />
+    </a>
   </div>
+</div>
+
+<div id="sektion-rundhustak" class="section container">
   <div class="col--6">
-  <h2>LÄRDOMAR</h2>
-  <h3>1</h3>Det tar tid att barka, lättast gör man genom att barka färskt virke med en barkspade eller barkkniv beroende på grovlek på barken och sedan högtryckstvätta för att få bort underbarken som annars blir ganska ful när den torkar. 
-  <h3>2</h3>
-  Stockar som har torkat väger inte alls lika mycket som färska!
-  <h3>3</h3>
-  Stockar som ligger ute för länge blir dåligt, vi har fått kasta en del tunnare timmer som legat ute i två år.
-  <h3>4</h3>
-  Om du ska flytta en ek som har grenar på över sju meter, var noga med att kontrollera eventuella luftledningar längs med vägen.
+    <h2>SJÄLVBÄRANDE RUNDHUSTAK</h2>
+    <p>Den bärande konstruktionen i taket påminner om en klassisk indian-tipi, men med mycket flackare vinkel. Takstockarna stöttar varandra och konstruktionen bygger på att varje takstock bär upp nästa i cirkeln.  Den stora eken i mitten bär alltså inte upp någon vikt av taket utan står helt fritt och bär endast upp golvet på balkongen. Vi inspirerades tidigt av den här typen av tak och det är en stor anledning till att huset blev runt. Till taket kom vi överens om att det inte var fusk att hyra en lyftkran, så vi hyrde en lite smidig sak som lätt kunde lyfta upp takstockarna. </p>
+    <a href="../img/halmhus/rundhustak2.jpg" data-fancybox="rundhustak" data-caption="Barkning pågår">
+      <img class="" src="../img/halmhus/rundhustak2.jpg" alt="Barkning" />
+    </a>
   </div>
 
+  <div class="col--6 lessons">
+  <h2>LÄRDOMAR SJÄLVBÄRANDE TAK</h2>
+  <ul>
+    <li><span class="h2">1.</span><p class="col--10">Det blir sjukt snyggt, gör det. </p></li>
+    <li><span class="h2">2.</span>
+    <p class="col--10">Man får panik av att taket sjunker när man lägger på vikt, men det är helt naturligt och slutar när det sjunkit klart.  </p></li>
+    <li><span class="h2">3.</span>
+    <p class="col--10">Att hyra en lyftkran är klart värt pengarna.</p></li>
+  </ul>
+  <br/>
+    <a href="../img/halmhus/lyftkran.jpg" data-fancybox="rundhustak" data-caption="Lyftkranen hjälper till med taket.">
+      <img class="" src="../img/halmhus/lyftkran.jpg" alt="Lyftkran" />
+    </a>
+  </div>
+</div>
+</div>
+
+<div class="section container">
+  <div class="col--12">
+    <a href="../img/halmhus/rundhustak1.png" data-fancybox="rundhustak" data-caption="Så här ser nocken ut på ett rundhustak.">
+      <img class="" src="../img/halmhus/rundhustak1-thumb.png" alt="Rundhustak" />
+    </a>
+  </div>
+</div>
+
+<div id="sektion-halmväggar" class="section container">
+  <div class="col--6">
+    <h2>VÄGGAR I HALM</h2>
+    <p>Vi kände innan att vi inte hade riktigt koll på detta med själva halmen så därför flög vi in några experter från <a href="http://www.strohnatur.at/">StrohNatur</a>. Vilket i efterhand kändes som ett väldigt bra beslut, att bygga med halm är i och för sig inte sådär väldigt svårt men det finns många saker som kan gå fel om man inte har kunskaper kring det, som det är med alla sätt att bygga. Vi gjorde till exempel om hela vår tanke kring isoleringen i taket baserat på deras kunskaper, vilket även gjorde att vi fick en massa extra jobb men i slutändan en bättre takkonstruktion kopplat till isoleringen. </p>
+    <h3>Halmbalarna</h3>
+    <p>Man kan få för sig att halm till halmhus är någon specialhalm och att den ska förvaras på något särskilt sätt. Men såhär i efterhand tycker vi att det mest handlar om att lukta, känna och fundera. T.ex. om halmen luktar illa så bygg inte med den, eller ta bort den om du redan har byggt med den. Om du kan rucka på en halmbal med händerna så sitter den inte fast tillräckligt hårt. Om du kan ta en näve halm i en bal och rycka loss den så är balen inte tillräckligt hårt packad. Vi har använt vanliga småbalar som inte är packade speciellt för att bygga med, balarna har varierat i storlek och kvalité. Klart att detta gör att arbetet tar lite längre tid, men det går. Har man möjlighet att beställa storlek på balar är ju det perfekt men om man inte har det så går det att lösa. Vi använde även balar som legat tio år på en skulle, det gick bra det också. </p>
+    <h3>Glöm inte reglarna</h3>
+    <p>Andra saker som vi känner är självklara i efterhand är t.ex. om du vill hänga grejer på väggarna inomhus så se till att du bygger in reglar i väggen. Det samma gäller utvändigt; vill du ha panel på huset? Se till att det finns något att fästa den i. Vi gick lite i fällan att trä skapar köldbryggor, alltså bör man ha så lite trä som möjligt i sin konstruktion och därför känner att vi saknar reglar på vissa ställen. </p>
+    <a href="../img/halmhus/halmning1.jpg" data-fancybox="halmning" data-caption="Bra att hjälpas åt vid halmningen!">
+      <img class="" src="../img/halmhus/halmning1.jpg" alt="Halmning" />
+    </a>
+  </div>
+  <div class="col--6">
+    <br/>
+    <h3>CUT - Cells Under Tension</h3>
+    <p>Det finns lite olika metoder för att få en stadig halmvägg, och den vi valde kallas för CUT (Cells Under Tension). I korthet så pressar man in balarna mellan stående plank, och varje lager pressas ner med en tunn läkt som man fäster i plankorna. Detta bilder ett tunt fackverk som pressar balarna från alla håll.</p>
+
+    <p>När väggen väl är på plats så kan den vara ganska ojämn och ”luddig”. Då kan man gå över den med en häcksax för att snagga halmen så den blir jämn och stabil för att putsa på.</p>
+    <div class="lessons">
+      <h2>LÄRDOMAR VÄGGAR I HALM</h2>
+      <ul>
+        <li><span class="h2">1.</span><p class="col--10">Använd inte fleetröja… </p></li>
+        <li><span class="h2">2.</span><p class="col--10">Använd handskar, halmflisor under naglarna är lite obehagligt.. </p></li>
+        <li><span class="h2">3.</span><p class="col--10">Se till att ha ett tätt tak. Om trots allt presenningar används, håll uppkik efter hål där vatten samlas och rinner igenom.</p></li> 
+        <li><span class="h2">4.</span><p class="col--10">Lite vatten på väggen är inte farligt, mycket vatten under längre tid och ovanifrån är en dålig idé. </p></li>
+        <li><span class="h2">5.</span><p class="col--10">Det är väldigt svårt att riva en färdigputsad halmbalsvägg.</p></li>
+      </ul>
+    </div>
+    <a href="../img/halmhus/horn.jpg" data-fancybox="halmning" data-caption="Såhär ser ett hörn ut.">
+      <img class="" src="../img/halmhus/horn.jpg" alt="Hörn" />
+    </a>
+  </div>
 </div>
 
 
 
+<div id="sektion-kalkputs" class="section container">
+  <div class="col--6">
+    <h2>KALK OCH LERPUTS</h2>
+    <p>Med i gänget från StrohNatur var även Marta och Manos från <a href="http://www.minoeco.com/en/">Minoeco</a> som kan mycket om klassisk Grekisk kalkputsning, och med deras hjälp blandade vi vårt eget kalkbruk istället för att köpa färdigblandat. Vi tycker själva att resultatet är fantastisk, men en snygg naturvit kulör som kommer hålla många år.</p>
+
+    <p>Många andra halmbyggare som vi har pratat med i Sverige putsar husets utsida med lera först, och sedan ett ytligt lager kalkputs för att skydda leran mot väder och vind. Vi har istället valt bara kalkputs utvändigt. En anledning till att det inte är så vanligt skulle kunna vara priset. Vi köpte 2-årig våtsläckt kalk på hinkar från Skåne. Men vi fick senare veta att vi hade betalat nästa 10 gånger priset jämfört med Grekland, eller till och med Tyskland. Å andra sidan så blev det ju i alla fall lite mer lokalproducerat.</p>
+    <h3>Tadelakt</h3>
+    <p>Som tätskikt i badrummet kommer vi troligen använda oss av tadelakt, <a href="https://en.wikipedia.org/wiki/Tadelakt">se wiki</a>, som är ett sätt att behandla kalkputsen med olivolja som gör att alla porer stängs, man förvandlar helt enkelt putsen till en hård, slät och vattentät yta som blir fantastiskt vacker. </p>
+
+    <p>Just nu har vi två lager kalkputs på i stort sett all yta som ska kalkas, i sommar (2017) kommer vi fortsätta med putsen och även lerputsen inomhus.</p>
+  </div>
+  <div class="col--6 lessons">
+    <h2>LÄRDOMAR PUTS</h2>
+    <ul>
+      <li><span class="h2">1.</span><p class="col--10">Även här hur många som helst, men en viktig sak, kom ihåg att fukta ytan innan nästa lager.. annars finns risk att kalken lossnar när den torkar och har suttit ett tag.</p></li>
+      <li><span class="h2">2.</span><p class="col--10">Använd skyddsglasögon och skyddskläder! Kalkputs är frätande och inte bra att få i ögonen eller ha för lång tid på huden. </p></li>
+    </ul>
+    <a href="../img/halmhus/putsning.png" data-fancybox="halmning" data-caption="Här putsas väggarna med första lagret lera.">
+      <img class="" src="../img/halmhus/putsning.png" alt="Putsning" />
+    </a>
+  </div>
+</div>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div class="section container">
+  <div class="col--6">
+    Tack till Manos och Marta från <a href="http://www.minoeco.com/en/">Minoeco</a> för bilder på halmning och putsning.
+  </div>
+</div>
 
 
 <?php include('footer.php'); ?>

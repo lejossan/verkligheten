@@ -47,6 +47,7 @@ table {
 
 /* FONTS */
 /* COLORS */
+/* IMAGES */
 /* MIXINS */
 .section:after {
   content: "";
@@ -196,10 +197,9 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: 2em;
-  line-height: 2.2em; }
+  line-height: 1.2em; }
 
 h3, .h3 {
-  color: #F6F6F6;
   font-size: 1.4em; }
 
 p {
@@ -236,6 +236,10 @@ a {
   .section.white {
     background-color: #FFFFFF; }
 
+.list span {
+  margin-right: 10px;
+  line-height: inherit; }
+
 img, iframe {
   display: block;
   margin-left: auto;
@@ -258,7 +262,8 @@ iframe {
 .menu {
   padding: 0 15px;
   height: 50px;
-  background-color: #666666; }
+  background-color: #666666;
+  color: #F6F6F6; }
   .menu ul {
     vertical-align: middle; }
     .menu ul li {
@@ -319,9 +324,9 @@ iframe {
     background-position: 0 60%; }
 
 .imagewrapper--big h1 {
-  top: 5em; }
+  top: 4.5em; }
 .imagewrapper--big .header-image {
-  height: 650px; }
+  height: 550px; }
 .imagewrapper--medium .header-image {
   height: 450px; }
 .imagewrapper--small h1 {
@@ -356,5 +361,25 @@ iframe {
     margin: 15px 0; }
   #footer .second {
     margin-top: 15px; }
+
+.index {
+  background: #9C7B7B;
+  padding: 15px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  color: #FFFFFF;
+  text-align: left;
+  float: left; }
+  .index li {
+    margin: 15px 0; }
+  .index a {
+    color: #FFFFFF;
+    text-decoration: none; }
+
+.lessons span {
+  display: inline-block;
+  margin-top: 15px;
+  margin-right: 15px; }
 
 /*# sourceMappingURL=styles.css.map */

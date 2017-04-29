@@ -12,7 +12,7 @@
       <li class="h3"><a href="halmhus.php">HALMHUS</a></li>
       <li class="h3"><a href="sakersomhander.php">SAKER SOM HÄNDER</a></li>
       <li class="h3"><a href="folkochfa.php">FOLK & FÄ</a></li>
-      <li class="h3"><a href="#kontakt">KONTAKT</a></li>
+      <li class="h3"><a href="#footer">KONTAKT</a></li>
       </ul>
   </div>
 
@@ -25,7 +25,7 @@
     </div> 
     <div class="col--6">
       <p>Till hösten slaktas lammen på ett litet slakteri, vi kör själva dit och lämnar över direkt till slaktaren. Stressen blir därför minimal för djuren. Köttet styckas, om så önskas, annars kan man få lammet ostyckat och göra det själv. Önskas inälvsmat eller andra delar som normalt inte tas tillbaka, säg till innan slakt så ordnar vi det. </p>
-      <img src="img/teklaochlamm.png" alt="Tekla och lamm" />
+      <img src="img/tackalamm.png" alt="Tacka och lamm" />
     </div>
   </div>
 

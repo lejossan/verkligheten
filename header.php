@@ -8,10 +8,13 @@
   <meta name="description" content="Verkligheten är en familjegård där vi bygger upp en liten verksamhet med fokus på småskalighet, äkthet och välkomnande.">
   <meta name="author" content="Verklighetens Gård">
   
-  <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
-  <script src="https://use.fontawesome.com/d84dbab98e.js"></script>
+  
   <link rel="stylesheet" href="css/styles.css?v=1.0">
+  <link rel="stylesheet" href="css/jquery.fancybox.min.css">
   <link href="https://fonts.googleapis.com/css?family=Amatica+SC|Raleway:200" rel="stylesheet">
+
+  <script src="https://use.fontawesome.com/d84dbab98e.js"></script>
+  
   <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
   <![endif]-->

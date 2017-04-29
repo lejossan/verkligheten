@@ -70,14 +70,14 @@
 .imagewrapper{
   &--big {
     h1{
-      top: 5em;
+      top: 4.5em;
     }
     .header-image{
-      height: 650px;
+      height: $big;
     }
   }
   &--medium .header-image{
-    height: 450px;
+    height: $medium;
   }
   &--small {
     h1 {
@@ -86,7 +86,7 @@
       left: 70%;
     }
     .header-image{
-      height: 350px;
+      height: $small;
     }
   }
 }
