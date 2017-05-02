@@ -27,11 +27,8 @@
   </ul>
   <div class="section container">
     <div class="col--6 ">
-      <h2>DET RUNDA HALMHUSET</h2>
-
-      <p>Vi ville bygga ett hus, på riktigt och från grunden. Det skulle vara ett hus som är miljövänligare och med mindre kemikalier, både i byggskedet och när vi bor i det. Här har vi försökt att förklara lite hur vi har gjort och vad vi har lärt oss hittills. Eftersom vi inte är färdiga än kommer vi fylla på allt eftersom. Du kan också följa bygget på vår <a class="readmore" href="www.facebook.com/verklighetensgard">Facebook sida</a></p>
-
-
+      <h2>HALMHUSET FRÅN VERKLIGHETEN</h2>
+      <p>Vi ville bygga ett hus, på riktigt och från grunden. Det skulle vara ett hus som är miljövänligare och med mindre kemikalier, både i byggskedet och när vi bor i det. Vi ville också ha ett hus som smälte in i naturen där det befinner sig, och ett hus som inte är som alla andra. Vi har Här har vi försökt att förklara lite hur vi har gjort och vad vi har lärt oss hittills. Eftersom vi inte är färdiga än kommer vi fylla på allt eftersom. Vår plan är att flytta in till julen 2018, vi får väl se hur det går med den saken.</p>
     </div>
   </div>
 
@@ -39,16 +36,27 @@
     <div class="col--6">
       <h2>PLANERING & RITNING</h2>
       <p>Efter lite funderande beslöt oss vi för att bygga ett hus med en stomme av timmer och med halmbalar som isolering. Vi trodde också att det skulle bli billigare och vara enklare än att bygga ett vanligt hus, men så här halvvägs in i projektet kan vi inget annat än konstatera att det var helt fel! </p>
-      <h3>Skafferi & Entré</h3>
-      <p>Vi har designat huset själva och lagt in saker som vi tycker är viktiga. Eftersom vi, så småningom, vill odla mycket av vår mat själva har huset stora skafferier, ett varmt och ett kallt. I huset finns en grovéntre, vilket vi tror alla som bor på landet ser som en nödvändighet i vardagen. Där kommer vi även ha en diskbänk och i planen finns även en gallersektion precis innanför dörren för alla smutsig stövlar, vi får väl se om den blir verklighet.</p>
+      <p>Vi har ritat huset själva utifrån de behov och tankar som vi har. Det gör kanske att vi har gått på en del “designmissar” men det blir i alla fall våra missar! Det här gör också att huset växer fram under tiden vi bygger. Vi vet inte alla lösningar än och med tiden så förändras en del både i konstruktion och utseende. Vi har t.ex. valt bort det stora glastaket över allrummet, anledningen var att det blev betydligt dyrare än tänkt. Eftersom vi även har köpt de flesta dörrar och en del fönster begagnade varierar mått och utseende på dessa. </p>
+      <p>För att bygga ett hus på detta sätt, i stort sett helt själva och lösa de flesta problem längs med vägen, krävs förkunskap. Vi har tidigare renoverat en hel del och har dessutom väldigt mycket kunskap inom familjen. Men även om ni inte har det, var inte rädda för att testa, men räkna med att det tar lång tid, många moment faller inom kategorin “gör om gör rätt” och det blir alltid dyrare än planerat! En god idé kan ju vara att börja med uthuset, för att testbygga och göra de flesta misstagen där. </p>
+      <h3>Bygglovsprocess för halmbalshus</h3>
+      <p>Många frågar oss om hur hur svårt det var att få bygglov, vårt svar är inte alls svårt. Vi pratade med byggkontoret väldigt tidigt i processen för att stämma av vilka dokument som behövdes och vilka andra krav som finns. Kom ihåg att de krav som finns i plan och bygglagen till stor del är för att få till ett bra hus för de som ska bo i det och det är ju inte direkt motsträvigt med vårt syfte. Att ha tänkt till angående handikappanpassning kan ju kännas smart om man råkar ut för en olycka, det behöver ju inte vara allvarligare än att man bryter ett ben! </p>
+      <p>Men det är klart, bygglovsprocessen är inte riktigt gjord för oss självbyggare men heller inte så avancerat att anpassa sig till. </p>
+      <h3>Grästak och taköverhäng till marken</h3>
+      <p>Vi vill ha ett hus som upptäcks ju mer besökare närmar sig det, vi har därför designat det på ett sätt som gör att entrédörren hittas genom ett hål i  marken. Innanför dörren öppnar huset upp sig och från trädgården är huset istället stort med en stor fasad. Runt de delar av huset som inte är mot trädgården finns ett långt taköverhäng som på ena sidan går ner i marken, vilket gör att huset från den sidan mer kommer se ut som en kulle. </p>
+      <p>Vi har även valt olika fasad på olika delar av huset, den största delen är kalkputsad men på de delar som är “under kullen” kommer vi istället ha okantad lockpanel. Anledningen är att vi tycker det är kul när det händer saker längs med huset och att det finns många saker att upptäcka. </p>
+
     </div>
     <div class="col--6 ">
-    <br/>
+    <br/><br/>
+      <p>På taket kommer det växa gräs, tätskicktet kommer vara en EPDM duk över de delar som är hus och takpapp över de delar som enbart är taköverhäng. Anledningen till det är att det finns många kronor att spara på att minimera EPDM duken och att taköverhänget är väldigt stort. Blir det läckage där kommer det dessutom att kunna upptäckas och åtgärdas direkt och de delarna är även betydligt större lutning på. En avvägning baserat på risk och kostnad alltså. </p>
+      <h3>Skafferi, entré & allrum</h3>
+      <p>Eftersom vi, så småningom, vill odla mycket av vår mat själva har huset stora skafferier, ett varmt och ett kallt. I huset finns en grovéntre, vilket vi tror alla som bor på landet ser som en nödvändighet i vardagen. Där kommer vi även ha en diskbänk och i planen finns även en gallersektion precis innanför dörren för alla smutsig stövlar, vi får väl se om den blir verklighet.</p>
       <p>Det stora rummet är väl tilltaget och har plats för kök, matplats, soffa och finentré. Rummet har stora fönster och stora glasdörrar som på sommaren kan stå öppna för att sudda ut gränser för vad som är inne och ute. Vi funderade ett tag även på att variera golvmaterialen så att stenläggningen ute går en bit in i rummet, men vi kanske skippar det, vi får se!
       </p>
-      <h3>Badrum</h3>
-      <p>I badrummet finns en låg dubbeldörr som leder ut, för där vill vi ha ett badkar till så vi kan sitta ute och bada även när vi inte orkar elda upp i badtunnan! </p>
-      <p>Planen är att vi ska vara inflyttade julen 2018, färdigt blir det nog aldrig men det blir väl inga hus! </p>
+      <h3>Badrum & tadelakt</h3>
+      <p>I badrummet finns en låg dubbeldörr som leder ut, för där vill vi ha ett badkar till så vi kan sitta ute och bada även när vi inte orkar elda upp i badtunnan! I badrummets yttervägg har vi inga halmbalar utan lecasten som är kalkputsade. Anledningen till det är att vi vill bygga ett badrum utan tätskikt och ett bra sätt att göra det på är att se till att de material som kan riskera att bli fuktiga tål vatten och fukt. På de mest utsatta ställena kommer vi troligtvis använda oss av tadelakt, <a href="https://sv.wikipedia.org/wiki/Tadelakt">se wiki</a>, som är ett sätt att behandla kalkputsen med olivolja som gör att alla porer stängs, man förvandlar helt enkelt putsen till en hård, slät och vattentät yta som blir fantastiskt vacker.</p>
+      <h3>Sovrum & tvättstuga</h3>
+      <p>Eftersom vi tycker att det här med att bära smutstvätt är rätt trist har vi funderat ut en planritning så att alla sovrum har kontakt med tvättstugan, det gör att man kan ha tvättnedkast direkt till tvättstugan istället för tvättkorgar! Våra garderober hamnar dessutom så att tvätt kan, genom en lucka, placeras direkt in i garderoberna istället för att bäras omkring. Vi får väl se hur det i slutändan blir med detta, men det är planen! </p>
     </div>
   </div>
 
@@ -104,7 +112,7 @@
   </div> 
   <div class="col--6">
     <a href="../img/halmhus/syll.jpg" data-fancybox="skumglas" data-caption="Syll">
-      <img class="" src="../img/halmhus/syll.jpg" alt="syll" />
+      <img class="" src="../img/halmhus/syll-thumb.png" alt="syll" />
     </a>
   </div>
 </div>
@@ -133,7 +141,7 @@
     <li><span class="h2">4.</span>
     <p class="col--10">Om du ska flytta en ek som har grenar på över sju meter, var noga med att kontrollera eventuella luftledningar längs med vägen.</p></li>
   </ul>
-  <br/>
+  <br/><br/>
     <a href="../img/halmhus/teklabarkar.jpg" data-fancybox="rundtimmer" data-caption="Barkning pågår">
       <img class="" src="../img/halmhus/teklabarkar.jpg" alt="Barkning" />
     </a>
@@ -153,7 +161,7 @@
     <h2>SJÄLVBÄRANDE RUNDHUSTAK</h2>
     <p>Den bärande konstruktionen i taket påminner om en klassisk indian-tipi, men med mycket flackare vinkel. Takstockarna stöttar varandra och konstruktionen bygger på att varje takstock bär upp nästa i cirkeln.  Den stora eken i mitten bär alltså inte upp någon vikt av taket utan står helt fritt och bär endast upp golvet på balkongen. Vi inspirerades tidigt av den här typen av tak och det är en stor anledning till att huset blev runt. Till taket kom vi överens om att det inte var fusk att hyra en lyftkran, så vi hyrde en lite smidig sak som lätt kunde lyfta upp takstockarna. </p>
     <a href="../img/halmhus/rundhustak2.jpg" data-fancybox="rundhustak" data-caption="Barkning pågår">
-      <img class="" src="../img/halmhus/rundhustak2.jpg" alt="Barkning" />
+      <img class="" src="../img/halmhus/rundhustak2-thumb.png" alt="Barkning" />
     </a>
   </div>
 
@@ -185,7 +193,7 @@
 <div id="sektion-halmväggar" class="section container">
   <div class="col--6">
     <h2>VÄGGAR I HALM</h2>
-    <p>Vi kände innan att vi inte hade riktigt koll på detta med själva halmen så därför flög vi in några experter från <a href="http://www.strohnatur.at/">StrohNatur</a>. Vilket i efterhand kändes som ett väldigt bra beslut, att bygga med halm är i och för sig inte sådär väldigt svårt men det finns många saker som kan gå fel om man inte har kunskaper kring det, som det är med alla sätt att bygga. Vi gjorde till exempel om hela vår tanke kring isoleringen i taket baserat på deras kunskaper, vilket även gjorde att vi fick en massa extra jobb men i slutändan en bättre takkonstruktion kopplat till isoleringen. </p>
+    <p>Vi kände innan att vi inte hade riktigt koll på detta med själva halmen så därför anlitade vi experter från <a href="http://www.strohnatur.at/">StrohNatur</a>. Vilket i efterhand kändes som ett väldigt bra beslut, att bygga med halm är i och för sig inte sådär väldigt svårt men det finns många saker som kan gå fel om man inte har kunskaper kring det, som det är med alla sätt att bygga. Vi gjorde till exempel om hela vår tanke kring isoleringen i taket baserat på deras kunskaper, vilket även gjorde att vi fick en massa extra jobb men i slutändan en bättre takkonstruktion kopplat till isoleringen. </p>
     <h3>Halmbalarna</h3>
     <p>Man kan få för sig att halm till halmhus är någon specialhalm och att den ska förvaras på något särskilt sätt. Men såhär i efterhand tycker vi att det mest handlar om att lukta, känna och fundera. T.ex. om halmen luktar illa så bygg inte med den, eller ta bort den om du redan har byggt med den. Om du kan rucka på en halmbal med händerna så sitter den inte fast tillräckligt hårt. Om du kan ta en näve halm i en bal och rycka loss den så är balen inte tillräckligt hårt packad. Vi har använt vanliga småbalar som inte är packade speciellt för att bygga med, balarna har varierat i storlek och kvalité. Klart att detta gör att arbetet tar lite längre tid, men det går. Har man möjlighet att beställa storlek på balar är ju det perfekt men om man inte har det så går det att lösa. Vi använde även balar som legat tio år på en skulle, det gick bra det också. </p>
     <h3>Glöm inte reglarna</h3>
@@ -211,21 +219,31 @@
       </ul>
     </div>
     <a href="../img/halmhus/horn.jpg" data-fancybox="halmning" data-caption="Såhär ser ett hörn ut.">
-      <img class="" src="../img/halmhus/horn.jpg" alt="Hörn" />
+      <img class="" src="../img/halmhus/horn-thumb.png" alt="Hörn" />
+    </a>
+  </div>
+</div>
+<div class="section container">
+  <div class="col--12">
+    <a href="../img/halmhus/halmning.jpg" data-fancybox="halmning" data-caption="Här syns CUT konstruktionen tydligt.">
+      <img class="" src="../img/halmhus/halmning.jpg" alt="Halmning" />
     </a>
   </div>
 </div>
 
 
-
 <div id="sektion-kalkputs" class="section container">
   <div class="col--6">
     <h2>KALK OCH LERPUTS</h2>
-    <p>Med i gänget från StrohNatur var även Marta och Manos från <a href="http://www.minoeco.com/en/">Minoeco</a> som kan mycket om klassisk Grekisk kalkputsning, och med deras hjälp blandade vi vårt eget kalkbruk istället för att köpa färdigblandat. Vi tycker själva att resultatet är fantastisk, men en snygg naturvit kulör som kommer hålla många år.</p>
+    <p>Halmväggarna putsas med lera på insidan och kalk på utsidan. Anledningen till att inte använda lera på utsidan är att den inte tål vatten, då rinner den bort. Detta  kan även lösas genom att ha riktigt långa taköverhäng, men vi valde kalk på utsidan istället. På vissa delar av fasaden har vi istället träpanel med en vindpapp under. </p>
+    
+    <h3>Eget lerbruk</h3>
+    <p>Leran tar vi från vår egen mark. Vi märkte att den leran vi har här är väldigt fin och av mycket bra kvalité. Eftersom ren lera spricker när den torkar blandas den med sand innan väggarna lerklinas. En nackdel med sanden är att ju mer sand som används desstu porösare blir väggen, målet är alltså att använda så lite sand som möjligt.  Vi har gjort tester och konstaterar att det räcker att blandar den 1:1 med sand för att den inte ska spricka, vilket tydligen är väldigt bra. </p>
 
-    <p>Många andra halmbyggare som vi har pratat med i Sverige putsar husets utsida med lera först, och sedan ett ytligt lager kalkputs för att skydda leran mot väder och vind. Vi har istället valt bara kalkputs utvändigt. En anledning till att det inte är så vanligt skulle kunna vara priset. Vi köpte 2-årig våtsläckt kalk på hinkar från Skåne. Men vi fick senare veta att vi hade betalat nästa 10 gånger priset jämfört med Grekland, eller till och med Tyskland. Å andra sidan så blev det ju i alla fall lite mer lokalproducerat.</p>
-    <h3>Tadelakt</h3>
-    <p>Som tätskikt i badrummet kommer vi troligen använda oss av tadelakt, <a href="https://en.wikipedia.org/wiki/Tadelakt">se wiki</a>, som är ett sätt att behandla kalkputsen med olivolja som gör att alla porer stängs, man förvandlar helt enkelt putsen till en hård, slät och vattentät yta som blir fantastiskt vacker. </p>
+    <p>Samtliga ytterväggar och tak inomhus kommer att lerklinas. Innerväggarna är vi inte säkra på än men kommer troligen vara en mix av “vanliga” regelväggar och olika typer av lerväggar, lite beroende på omständigheter som vart i huset väggen är, hur mycket som ska fästas på den och om den ska vara rak eller böjd. </p>
+
+    <h3>Kalk på ytterväggar</h3>
+    <p>Tillsammans med StrohNatur var även <a href="http://www.minoeco.com/en/">Minoeco</a> som är duktiga på kalkputs. På deras inrådan blandade vi vårt eget kalkbruk istället för att köpa en färdig mix. Vi tycker själva att resultatet är fantastisk, med en snygg naturvit kulör som kommer hålla många år. Väggarna ska putsas med minst tre lager puts. Putsningen är kul men lite trixig, det är inte så svårt att komma igång men tar ett tag innan man får in snitsen. </p>
 
     <p>Just nu har vi två lager kalkputs på i stort sett all yta som ska kalkas, i sommar (2017) kommer vi fortsätta med putsen och även lerputsen inomhus.</p>
   </div>
@@ -242,11 +260,11 @@
 </div>
 
 
-
 <div class="section container">
   <div class="col--6">
+  <h3>Vidare arbete</h3>
     <p>Vi kommer att fylla på den här sidan under hela bygget men för att få det senaste är det bäst att kolla <a class="readmore" href="www.facebook.com/verklighetensgard">Verklighetens Gård på Facebook</a></p>
-    <p>Tack till Manos och Marta från <a href="http://www.minoeco.com/en/">Minoeco</a> för bilder på halmning och putsning.</p>
+    <p>Tack till Manos och Marta från <a href="http://www.minoeco.com/en/">Minoeco</a> och Herbert från <a href="http://www.strohnatur.at/">StrohNatur</a> för bilder på halmning och putsning.</p>
     <a href="/halmhus.php" class="readup">Gå upp</a>
   </div>
 </div>

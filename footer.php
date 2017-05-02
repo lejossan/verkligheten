@@ -1,5 +1,3 @@
-<?php echo "footer"; ?>
-
 <div id="footer">
   <div class="container">
     <div class="col--6">
@@ -12,7 +10,7 @@
     <div class="col--6 second">
       <h2>VERKLIGHETEN I SOCIALA MEDIER</h2>
       <h3 class="icon-facebook">FACEBOOK</h3>
-      <p>På Facebook hittar du oss här: <a href="facebook.com/verklighetensgard">facebook.com/verklighetensgard</a></p>
+      <p>På Facebook hittar du oss här: <a class="readmore" href="facebook.com/verklighetensgard">facebook.com/verklighetensgard</a></p>
 
       <h3 class="icon-facebook">INSTAGRAM</h3>
       <p>Vi finns på Instagram som @odlaiverkligheten och @djuriverkligheten</p>

@@ -21,12 +21,18 @@
     <div class="col--6 ">
       <h2>FOLK</h2>
       <p>I verkligheten bor två familjer. Familjen Salbark bygger halmhus och familjen Espenkrona bor i det gamla boningshuset på gården. Framöver kommer även Linnea och Josefines föräldrar flytta in i ett av husen.</p>
-      <p>Lokaltidningen Corren var här och gjorde ett reportage till Bostadsbilagan om familjen Espenkrona och deras hus, <a class="readmore" href="http://www.corren.se/bostad/bildextra-kolla-in-pa-garden-om4595102.aspx">läs det här</a>
+      <p>Lokaltidningen Corren har varit här två gånger och gjort reportage om både halmhuset och det gamla boningshuset.
+      <ul class="left-align">
+        <li><a href="http://corren.se/24corren/?clip=om4143755" class="readmore">Läs reportaget om halmhuset här.</a></li>
+        <li><a class="readmore" href="http://www.corren.se/bostad/bildextra-kolla-in-pa-garden-om4595102.aspx" class="readmore">Här är reportaget om gamla boningshuset.</a></li>
+      </ul>
+      </p>
     </div>
     <div class="col--6 ">
       <h2>FÄ</h2>
       <p>I verkligheten bor tre bruna hästar. Den stora hästen heter MaryAnne. Den mellanstora heter Spice. Den minsta heter Folly.</p>
       <p>Vi har också två katter som heter Evert och Missen, de bor i logen och hjälper oss hålla koll på den.</p>
+      <p>Sist och minst bor även den pensionerade papillonen Rocky hos familjen Salbark.</p>
     </div>
   </div>
   
@@ -34,7 +40,7 @@
   <div class="section container">
     <div class="col--2">
       <a href="../img/folkfa/pertekla.jpg" data-fancybox="folkfa" data-caption="Per och Tekla vid gungan">
-        <img class="" src="../img/folkfa/pertekla.jpg" alt="Per och Tekla vid gungan" />
+        <img class="" src="../img/folkfa/pertekla-thumb.png" alt="Per och Tekla vid gungan" />
       </a>
     </div><!--
     --><div class="col--2">

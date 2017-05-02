@@ -27,7 +27,7 @@
     </div> 
     <div class="col--6">
 
-      <p>Lamm växer olika fort och det beror också mycket på hur vädret har varit under sommaren. Ett lamm bör väga ca 40-50kg när det slaktas, därför skickas de iväg i lite olika omgångar. Vi kommer efter hand som köttet kommer tillbaka skicka ut på Facebook att det finns tillgängligt. </p>
+      <p>Hur fort lammen växer beror mycket på hur vädret har varit under sommaren och därigenom hur bra beten det varit. Ett lamm bör väga ca 40-50kg när det slaktas, därför skickas de iväg i lite olika omgångar. Vi kommer efter hand som köttet kommer tillbaka skicka ut på Facebook att det finns kött till salu. </p>
       <br/><br/>
       <a href="../img/far/tackalamm.png" data-fancybox="far" data-caption="Tacka">
         <img src="img/far/tackalamm.png" alt="Tacka och lamm" />
@@ -36,14 +36,27 @@
   </div>
 
   <div class="section container">
+    <div class="col--6">
+      <h2>LAMMSKINN</h2>
+      <p>Vi bereder alla lammskinn och säljer de efter hand när de kommer in. Håll utkik på <a href="www.facebook.com/verklighetensgard">Verklighetens Gård</a> på Facebook, när det finns kommer vi även sälja skinnen på våra evenemang som tex adventsmarknaden.</p>
+      <a class="readmore" href="bygg.php">Läs mer om vår adventsmarknad här.</a>
+    </div>
+    <div class="col--6">
+      <h2>ULL</h2>
+      <p>Vi klipper våra får två gånger om året. Vi tovar endel själva men det blir ofta en hel del över. Hör av er om ni är intresserade eller håll utkik på facebook. </p>
+      <p>Vi har två gotlandstackor, övriga är korsningar mellan finull/gotland/suffolk. Detta gör att vi har många olika kvaliteér och färger på ullen. Av ullen gör vi tex tomtar och dynor som säljs på våra evenemang som tex adventsmys.</p>
+    </div>
+  </div>
+
+  <div class="section container">
     <div class="col--2">
       <a href="../img/far/far1.jpg" data-fancybox="far" data-caption="Får på rad.">
-        <img class="" src="../img/far/far1.jpg" alt="får" />
+        <img class="" src="../img/far/far1-thumb.png" alt="får" />
       </a>
     </div><!--
     --><div class="col--2">
       <a href="../img/far/lamm1.jpg" data-fancybox="far" data-caption="Söta lamm.">
-        <img class="" src="../img/far/lamm1.jpg" alt="Lamm" />
+        <img class="" src="../img/far/lamm1-thumb.png" alt="Lamm" />
       </a>
     </div><!--
     --><div class="col--2">
@@ -63,24 +76,8 @@
     </div><!--    
     --><div class="col--2">
       <a href="../img/far/far2.jpg" data-fancybox="far" data-caption="På grönbete">
-        <img class="" src="../img/far/far2.jpg" alt="Får på grönbete" />
+        <img class="" src="../img/far/far2-thumb.png" alt="Får på grönbete" />
       </a>
     </div>
   </div>
-
-
-  <div class="section container">
-    <div class="col--6">
-      <h2>LAMMSKINN</h2>
-      <p>Vi bereder alla lammskinn och säljer de efter hand när de kommer in. Håll utkik på <a href="www.facebook.com/verklighetensgard">Verklighetens Gård</a> på Facebook, när det finns kommer vi även sälja skinnen på våra evenemang som tex adventsmarknaden.</p>
-      <a class="readmore" href="bygg.php">Läs mer om vår adventsmarknad här.</a>
-    </div>
-    <div class="col--6">
-      <h2>ULL</h2>
-      <p>Vi klipper våra får två gånger om året. Vi tovar endel själva men det blir ofta en hel del över. Hör av er om ni är intresserade eller håll utkik på facebook. </p>
-      <p>Vi har två gotlandstackor, övriga är korsningar mellan finull/gotland/suffolk. Detta gör att vi har många olika kvaliteér och färger på ullen. Av ullen gör vi tex tomtar och dynor som säljs på våra evenemang som tex adventsmys.</p>
-    </div>
-  </div>
-
-
 <?php include('footer.php'); ?>
