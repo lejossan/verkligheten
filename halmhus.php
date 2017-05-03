@@ -28,7 +28,7 @@
   <div class="section container">
     <div class="col--6 ">
       <h2>HALMHUSET FRÅN VERKLIGHETEN</h2>
-      <p>Vi ville bygga ett hus, på riktigt och från grunden. Det skulle vara ett hus som är miljövänligare och med mindre kemikalier, både i byggskedet och när vi bor i det. Vi ville också ha ett hus som smälte in i naturen där det befinner sig, och ett hus som inte är som alla andra. Vi har Här har vi försökt att förklara lite hur vi har gjort och vad vi har lärt oss hittills. Eftersom vi inte är färdiga än kommer vi fylla på allt eftersom. Vår plan är att flytta in till julen 2018, vi får väl se hur det går med den saken.</p>
+      <p>Vi ville bygga ett hus, på riktigt och från grunden. Det skulle vara ett hus som är miljövänligare och med mindre kemikalier, både i byggskedet och när vi bor i det. Vi ville också ha ett hus som smälte in i naturen där det befinner sig, och ett hus som inte är som alla andra. Här har vi försökt att förklara lite hur vi har gjort och vad vi har lärt oss hittills. Eftersom vi inte är färdiga än kommer vi fylla på allt eftersom. Vår plan är att flytta in till julen 2018, vi får väl se hur det går med den saken.</p>
     </div>
   </div>
 
@@ -240,7 +240,7 @@
     <h3>Eget lerbruk</h3>
     <p>Leran tar vi från vår egen mark. Vi märkte att den leran vi har här är väldigt fin och av mycket bra kvalité. Eftersom ren lera spricker när den torkar blandas den med sand innan väggarna lerklinas. En nackdel med sanden är att ju mer sand som används desstu porösare blir väggen, målet är alltså att använda så lite sand som möjligt.  Vi har gjort tester och konstaterar att det räcker att blandar den 1:1 med sand för att den inte ska spricka, vilket tydligen är väldigt bra. </p>
 
-    <p>Samtliga ytterväggar och tak inomhus kommer att lerklinas. Innerväggarna är vi inte säkra på än men kommer troligen vara en mix av “vanliga” regelväggar och olika typer av lerväggar, lite beroende på omständigheter som vart i huset väggen är, hur mycket som ska fästas på den och om den ska vara rak eller böjd. </p>
+    <p>Samtliga ytterväggar och tak inomhus kommer att lerklinas. Innerväggarna är vi inte säkra på än men kommer troligen vara en mix av “vanliga” regelväggar och olika typer av lerväggar, lite beroende på omständigheter som var i huset väggen är, hur mycket som ska fästas på den och om den ska vara rak eller böjd. </p>
 
     <h3>Kalk på ytterväggar</h3>
     <p>Tillsammans med StrohNatur var även <a href="http://www.minoeco.com/en/">Minoeco</a> som är duktiga på kalkputs. På deras inrådan blandade vi vårt eget kalkbruk istället för att köpa en färdig mix. Vi tycker själva att resultatet är fantastisk, med en snygg naturvit kulör som kommer hålla många år. Väggarna ska putsas med minst tre lager puts. Putsningen är kul men lite trixig, det är inte så svårt att komma igång men tar ett tag innan man får in snitsen. </p>
