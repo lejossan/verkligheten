@@ -254,12 +254,23 @@
       <li><span class="h2">1.</span><p class="col--10">Även här hur många som helst, men en viktig sak, kom ihåg att fukta ytan innan nästa lager.. annars finns risk att kalken lossnar när den torkar och har suttit ett tag.</p></li>
       <li><span class="h2">2.</span><p class="col--10">Använd skyddsglasögon och skyddskläder! Kalkputs är frätande och inte bra att få i ögonen eller ha för lång tid på huden. </p></li>
     </ul>
-    <a href="../img/halmhus/putsning.png" data-fancybox="halmning" data-caption="Här putsas väggarna med första lagret lera.">
+    <a href="../img/halmhus/putsning.png" data-fancybox="halmning" data-caption="Här putsas väggarna med första lagret kalk.">
       <img class="" src="../img/halmhus/putsning.png" alt="Putsning" />
+    </a>
+    <br/>
+    <br/>
+    <a href="../img/halmhus/puts4.jpg" data-fancybox="halmning" data-caption="Här putsas väggarna med andra lagret kalk.">
+      <img class="" src="../img/halmhus/puts4.jpg" alt="Putsning" />
     </a>
   </div>
 </div>
-
+<div class="section container">
+  <div class="col--12">
+    <a href="../img/halmhus/puts2.jpg" data-fancybox="halmning" data-caption="Här putsas väggarna med andra lagret lera.">
+      <img class="" src="../img/halmhus/puts2.jpg" alt="Putsning" />
+    </a>
+  </div>
+</div>
 
 <div class="section container">
   <div class="col--6">
