@@ -16,3 +16,8 @@ $('.index .title').on('click', function(){
     menu.css('height', '40px');
   }
 });
+$('.index li').on('click', function(){
+  if(!$(this).hasClass('title')){
+    $(this).closest('.index').css('height', '40px');
+  }
+});
