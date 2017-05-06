@@ -266,7 +266,7 @@
 </div>
 <div class="section container">
   <div class="col--12">
-    <a href="../img/halmhus/puts2.jpg" data-fancybox="halmning" data-caption="Här putsas väggarna med andra lagret lera.">
+    <a href="../img/halmhus/puts2.jpg" data-fancybox="halmning" data-caption="Här putsas väggarna med andra lagret kalk.">
       <img class="" src="../img/halmhus/puts2.jpg" alt="Putsning" />
     </a>
   </div>

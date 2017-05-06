@@ -442,6 +442,9 @@ iframe {
   .imagewrapper--big .header-image {
     height: 350px; }
 
+  .imagewrapper--small.halmhus .image {
+    background-position: 100% 53%; }
+
   .index {
     height: 40px;
     padding: 0px 35px;

@@ -1,8 +1,3 @@
-$("[data-fancybox]").fancybox({
-    // Options will go here
-  });
-
-
 
 $('.menu .title').on('click', function(){
   var menu = $(this).closest('.menu');
@@ -15,9 +10,9 @@ $('.menu .title').on('click', function(){
 
 $('.index .title').on('click', function(){
   var menu = $(this).closest('.index');
-  if(menu.css('height') == '25px'){
+  if(menu.css('height') == '40px'){
     menu.css('height', 'inherit')
   } else {
-    menu.css('height', '35px');
+    menu.css('height', '40px');
   }
 });
