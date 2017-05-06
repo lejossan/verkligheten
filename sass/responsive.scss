@@ -1,0 +1,44 @@
+@media only screen and (max-width: 765px) {
+  .container{
+    margin: 0 $gutter;
+  }
+  h1, h2, h3{
+    text-align: center;
+  }
+  .imagewrapper--small h1 {
+    left: 50%!important;
+  }
+  .imagewrapper--big .header-image{
+    height: 350px;
+  }
+  .index{
+    height: 40px;
+    padding: 0px 35px;
+    overflow: hidden;
+    .title {
+      margin: 5px 0;
+      h3{
+        text-decoration: underline;
+        margin-top: 0px;
+        line-height: 1em;
+        text-align: left;
+      }
+    }
+  }
+  .menu {
+    overflow: hidden;
+    height: 25px;
+    padding-bottom: $gutter;
+    ul{
+      .title{
+        display: block;
+        text-decoration: underline;
+      }
+      li{
+        display: block;
+        line-height: 35px;
+        text-align: left;
+      }
+    }
+  }
+}

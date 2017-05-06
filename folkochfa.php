@@ -6,13 +6,14 @@
     <h1>FOLK & FÄ</h1>
   </div><div class="menu">
       <ul class="container">
-      <li class="h3"><a href="index.php">HEM</a></li>
-      <li class="h3"><a href="far.php">FÅR</a></li>
-      <li class="h3"><a href="honor.php">HÖNS</a></li>
-      <li class="h3"><a href="halmhus.php">HALMHUS</a></li>
-      <li class="h3"><a href="sakersomhander.php">SAKER SOM HÄNDER</a></li>
-      <li class="h3 active">FOLK & FÄ</li>
-      <li class="h3"><a href="#footer">KONTAKT</a></li>
+        <li class="h3 title">MENY</li>
+        <li class="h3"><a href="index.php">HEM</a></li>
+        <li class="h3"><a href="far.php">FÅR</a></li>
+        <li class="h3"><a href="honor.php">HÖNS</a></li>
+        <li class="h3"><a href="halmhus.php">HALMHUS</a></li>
+        <li class="h3"><a href="sakersomhander.php">SAKER SOM HÄNDER</a></li>
+        <li class="h3 active">FOLK & FÄ</li>
+        <li class="h3"><a href="#footer">KONTAKT</a></li>
       </ul>
   </div>
 
@@ -25,6 +26,7 @@
       <ul class="left-align">
         <li><a href="http://corren.se/24corren/?clip=om4143755" class="readmore">Läs reportaget om halmhuset här.</a></li>
         <li><a class="readmore" href="http://www.corren.se/bostad/bildextra-kolla-in-pa-garden-om4595102.aspx" class="readmore">Här är reportaget om gamla boningshuset.</a></li>
+        <li><a class="readmore" href="http://etidning.swepress.se/linkopingsposten/201/" class="readmore">Här har Linköpingsposten gjort ett reportage om halmhuset, se sidorna 30-31.</a></li>
       </ul>
       </p>
     </div>

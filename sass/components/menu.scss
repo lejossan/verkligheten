@@ -1,15 +1,16 @@
 /* Menu */
 
 .menu{
-  padding: 0 $gutter;
 	height: 50px;
 	background-color: $dark;
   color: $light;
+  font-size: 1em;
 	ul {
     vertical-align: middle;
+    text-align: center;
 		li{
 			display: inline-block;
-      margin: 0 0.8em;
+      margin: 0 0.5em;
       line-height: 45px;
 		}
     li:first-child{
@@ -23,5 +24,8 @@
   a {
     color: $white;
     text-decoration: none;
+  }
+  .title{
+    display: none;
   }
 }

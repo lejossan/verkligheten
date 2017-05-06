@@ -7,7 +7,7 @@
   <title>Verklighetens Gård</title>
   <meta name="description" content="Verkligheten är en familjegård där vi bygger upp en liten verksamhet med fokus på småskalighet, äkthet och välkomnande.">
   <meta name="author" content="Verklighetens Gård">
-  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel="stylesheet" href="css/styles.css?v=1.0">
   <link rel="stylesheet" href="css/jquery.fancybox.min.css">

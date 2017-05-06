@@ -6,18 +6,19 @@
     <h1>HALMHUSET LILLA VERKLIGHETEN</h1>
   </div><div class="menu">
       <ul class="container">
-      <li class="h3"><a href="index.php">HEM</a></li>
-      <li class="h3"><a href="far.php">FÅR</a></li>
-      <li class="h3"><a href="honor.php">HÖNS</a></li>
-      <li class="h3 active">HALMHUS</li>
-      <li class="h3"><a href="sakersomhander.php">SAKER SOM HÄNDER</a></li>
-      <li class="h3"><a href="folkochfa.php">FOLK & FÄ</a></li>
-      <li class="h3"><a href="#footer">KONTAKT</a></li>
+        <li class="h3 title">MENY</li>
+        <li class="h3"><a href="index.php">HEM</a></li>
+        <li class="h3"><a href="far.php">FÅR</a></li>
+        <li class="h3"><a href="honor.php">HÖNS</a></li>
+        <li class="h3 active">HALMHUS</li>
+        <li class="h3"><a href="sakersomhander.php">SAKER SOM HÄNDER</a></li>
+        <li class="h3"><a href="folkochfa.php">FOLK & FÄ</a></li>
+        <li class="h3"><a href="#footer">KONTAKT</a></li>
       </ul>
   </div>
 
   <ul class="index col--2">
-    <li><h3>Innehåll</h3></li>
+    <li class="title"><h3>Innehåll</h3></li>
     <li><a href="#sektion-planering">Planering & Ritning</a></li>
     <li><a href="#sektion-grund">Grund med skumglas</a></li>
     <li><a href="#sektion-rundtimmer">Rundtimmer & Ek</a></li>
@@ -119,7 +120,7 @@
 
 <div id="sektion-rundtimmer" class="section container">
   <div class="col--6">
-    <h2>ATT BYGGA MED RUNDTIMMER OCH HA EN STOR EK I VARDAGSRUMMET</h2>
+    <h2>ATT BYGGA MED RUNDTIMMER & HA EN STOR EK I VARDAGSRUMMET</h2>
     <p>Bygget började egentligen januari 2014 med att vi tog ner stockar i skogen som vi sedan ägnade sommaren åt att barka. Vi ville bygga med rundtimmer för att vi vill ha en synlig timmerkonstruktion på insidan och vi ville komma åt det naturliga med att se de runda stockarna. Eftersom vi har egen skog blev det också ett sätt att använda lokala byggmaterial i huset. Första sommaren barkade vi över 1 km stock! </p>
     <p>Väggkonstruktionerna har vi rest och satt ihop för hand. De tyngsta stockarna vägde över 200 kg, men vi är ganska starka. </p>
     <h3>Eken</h3>
