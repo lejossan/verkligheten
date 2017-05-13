@@ -1,3 +1,4 @@
+<?php include('helpers.php'); ?>
 <!doctype html>
 
 <html lang="en">
@@ -5,7 +6,7 @@
   <meta charset="utf-8">
 
   <title>Verklighetens Gård</title>
-  <meta name="description" content="Verkligheten är en familjegård där vi bygger upp en liten verksamhet med fokus på småskalighet, äkthet och välkomnande.">
+  <meta name="description" content="<?php echo getMetaDescription(); ?>">
   <meta name="author" content="Verklighetens Gård">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
