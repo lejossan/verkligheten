@@ -27,7 +27,7 @@
     <div class="col--6">
     <h2>ÄGG</h2>
       <p>Våra höns ger oss de godaste ägg med den gulaste gula man kan tänka sig. De går i en stor gård där de hittar både mask och gräs att äta. Vi har olika raser och därför även olika färg på äggen, vita, bruna, gröna och turkosa. </p>
-      <p>Ibland finns ägg till försäljning, sväng förbi och kolla i loppisen eller hör av dig så har vi säkert över. Vi tar 40 kr för ett tolvpack. </p>
+      <p>Ibland finns ägg till försäljning, sväng förbi eller hör av dig så har vi säkert över. Vi tar 40 kr för ett tolvpack. </p>
     </div>
   </div>
 
