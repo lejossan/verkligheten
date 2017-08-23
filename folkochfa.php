@@ -34,7 +34,6 @@
       <h2>FÄ</h2>
       <p>I verkligheten bor tre bruna hästar. Den stora hästen heter MaryAnne. Den mellanstora heter Spice. Den minsta heter Folly.</p>
       <p>Vi har också två katter som heter Evert och Missen, de bor i logen och hjälper oss hålla koll på den.</p>
-      <p>Sist och minst bor även den pensionerade papillonen Rocky hos familjen Salbark.</p>
     </div>
   </div>
   
