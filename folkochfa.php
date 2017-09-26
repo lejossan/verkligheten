@@ -22,9 +22,10 @@
     <div class="col--6 ">
       <h2>FOLK</h2>
       <p>I verkligheten bor två familjer. Familjen Salbark bygger halmhus och familjen Espenkrona bor i det gamla boningshuset på gården. Framöver kommer även Linnea och Josefines föräldrar flytta in i ett av husen.</p>
-      <p>Lokaltidningen Corren har varit här två gånger och gjort reportage om både halmhuset och det gamla boningshuset.
+      <p>Lokaltidningen Corren har varit här och gjort reportage om både halmhuset och det gamla boningshuset.
       <ul class="left-align">
-        <li><a href="http://corren.se/24corren/?clip=om4143755" class="readmore">Läs reportaget om halmhuset här.</a></li>
+        <li><a href="http://www.mvt.se/24corren/?clip=om4824052" class="readmore">Se andra reportaget om halmhuset här.</a></li>
+        <li><a href="http://corren.se/24corren/?clip=om4143755" class="readmore">Se första reportaget om halmhuset här.</a></li>
         <li><a class="readmore" href="http://www.corren.se/bostad/bildextra-kolla-in-pa-garden-om4595102.aspx" class="readmore">Här är reportaget om gamla boningshuset.</a></li>
         <li><a class="readmore" href="http://etidning.swepress.se/linkopingsposten/201/" class="readmore">Här har Linköpingsposten gjort ett reportage om halmhuset, se sidorna 30-31.</a></li>
       </ul>
