@@ -24,7 +24,7 @@
       <p>Första advent bjuder vi traditionsenligt in till adventsmys på gården. Vi bjuder på glögg, pepparkaka och julstämning. Försäljning finns av fika och även lite hantverk som varierar från år till år. Såklart är även loppisen öppen. </p>
       <p>Verklighetens granar är knotiga, taniga, ärliga och alldeles fantastiska. De växer lite här och var i vår skog och vi tar bort de som ska gallras. Miljövänligare gran än så är svårt att hitta. Så vill du i jul ha en gran med gott samvete och minimal miljöpåverkan, skaffa då en från Verkligheten. </p>
 
-      <p class="strong">Nästa adventsmys äger rum 3 december 2017!</p>
+      <p class="strong">OBS! Årets adventsmys är tyvärr inställd och återkommer 2018.</p>
     </div> 
     <div class="col--6">
       <br/>
