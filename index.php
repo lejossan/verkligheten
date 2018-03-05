@@ -50,14 +50,14 @@
   <div class="section social">
     <h2>HÄR FINNS VI OCKSÅ</h2>
     <div class="container">
-      <a class="odlaiverkligheten col--5 nolink" href="http://www.instagram.com/odlaiverkligheten">
+      <a class="odlaiverkligheten col--5 nolink" href="http://www.instagram.com/odlaiverkligheten" target="_blank">
         <img src="img/odlaiverkligheten.png" alt="instagram:odlaiverkligheten" />
         <div class="banner">
           <h3>INSTAGRAM</h3>
           <span>@odlaiverkligheten</span>
         </div>
       </a>
-      <a class="djuriverkligheten col--5 nolink" href="http://www.instagram.com/djuriverkligheten">
+      <a class="djuriverkligheten col--5 nolink" href="http://www.instagram.com/djuriverkligheten" target="_blank">
         <img src="img/djuriverkligheten.png" alt="instagram:djuriverkligheten" />
         <div class="banner">
           <h3>INSTAGRAM</h3>
@@ -66,7 +66,7 @@
       </a>
     </div>
     <div class="container">
-      <a class="facebook col--12 nolink" href="https://facebook.com/verklighetensgard">
+      <a class="facebook col--12 nolink" href="https://facebook.com/verklighetensgard" target="_blank">
         <img src="img/facebook.png" alt="Verklighetens Gård på Facebook" />
           <div class="banner">
             <h3>FACEBOOK</h3>
