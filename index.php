@@ -1,9 +1,8 @@
 <?php include('header.php'); ?>
 
-
   <div class="imagewrapper--big wood">
     <div class="header-image image"></div>
-    <h1><a href="index.html" class="nolink" alt="home">VERKLIGHETENS GÅRD</a></h1>
+    <h1><a href="index.php" class="nolink" alt="home">VERKLIGHETENS GÅRD</a></h1>
   </div><div class="menu">
       <ul class="container">
       <li class="h3 title">MENY</li>
@@ -67,7 +66,7 @@
       </a>
     </div>
     <div class="container">
-      <a class="facebook col--12 nolink" href="http://www.facebook.com/verklighetensgard">
+      <a class="facebook col--12 nolink" href="https://facebook.com/verklighetensgard">
         <img src="img/facebook.png" alt="Verklighetens Gård på Facebook" />
           <div class="banner">
             <h3>FACEBOOK</h3>
