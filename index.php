@@ -50,14 +50,21 @@
   <div class="section social">
     <h2>HÄR FINNS VI OCKSÅ</h2>
     <div class="container">
-      <a class="odlaiverkligheten col--5 nolink" href="http://www.instagram.com/odlaiverkligheten" target="_blank">
+      <a class="byggiverkligheten col--4 nolink" href="http://www.instagram.com/byggiverkligheten" target="_blank">
+        <img src="img/byggiverkligheten.png" alt="instagram:byggiverkligheten" />
+        <div class="banner">
+          <h3>INSTAGRAM</h3>
+          <span>@byggiverkligheten</span>
+        </div>
+      </a>
+      <a class="odlaiverkligheten col--4 nolink" href="http://www.instagram.com/odlaiverkligheten" target="_blank">
         <img src="img/odlaiverkligheten.png" alt="instagram:odlaiverkligheten" />
         <div class="banner">
           <h3>INSTAGRAM</h3>
           <span>@odlaiverkligheten</span>
         </div>
       </a>
-      <a class="djuriverkligheten col--5 nolink" href="http://www.instagram.com/djuriverkligheten" target="_blank">
+      <a class="djuriverkligheten col--4 nolink" href="http://www.instagram.com/djuriverkligheten" target="_blank">
         <img src="img/djuriverkligheten.png" alt="instagram:djuriverkligheten" />
         <div class="banner">
           <h3>INSTAGRAM</h3>
