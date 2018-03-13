@@ -18,13 +18,24 @@
       </ul>
   </div>
   
+
+  <div class="section container">
+    <div class="col--6">
+      <h2>VÅRMARKNAD</h2>
+      <p>Vårmarknad här i Verkligheten bjuder på djurmys, vårkänslor, fika, försäljning av lammskinn och förmodligen en hel massa pyssel, stickat, virkat, sytt och syltat. Håll utkik på vår facebook sida för mer information!</p>
+
+      <p class="strong">Nästa vårmarknad äger rum 13 maj 2018!</p>
+    </div> 
+    <div class="col--6">
+
+    </div>
+  </div>
+
   <div class="section container">
     <div class="col--6">
       <h2>ADVENTSMARKNAD</h2>
       <p>Första advent bjuder vi traditionsenligt in till adventsmys på gården. Vi bjuder på glögg, pepparkaka och julstämning. Försäljning finns av fika och även lite hantverk som varierar från år till år. Såklart är även loppisen öppen. </p>
       <p>Verklighetens granar är knotiga, taniga, ärliga och alldeles fantastiska. De växer lite här och var i vår skog och vi tar bort de som ska gallras. Miljövänligare gran än så är svårt att hitta. Så vill du i jul ha en gran med gott samvete och minimal miljöpåverkan, skaffa då en från Verkligheten. </p>
-
-      <p class="strong">OBS! Årets adventsmys är tyvärr inställd och återkommer 2018.</p>
     </div> 
     <div class="col--6">
       <br/>
@@ -36,7 +47,6 @@
       
     </div>
   </div>
-
   <div class="section container">
     <div class="col--2">
       <a href="../img/advent/folly.png" data-fancybox="advent" data-caption="Folly hjälper till att dra hem granar">
@@ -69,18 +79,7 @@
         </a>
     </div>
   </div>
-  <div class="section container">
-    <div class="col--6">
-      <h2>VÅRMARKNAD</h2>
-      <p>Våren bjuder på både lamm och kycklingar här i Verkligheten.</p>
-      <p>Förra året hade vi lammys, det här året tar vi en paus men nästa år sätter vi igång med vårmarknad.</p>
 
-      <p class="strong">Nästa vårmarknad äger rum 2018!</p>
-    </div> 
-    <div class="col--6">
-
-    </div>
-  </div>
 
 
 <?php include('footer.php'); ?>
