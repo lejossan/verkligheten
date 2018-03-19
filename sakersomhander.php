@@ -1,6 +1,4 @@
-
-<?php include('header.php'); ?>
-
+<?php $title = "Saker som händer"; include('header.php'); ?>
 
   <div class="imagewrapper--small brollop">
     <div class="header-image image"></div>

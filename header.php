@@ -5,7 +5,7 @@
 <head>
   <meta charset="utf-8">
 
-  <title>Verklighetens Gård</title>
+  <title><?php echo $title; ?></title>
   <meta name="description" content="<?php echo getMetaDescription(); ?>">
   <meta name="author" content="Verklighetens Gård">
   <meta name="viewport" content="width=device-width, initial-scale=1">

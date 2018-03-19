@@ -1,4 +1,4 @@
-<?php include('header.php'); ?>
+<?php $title = "Halmhuset Lilla Verkligheten"; include('header.php'); ?>
 
 
   <div class="imagewrapper--small halmhus">

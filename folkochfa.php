@@ -1,4 +1,4 @@
-<?php include('header.php'); ?>
+<?php $title = "Folk & Fä"; include('header.php'); ?>
 
 
   <div class="imagewrapper--small folk">

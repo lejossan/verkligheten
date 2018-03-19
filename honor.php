@@ -1,5 +1,4 @@
-
-<?php include('header.php'); ?>
+<?php $title = "Höns i verkligheten"; include('header.php'); ?>
 
 
   <div class="imagewrapper--small honor">

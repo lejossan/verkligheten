@@ -1,4 +1,4 @@
-<?php include('header.php'); ?>
+<?php $title = "Verklighetens Gård"; include('header.php'); ?>
 
   <div class="imagewrapper--big wood">
     <div class="header-image image"></div>
