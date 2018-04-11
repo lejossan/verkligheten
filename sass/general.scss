@@ -66,9 +66,14 @@ a{
   }
   @extend %clearfix-after;
 }
-.list span{
-  margin-right: 10px;
-  line-height: inherit;
+.list{
+  span{
+    margin-right: 10px;
+    line-height: inherit;
+  }
+  li {
+    padding: 10PX 0;
+  }
 }
 img, iframe{
   display: block;
