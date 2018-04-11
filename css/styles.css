@@ -221,7 +221,7 @@ table {
 body {
   font-family: "Raleway", sans-serif;
   font-size: 16px;
-  color: #666666;
+  color: #2d2d2d;
   background-color: #F6F6F6; }
 
 h1, h2, h3, .h1, .h2, .h3 {
@@ -256,7 +256,7 @@ a {
     margin: 0px 0px 0px 10px;
     text-decoration: none; }
   a.readmore:after {
-    content: '\f061'; }
+    /*content: '\f061';*/ }
   a.readup:after {
     content: '\f062'; }
   a.nolink {
@@ -269,7 +269,7 @@ a {
 .left-align {
   text-align: left; }
 
-.right-align {
+.right-align, .right-align p {
   text-align: right; }
 
 .section {

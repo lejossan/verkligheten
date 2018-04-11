@@ -2,7 +2,7 @@
 body{
 	font-family: $font-family-second;
 	font-size: $font-size;
-  color: $dark;
+  color: $darker;
   background-color: $light;
 }
 h1,h2,h3,.h1,.h2,.h3{
@@ -39,7 +39,7 @@ a{
     text-decoration: none;
   }
   &.readmore:after{
-    content: '\f061';
+    /*content: '\f061';*/
   }
   &.readup:after{
     content: '\f062';
@@ -55,7 +55,7 @@ a{
 .left-align {
   text-align: left;
 }
-.right-align {
+.right-align, .right-align p {
   text-align: right;
 }
 .section{

@@ -33,7 +33,7 @@
     </div>
     <div class="col--6 ">
       <h2>FÄ</h2>
-      <p>I verkligheten bor tre bruna hästar. Den stora hästen heter MaryAnne. Den mellanstora heter Spice. Den minsta heter Folly.</p>
+      <p>I verkligheten bor förutom höns och får också två bruna hästar. Den stora hästen heter MaryAnne. Den lilla heter Folly.</p>
       <p>Vi har också två katter som heter Evert och Missen, de bor i logen och hjälper oss hålla koll på den.</p>
     </div>
   </div>

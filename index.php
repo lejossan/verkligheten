@@ -20,12 +20,18 @@
   <div class="section">
     <div class="container">
       <div class="col--6 right-align">
-        <h2>Får i verkligheten</h2>
+        <!--<h2>Får i verkligheten</h2>
         <p>Vi har 10 tackor, här finns tex Bittää, Laila (Bagge), Bond, Bäärta och Tina. De ger oss lamm på våren och hjälper sedan till att hålla ängar, hagar och marker öppna. På hösten säljer vi det lammkött och skinn som blir över.</p>
-        <a class="readmore" href="far.php">Läs mer om våra får och lamm här</a>
+        <a class="readmore" href="far.php">Läs mer om våra får och lamm här</a>-->
+      <h2>Vår i Verkligheten</h2>
+      <p>Vårmarknad här i Verkligheten bjuder på djurmys, vårkänslor, fika, försäljning av lammskinn och förmodligen en hel massa pyssel, stickat, virkat, sytt och syltat. Håll utkik på vår facebook sida för mer information!</p>
+
+      <p class="strong">Nästa vårmarknad äger rum 13 maj 2018!</p>
+      <a class="readmore" href="sakersomhander.php">Läs mer om våra marknader här</a>
       </div> 
       <div class="col--6">
-        <img class="lamm" src="../img/lamm-round.png" alt="lamm" />
+        <!--<img class="lamm" src="../img/lamm-round.png" alt="lamm" />-->
+        <img class="lamm" src="../img/var-round.png" alt="lamm" />
       </div>
     </div>
   </div>
