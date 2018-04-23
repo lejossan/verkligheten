@@ -20,12 +20,22 @@
   <div class="section container">
     <div class="col--6">
       <h2>VÅRMARKNAD</h2>
-      <p>Vårmarknad här i Verkligheten bjuder på djurmys, vårkänslor, fika, försäljning av lammskinn och förmodligen en hel massa pyssel, stickat, virkat, sytt och syltat. Håll utkik på vår facebook sida för mer information!</p>
+      <p>Kom och hälsa på våra djur, ta en fika i trädgården eller kolla in vår lilla loppis. I stallet hittar du en liten butik med bland annat ekologiska rengöringsprodukter, tvålar, tovat och säkert några grönsaksplantor.  </p>
+
+      <p>Missa heller inte att kika på vad våra inbjudna försäljare har gjort. Hantverk i garn, tyg och trä, egensydda barnkläder, luffarslöjd och säkert fler saker kommer också att finnas på borden.  </p>
+
+      <p>Allt i liten skala och med omtanke om människor och miljö.</p>
 
       <p class="strong">Nästa vårmarknad äger rum 13 maj 2018!</p>
     </div> 
     <div class="col--6">
-
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <a href="../img/varmarknad.png" data-fancybox="varmarknad" data-caption="Vårmarknad">
+        <img class="" src="../img/varmarknad.png" alt="varmarknad" />
+      </a>
     </div>
   </div>
 
