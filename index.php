@@ -30,8 +30,8 @@
       <a class="readmore" href="sakersomhander.php">Läs mer om våra marknader här</a>-->
       </div> 
       <div class="col--6">
-        <!--<img class="lamm" src="../img/lamm-round.png" alt="lamm" />-->
-        <img class="lamm" src="../img/var-round.png" alt="lamm" />
+        <img class="lamm" src="../img/lamm-round.png" alt="lamm" />
+        <!--<img class="lamm" src="../img/var-round.png" alt="lamm" />-->
       </div>
     </div>
   </div>
