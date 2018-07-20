@@ -26,7 +26,7 @@
 
       <p>Allt i liten skala och med omtanke om människor och miljö.</p>
 
-      <p class="strong">Nästa vårmarknad äger rum 13 maj 2018!</p>
+      <!--<p class="strong">Nästa vårmarknad äger rum 2019!</p>-->
     </div> 
     <div class="col--6">
       <br/>
