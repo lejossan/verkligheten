@@ -18,7 +18,7 @@
   <div class="payoff"><p class="container">Verkligheten är en familjegård där vi lever, bor och samtidigt bygger upp en liten verksamhet med fokus på småskalighet, äkthet och välkomnande.</p></div>
   
   <div class="section">
-    <div class="container">
+    <div class="container center-align">
       <div class="col--6 right-align">
         <h2>Får i verkligheten</h2>
         <p>Vi har 10 tackor, här finns tex Bittää, Laila (Bagge), Bond, Bäärta och Tina. De ger oss lamm på våren och hjälper sedan till att hålla ängar, hagar och marker öppna. På hösten säljer vi det lammkött och skinn som blir över.</p>

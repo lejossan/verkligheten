@@ -58,6 +58,9 @@ a{
 .right-align, .right-align p {
   text-align: right;
 }
+.center-align > div {
+  vertical-align: middle;
+}
 .section{
   padding: $gutter 0;
   text-align: center;
