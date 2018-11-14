@@ -10,8 +10,8 @@ function getMetaDescription() {
     case "/far.php":
       $description = "Fåren på Verklighetens Gård är en stor del av vår verksamhet.";
       break;
-    case "/sakersomhander.php":
-      $description = "Mycket händer på gården, 1 advent bjuder vi traditionsenligt in till första advent, då bjuder vi på glögg, pepparkaka och julstämning. På våren har vi vårmarknad med lammys, nykläckta kycklingar och vårkänslor.";
+    case "/aktuellt.php":
+      $description = "Mycket händer på gården, 2 advent bjuder vi traditionsenligt in till adventsmys, då bjuder vi på glögg, pepparkaka och julstämning. På våren har vi vårmarknad med lammys, nykläckta kycklingar och vårkänslor.";
       break;
     case "/honor.php":
       $description = "På Verklighetens Gård bor ungefär 25 hönor och två tuppar, Doris och Knut.";

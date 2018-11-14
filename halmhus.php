@@ -11,12 +11,11 @@
         <li class="h3"><a href="far.php">FÅR</a></li>
         <li class="h3"><a href="honor.php">HÖNS</a></li>
         <li class="h3 active">HALMHUS</li>
-        <li class="h3"><a href="sakersomhander.php">SAKER SOM HÄNDER</a></li>
+        <li class="h3"><a href="aktuellt.php">AKTUELLT</a></li>
         <li class="h3"><a href="folkochfa.php">FOLK & FÄ</a></li>
         <li class="h3"><a href="#footer">KONTAKT</a></li>
       </ul>
   </div>
-
   <ul class="index col--2">
     <li class="title"><h3>Innehåll</h3></li>
     <li><a href="#sektion-planering">Planering & Ritning</a></li>

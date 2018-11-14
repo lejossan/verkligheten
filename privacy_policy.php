@@ -11,7 +11,7 @@
         <li class="h3">FÅR</li>
         <li class="h3"><a href="honor.php">HÖNS</a></li>
         <li class="h3"><a href="halmhus.php">HALMHUS</a></li>
-        <li class="h3"><a href="sakersomhander.php">SAKER SOM HÄNDER</a></li>
+        <li class="h3"><a href="aktuellt.php">SAKER SOM HÄNDER</a></li>
         <li class="h3"><a href="folkochfa.php">FOLK & FÄ</a></li>
         <li class="h3"><a href="#footer">KONTAKT</a></li>
       </ul>

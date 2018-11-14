@@ -11,7 +11,7 @@
         <li class="h3 active">FÅR</li>
         <li class="h3"><a href="honor.php">HÖNS</a></li>
         <li class="h3"><a href="halmhus.php">HALMHUS</a></li>
-        <li class="h3"><a href="sakersomhander.php">SAKER SOM HÄNDER</a></li>
+        <li class="h3"><a href="aktuellt.php">AKTUELLT</a></li>
         <li class="h3"><a href="folkochfa.php">FOLK & FÄ</a></li>
         <li class="h3"><a href="#footer">KONTAKT</a></li>
       </ul>
@@ -42,7 +42,7 @@
     <div class="col--6">
       <h2>LAMMSKINN</h2>
       <p>Vi bereder alla lammskinn och säljer de efter hand när de kommer in. Håll utkik på <a href="www.facebook.com/verklighetensgard">Verklighetens Gård</a> på Facebook, när det finns kommer vi även sälja skinnen på våra evenemang som tex adventsmarknaden.</p>
-      <a class="readmore" href="sakersomhander.php">Läs mer om våra evenemang här.</a>
+      <a class="readmore" href="aktuellt.php">Läs mer om våra evenemang här.</a>
     </div>
     <div class="col--6">
       <h2>ULL</h2>
