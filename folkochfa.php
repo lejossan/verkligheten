@@ -4,19 +4,8 @@
   <div class="imagewrapper--small folk">
     <div class="header-image image"></div>
     <h1>FOLK & FÄ</h1>
-  </div><div class="menu">
-      <ul class="container">
-        <li class="h3 title">MENY</li>
-        <li class="h3"><a href="index.php">HEM</a></li>
-        <li class="h3"><a href="far.php">FÅR</a></li>
-        <li class="h3"><a href="honor.php">HÖNS</a></li>
-        <li class="h3"><a href="halmhus.php">HALMHUS</a></li>
-        <li class="h3"><a href="aktuellt.php">AKTUELLT</a></li>
-        <li class="h3 active">FOLK & FÄ</li>
-        <li class="h3"><a href="#footer">KONTAKT</a></li>
-      </ul>
   </div>
-
+  <?php include('menu.php'); ?>
 
   <div class="section container">
     <div class="col--6 ">

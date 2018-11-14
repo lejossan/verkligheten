@@ -30,4 +30,13 @@ function getMetaDescription() {
   return $description;
 }
 
+function getActiveMenuItem($item) {
+  $page = str_replace(".php", "", $_SERVER['REQUEST_URI']);
+  $active = "";
+  if($page == $item) {
+    $active = "active";
+  }
+  return $active;
+}
+
 ?>

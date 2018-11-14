@@ -4,18 +4,9 @@
   <div class="imagewrapper--small halmhus">
     <div class="header-image image"></div>
     <h1>HALMHUSET LILLA VERKLIGHETEN</h1>
-  </div><div class="menu">
-      <ul class="container">
-        <li class="h3 title">MENY</li>
-        <li class="h3"><a href="index.php">HEM</a></li>
-        <li class="h3"><a href="far.php">FÅR</a></li>
-        <li class="h3"><a href="honor.php">HÖNS</a></li>
-        <li class="h3 active">HALMHUS</li>
-        <li class="h3"><a href="aktuellt.php">AKTUELLT</a></li>
-        <li class="h3"><a href="folkochfa.php">FOLK & FÄ</a></li>
-        <li class="h3"><a href="#footer">KONTAKT</a></li>
-      </ul>
   </div>
+  <?php include('menu.php'); ?>
+
   <ul class="index col--2">
     <li class="title"><h3>Innehåll</h3></li>
     <li><a href="#sektion-planering">Planering & Ritning</a></li>

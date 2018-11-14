@@ -3,18 +3,9 @@
   <div class="imagewrapper--big wood">
     <div class="header-image image"></div>
     <h1><a href="index.php" class="nolink" alt="home">VERKLIGHETENS GÅRD</a></h1>
-  </div><div class="menu">
-      <ul class="container">
-      <li class="h3 title">MENY</li>
-      <li class="h3 active">HEM</li>
-      <li class="h3"><a href="far.php">FÅR</a></li>
-      <li class="h3"><a href="honor.php">HÖNS</a></li>
-      <li class="h3"><a href="halmhus.php">HALMHUS</a></li>
-      <li class="h3"><a href="aktuellt.php">AKTUELLT</a></li>
-      <li class="h3"><a href="folkochfa.php">FOLK & FÄ</a></li>
-      <li class="h3"><a href="#footer">KONTAKT</a></li>
-      </ul>
   </div>
+  <?php include('menu.php'); ?>
+
   <div class="payoff"><p class="container">Verkligheten är en familjegård där vi lever, bor och samtidigt bygger upp en liten verksamhet med fokus på småskalighet, äkthet och välkomnande.</p></div>
   
   <div class="section">
