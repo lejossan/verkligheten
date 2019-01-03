@@ -24,7 +24,7 @@
   </div>
 
   <div id="sektion-planering" class="section container">
-    <div class="col--6">
+    <div class="col--12">
       <h2>PLANERING & RITNING</h2>
       <p>Efter lite funderande beslöt oss vi för att bygga ett hus med en stomme av timmer och med halmbalar som isolering. Vi trodde också att det skulle bli billigare och vara enklare än att bygga ett vanligt hus, men så här halvvägs in i projektet kan vi inget annat än konstatera att det var helt fel! </p>
       <p>Vi har ritat huset själva utifrån de behov och tankar som vi har. Det gör kanske att vi har gått på en del “designmissar” men det blir i alla fall våra missar! Det här gör också att huset växer fram under tiden vi bygger. Vi vet inte alla lösningar än och med tiden så förändras en del både i konstruktion och utseende. Vi har t.ex. valt bort det stora glastaket över allrummet, anledningen var att det blev betydligt dyrare än tänkt. Eftersom vi även har köpt de flesta dörrar och en del fönster begagnade varierar mått och utseende på dessa. </p>
@@ -37,7 +37,7 @@
       <p>Vi har även valt olika fasad på olika delar av huset, den största delen är kalkputsad men på de delar som är “under kullen” kommer vi istället ha okantad lockpanel. Anledningen är att vi tycker det är kul när det händer saker längs med huset och att det finns många saker att upptäcka. </p>
 
     </div>
-    <div class="col--6 ">
+    <div class="col--12 ">
     <br/><br/>
       <p>På taket kommer det växa gräs, tätskicktet kommer vara en EPDM duk över de delar som är hus och takpapp över de delar som enbart är taköverhäng. Anledningen till det är att det finns många kronor att spara på att minimera EPDM duken och att taköverhänget är väldigt stort. Blir det läckage där kommer det dessutom att kunna upptäckas och åtgärdas direkt och de delarna är även betydligt större lutning på. En avvägning baserat på risk och kostnad alltså. </p>
       <h3>Skafferi, entré & allrum</h3>
@@ -72,12 +72,12 @@
   </div>
 
   <div id="sektion-grund" class="section container">
-    <div class="col--6">
+    <div class="col--12">
       <h2 id="grund">GRUND MED SKUMGLAS</h2>
       <p>135 m3 skumglas är ganska mycket skumglas, men packat är det en yta på ca 150 m2 och ca 70 cm djupt. Skumglas är en restprodukt som är både isolerande och kapillärbrytande. En bra grej är också att man inte behöver lägga i allt som ska vara i grunden direkt utan kan vänta till man har bestämt sig kring det. Skumglaset går nämligen hyfsat enkelt att gräva i, trots att det är packat, i alla fall enklare än en betongplatta. Passar bra för oss som ser ritningen mer som en idéskiss än som ett faktum…. </p>
       <p>Under varje resare (alltså stående stockar) finns en betongplint. För att få upp halmen från fukt och regn på marken så har vi murat en syll av lecablock och natursten under alla ytterväggar. På syllen har vi lagt en tjärpapp för att förhindra att fukt kryper uppåt i konstruktionen.</p>
     </div>
-    <div class="col--6 lessons">
+    <div class="col--12 lessons">
       <h2>LÄRDOMAR</h2>
       <ul>
         <li><span class="h3">1.</span><p class="col--10">Bygg alla plintar EXAKT lika höga och några centimeter under färdigt golv, annars finns risk att det blir fina badkar till stockarna som står på dem. Höjden är bra att ha samma eftersom det blir lättare att räkna ut höjden på resarna då.</p></li>
@@ -109,19 +109,22 @@
 </div>
 
 <div id="sektion-rundtimmer" class="section container">
-  <div class="col--6">
+  <div class="col--12">
     <h2>ATT BYGGA MED RUNDTIMMER & HA EN STOR EK I VARDAGSRUMMET</h2>
     <p>Bygget började egentligen januari 2014 med att vi tog ner stockar i skogen som vi sedan ägnade sommaren åt att barka. Vi ville bygga med rundtimmer för att vi vill ha en synlig timmerkonstruktion på insidan och vi ville komma åt det naturliga med att se de runda stockarna. Eftersom vi har egen skog blev det också ett sätt att använda lokala byggmaterial i huset. Första sommaren barkade vi över 1 km stock! </p>
     <p>Väggkonstruktionerna har vi rest och satt ihop för hand. De tyngsta stockarna vägde över 200 kg, men vi är ganska starka. </p>
     <h3>Eken</h3>
     <p>En tidig idé var att ha ett träd inomhus, det tog lång tid innan vi kom fram till vilket träd men till slut bestämde vi oss för en ek på gården. Eken stod i en hage ihop med nio andra stora ekar och alldeles för många björkar för att må bra. Så när vi tog ner eken passade vi på att gallra och ta bort björkarna så att resterande ekar trivs bättre. Eken till huset är ca 100 år gammal och väger nästan 6 ton. Grenarna var över sju meter långa. Som tur var så var frakten bara några hundra meter. </p>
+    
+  </div>
+  <div class="col--6 lessons">
     <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fverklighetensgard%2Fvideos%2F1612467465688516%2F&show_text=0&width=560" width="100%" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
     <br/>
     <a href="../img/halmhus/timmerknut.png" data-fancybox="rundtimmer" data-caption="Timmerknut">
       <img class="" src="../img/halmhus/timmerknut-thumb.png" alt="timmerknut" />
     </a>
   </div>
-  <div class="col--6 lessons">
+  <div class="col--12">
   <h2>LÄRDOMAR</h2>
   <ul>
     <li><span class="h2">1.</span><p class="col--10">Det tar tid att barka, lättast gör man genom att barka färskt virke med en barkspade eller barkkniv beroende på grovlek på barken och sedan högtryckstvätta för att få bort underbarken som annars blir ganska ful när den torkar. </p></li>
@@ -148,7 +151,7 @@
 </div>
 
 <div id="sektion-rundhustak" class="section container">
-  <div class="col--6">
+  <div class="col--12">
     <h2>SJÄLVBÄRANDE RUNDHUSTAK</h2>
     <p>Den bärande konstruktionen i taket påminner om en klassisk indian-tipi, men med mycket flackare vinkel. Takstockarna stöttar varandra och konstruktionen bygger på att varje takstock bär upp nästa i cirkeln.  Den stora eken i mitten bär alltså inte upp någon vikt av taket utan står helt fritt och bär endast upp golvet på balkongen. Vi inspirerades tidigt av den här typen av tak och det är en stor anledning till att huset blev runt. Till taket kom vi överens om att det inte var fusk att hyra en lyftkran, så vi hyrde en lite smidig sak som lätt kunde lyfta upp takstockarna. </p>
     <a href="../img/halmhus/rundhustak2.jpg" data-fancybox="rundhustak" data-caption="Barkning pågår">
@@ -156,7 +159,7 @@
     </a>
   </div>
 
-  <div class="col--6 lessons">
+  <div class="col--12 lessons">
   <h2>LÄRDOMAR SJÄLVBÄRANDE TAK</h2>
   <ul>
     <li><span class="h2">1.</span><p class="col--10">Det blir sjukt snyggt, gör det. </p></li>
@@ -182,7 +185,7 @@
 </div>
 
 <div id="sektion-halmväggar" class="section container">
-  <div class="col--6">
+  <div class="col--12">
     <h2>VÄGGAR I HALM</h2>
     <p>Vi kände innan att vi inte hade riktigt koll på detta med själva halmen så därför anlitade vi experter från <a href="http://www.strohnatur.at/">StrohNatur</a>. Vilket i efterhand kändes som ett väldigt bra beslut, att bygga med halm är i och för sig inte sådär väldigt svårt men det finns många saker som kan gå fel om man inte har kunskaper kring det, som det är med alla sätt att bygga. Vi gjorde till exempel om hela vår tanke kring isoleringen i taket baserat på deras kunskaper, vilket även gjorde att vi fick en massa extra jobb men i slutändan en bättre takkonstruktion kopplat till isoleringen. </p>
     <h3>Halmbalarna</h3>
@@ -193,7 +196,7 @@
       <img class="" src="../img/halmhus/halmning1.jpg" alt="Halmning" />
     </a>
   </div>
-  <div class="col--6">
+  <div class="col--12">
     <br/>
     <h3>CUT - Cells Under Tension</h3>
     <p>Det finns lite olika metoder för att få en stadig halmvägg, och den vi valde kallas för CUT (Cells Under Tension). I korthet så pressar man in balarna mellan stående plank, och varje lager pressas ner med en tunn läkt som man fäster i plankorna. Detta bilder ett tunt fackverk som pressar balarna från alla håll.</p>
@@ -224,7 +227,7 @@
 
 
 <div id="sektion-kalkputs" class="section container">
-  <div class="col--6">
+  <div class="col--12">
     <h2>KALK OCH LERPUTS</h2>
     <p>Halmväggarna putsas med lera på insidan och kalk på utsidan. Anledningen till att inte använda lera på utsidan är att den inte tål vatten, då rinner den bort. Detta  kan även lösas genom att ha riktigt långa taköverhäng, men vi valde kalk på utsidan istället. På vissa delar av fasaden har vi istället träpanel med en vindpapp under. </p>
     
@@ -238,7 +241,7 @@
 
     <p>Just nu har vi två lager kalkputs på i stort sett all yta som ska kalkas, i sommar (2017) kommer vi fortsätta med putsen och även lerputsen inomhus.</p>
   </div>
-  <div class="col--6 lessons">
+  <div class="col--12 lessons">
     <h2>LÄRDOMAR PUTS</h2>
     <ul>
       <li><span class="h2">1.</span><p class="col--10">Även här hur många som helst, men en viktig sak, kom ihåg att fukta ytan innan nästa lager.. annars finns risk att kalken lossnar när den torkar och har suttit ett tag.</p></li>
@@ -263,7 +266,7 @@
 </div>
 
 <div class="section container">
-  <div class="col--6">
+  <div class="col--12">
   <h3>Vidare arbete</h3>
     <p>Vi kommer att fylla på den här sidan under hela bygget men för att få det senaste är det bäst att kolla <a class="readmore" href="www.facebook.com/verklighetensgard">Verklighetens Gård på Facebook</a></p>
     <p>Tack till Manos och Marta från <a href="http://www.minoeco.com/en/">Minoeco</a> och Herbert från <a href="http://www.strohnatur.at/">StrohNatur</a> för bilder på halmning och putsning.</p>

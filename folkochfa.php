@@ -8,7 +8,7 @@
   <?php include('menu.php'); ?>
 
   <div class="section container">
-    <div class="col--6 ">
+    <div class="col--12">
       <h2>FOLK</h2>
       <p>I verkligheten bor två familjer. Familjen Salbark bygger halmhus och familjen Espenkrona bor i det gamla boningshuset på gården. Framöver kommer även Linnea och Josefines föräldrar flytta in i ett av husen.</p>
       <p>Lokaltidningen Corren har varit här och gjort reportage om både halmhuset och det gamla boningshuset.
@@ -20,7 +20,7 @@
       </ul>
       </p>
     </div>
-    <div class="col--6 ">
+    <div class="col--12">
       <h2>FÄ</h2>
       <p>I verkligheten bor förutom höns och får också två bruna hästar. Den stora hästen heter MaryAnne. Den lilla heter Folly.</p>
       <p>Vi har också två katter som heter Evert och Missen, de bor i logen och hjälper oss hålla koll på den.</p>
