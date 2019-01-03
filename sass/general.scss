@@ -22,14 +22,18 @@ h3,.h3{
   line-height: 1.7em;
   margin-top: $gutter / 2;
 }
+p, a {
+  font-size: 1.1em;
+}
 p{
   line-height: 1.5em;
   text-align: left;
   padding: $gutter 0;
 }
 a{
+  font-weight: bold;
   color: $red;
-  text-decoration: underline;
+  text-decoration: none;
   &.readmore:after,
   &.readup:after{
     font-family: FontAwesome;

@@ -241,14 +241,18 @@ h3, .h3 {
   line-height: 1.7em;
   margin-top: 7.5px; }
 
+p, a {
+  font-size: 1.1em; }
+
 p {
   line-height: 1.5em;
   text-align: left;
   padding: 15px 0; }
 
 a {
+  font-weight: bold;
   color: #9C7B7B;
-  text-decoration: underline; }
+  text-decoration: none; }
   a.readmore:after, a.readup:after {
     font-family: FontAwesome;
     font-weight: normal;
@@ -327,7 +331,8 @@ iframe {
       font-size: 2em; }
   .menu a {
     color: #FFFFFF;
-    text-decoration: none; }
+    text-decoration: none;
+    font-weight: normal; }
   .menu .title {
     display: none; }
 
@@ -359,7 +364,7 @@ iframe {
   .imagewrapper--small.halmhus h1, .imagewrapper--medium.halmhus h1, .imagewrapper--big.halmhus h1 {
     left: 90%; }
   .imagewrapper--small.folk .image, .imagewrapper--medium.folk .image, .imagewrapper--big.folk .image {
-    background-image: url(../img/kaspertekla.jpg);
+    background-image: url(../img/kaspertekla.png);
     background-position: 0 50%; }
   .imagewrapper--small.folk h1, .imagewrapper--medium.folk h1, .imagewrapper--big.folk h1 {
     left: 15%; }
