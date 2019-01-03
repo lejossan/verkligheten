@@ -265,7 +265,8 @@ a {
     content: '\f062'; }
   a.nolink {
     text-decoration: none;
-    color: #FFFFFF; }
+    color: #FFFFFF;
+    font-weight: normal; }
 
 .strong {
   font-weight: 900; }
