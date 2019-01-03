@@ -23,9 +23,9 @@
     <div class="container center-align">
       <div class="col--6 right-align">
         
-        <?php //include('texts/far_teaser.php'); ?>
+        <?php include('texts/far_teaser.php'); ?>
         <?php //include('texts/julmarknad_teaser.php'); ?>
-        <?php include('texts/varmarknad_teaser.php'); ?>
+        <?php //include('texts/varmarknad_teaser.php'); ?>
 
       </div> 
       <div class="col--6">
