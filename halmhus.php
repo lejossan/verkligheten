@@ -19,7 +19,7 @@
   <div class="section container">
     <div class="col--6 ">
       <h2>HALMHUSET FRÅN VERKLIGHETEN</h2>
-      <p>Vi ville bygga ett hus, på riktigt och från grunden. Det skulle vara ett hus som är miljövänligare och med mindre kemikalier, både i byggskedet och när vi bor i det. Vi ville också ha ett hus som smälte in i naturen där det befinner sig, och ett hus som inte är som alla andra. Här har vi försökt att förklara lite hur vi har gjort och vad vi har lärt oss hittills. Eftersom vi inte är färdiga än kommer vi fylla på allt eftersom. Vår plan är att flytta in till julen 2018, vi får väl se hur det går med den saken.</p>
+      <p>Vi ville bygga ett hus, på riktigt och från grunden. Det skulle vara ett hus som är miljövänligare och med mindre kemikalier, både i byggskedet och när vi bor i det. Vi ville också ha ett hus som smälte in i naturen där det befinner sig, och ett hus som inte är som alla andra. Här har vi försökt att förklara lite hur vi har gjort och vad vi har lärt oss hittills.</p>
     </div>
   </div>
 
