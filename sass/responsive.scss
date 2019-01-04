@@ -2,7 +2,7 @@
   .container{
     margin: 0 $gutter;
   }
-  h1, h2, h3{
+  h1, h2, h3, p, .right-align p, a, a.left-align, .left-align, .right-align {
     text-align: center;
   }
   .imagewrapper--small h1 {
@@ -16,16 +16,19 @@
   }
   .index{
     height: 40px;
-    padding: 0px 35px;
     overflow: hidden;
+    padding: 0px;
     .title {
-      margin: 5px 0;
+      margin: 5px 15px;
       h3{
         text-decoration: underline;
         margin-top: 0px;
         line-height: 1em;
         text-align: left;
       }
+    }
+    li {
+      margin: 10px 35px;
     }
   }
   .menu {

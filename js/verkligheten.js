@@ -10,7 +10,7 @@ $('.menu .title').on('click', function(){
 
 $('.index .title').on('click', function(){
   var menu = $(this).closest('.index');
-  if(menu.css('height') == '40px'){
+  if(menu.css('height') == '40px' ){
     menu.css('height', 'inherit')
   } else {
     menu.css('height', '40px');
