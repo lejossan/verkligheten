@@ -22,6 +22,9 @@ function getMetaDescription() {
     case "/folkochfa.php":
       $description = "I verkligheten bor två familjer. Familjen Salbark bygger halmhus och familjen Espenkrona bor i det gamla boningshuset på gården.";
       break;
+    case "/kontakt.php":
+      $description = "Verklighetens Gård ligger 2.5 mil söder om Linköping i Östergötland.";
+      break;
     default:
       $description = "Verkligheten är en familjegård där vi bygger upp en liten verksamhet med fokus på småskalighet, äkthet och välkomnande.";
   }

@@ -312,7 +312,8 @@ img, iframe {
 
 iframe {
   vertical-align: top;
-  display: inline-block !important; }
+  display: inline-block !important;
+  width: 100%; }
 
 /* SECTIONS */
 .payoff {
@@ -323,6 +324,12 @@ iframe {
   font-size: 1.1em; }
   .payoff p {
     text-align: center; }
+
+.ml {
+  margin-left: 15px; }
+
+.mr {
+  margin-right: 15px; }
 
 /* Menu */
 .menu {
@@ -381,6 +388,11 @@ iframe {
     background-position: 0 50%; }
   .imagewrapper--small.folk h1, .imagewrapper--medium.folk h1, .imagewrapper--big.folk h1 {
     left: 15%; }
+  .imagewrapper--small.kontakt .image, .imagewrapper--medium.kontakt .image, .imagewrapper--big.kontakt .image {
+    background-image: url(../img/kontakt.jpg);
+    background-position: 0 30%; }
+  .imagewrapper--small.kontakt h1, .imagewrapper--medium.kontakt h1, .imagewrapper--big.kontakt h1 {
+    left: 15%; }
   .imagewrapper--small.brollop .image, .imagewrapper--medium.brollop .image, .imagewrapper--big.brollop .image {
     background-image: url(../img/brollop.jpg);
     background-position: 0 40%; }
@@ -430,8 +442,7 @@ iframe {
 #footer {
   background-color: #666666;
   color: #F6F6F6;
-  padding: 15px 0;
-  margin-top: 30px; }
+  padding: 15px 0; }
   #footer a {
     color: #F6F6F6; }
   #footer iframe {
@@ -458,6 +469,21 @@ iframe {
   display: inline-block;
   margin-top: 15px;
   margin-right: 15px; }
+
+.icon {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  vertical-align: middle; }
+  .icon--facebook {
+    background: url("../img/icon-fb.svg") no-repeat;
+    background-size: 50px; }
+  .icon--instagram {
+    background: url("../img/icon-insta.svg") no-repeat;
+    background-size: 50px; }
+  .icon--mail {
+    background: url("../img/icon-mail.svg") no-repeat;
+    background-size: 50px; }
 
 @media only screen and (max-width: 765px) {
   .container {

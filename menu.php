@@ -5,11 +5,11 @@
   $menuItems = array();
   $menuItems[] = new MenuItem(getActiveMenuItem("/index"), "index.php", "HEM");
   $menuItems[] = new MenuItem(getActiveMenuItem("/aktuellt"), "aktuellt.php", "AKTUELLT");
+  $menuItems[] = new MenuItem(getActiveMenuItem("/halmhus"), "halmhus.php", "HALMHUS");
   $menuItems[] = new MenuItem(getActiveMenuItem("/far"), "far.php", "FÅR");
   $menuItems[] = new MenuItem(getActiveMenuItem("/honor"), "honor.php", "HÖNS");
-  $menuItems[] = new MenuItem(getActiveMenuItem("/halmhus"), "halmhus.php", "HALMHUS");
   $menuItems[] = new MenuItem(getActiveMenuItem("/folkochfa"), "folkochfa.php", "FOLK & FÄ");
-  $menuItems[] = new MenuItem("", "#footer", "KONTAKT");
+  $menuItems[] = new MenuItem(getActiveMenuItem("/kontakt"), "kontakt.php", "KONTAKT");
 
 ?>
 

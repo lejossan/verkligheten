@@ -48,6 +48,15 @@
     h1{
       left: 15%; 
     }
+  } 
+  &.kontakt{ 
+    .image{
+      background-image: url(../img/kontakt.jpg);
+      background-position: 0 30%;
+    }
+    h1{
+      left: 15%; 
+    }
   }
   &.brollop{
     .image{

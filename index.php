@@ -8,7 +8,7 @@
 
   <?php include('texts/payoff.php'); ?>
   
-    <div class="section white">
+  <div class="section white">
     <div class="container">
       <div class="col--6">
         <img class="lamm" src="../img/halmhus-round.png" alt="lamm" />
@@ -36,45 +36,12 @@
     </div>
   </div>
 
-
-
-  <div class="imagewrapper">
-    <div class="header-image--medium image-view"></div>
-  </div>
-
-  <div class="section social">
-    <h2>HÄR FINNS VI OCKSÅ</h2>
+  <div class="section white">
     <div class="container">
-      <a class="byggiverkligheten col--4 nolink" href="http://www.instagram.com/byggiverkligheten" target="_blank">
-        <img src="img/byggiverkligheten.png" alt="instagram:byggiverkligheten" />
-        <div class="banner">
-          <h3>INSTAGRAM</h3>
-          <span>@byggiverkligheten</span>
-        </div>
-      </a>
-      <a class="odlaiverkligheten col--4 nolink" href="http://www.instagram.com/odlaiverkligheten" target="_blank">
-        <img src="img/odlaiverkligheten.png" alt="instagram:odlaiverkligheten" />
-        <div class="banner">
-          <h3>INSTAGRAM</h3>
-          <span>@odlaiverkligheten</span>
-        </div>
-      </a>
-      <a class="djuriverkligheten col--4 nolink" href="http://www.instagram.com/djuriverkligheten" target="_blank">
-        <img src="img/djuriverkligheten.png" alt="instagram:djuriverkligheten" />
-        <div class="banner">
-          <h3>INSTAGRAM</h3>
-          <span>@djuriverkligheten</span>
-        </div>
-      </a>
-    </div>
-    <div class="container">
-      <a class="facebook col--12 nolink" href="https://facebook.com/verklighetensgard" target="_blank">
-        <img src="img/facebook.png" alt="Verklighetens Gård på Facebook" />
-          <div class="banner">
-            <h3>FACEBOOK</h3>
-            <span>facebook.com/verklighetensgard</span>
-          </div>
-      </a>
+      <div class="col--6">
+        <h2>VILL DU BESÖKA OSS?</h2>
+        <p>Vi välkomnar framförallt besökare på våra marknader som vi håller två gånger om året. En gång på våren och en gång till advent. Läs mer under <a href="/aktuellt.php">Aktuellt</a>.</p>
+      </div>
     </div>
   </div>
 
