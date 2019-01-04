@@ -19,7 +19,7 @@
   <meta name="author" content="Verklighetens Gård">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
+  <link rel="stylesheet" href="css/styles.css?v=1.1">
   <link rel="stylesheet" href="css/jquery.fancybox.min.css">
   <link href="https://fonts.googleapis.com/css?family=Amatica+SC|Raleway:200" rel="stylesheet">
 
