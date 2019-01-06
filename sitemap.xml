@@ -12,9 +12,6 @@ Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator
 <loc>https://verklighetensgard.se/aktuellt.php</loc>
 </url>
 <url>
-<loc>https://verklighetensgard.se/honor.php</loc>
-</url>
-<url>
 <loc>https://verklighetensgard.se/far.php</loc>
 </url>
 <url>
@@ -22,6 +19,9 @@ Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator
 </url>
 <url>
 <loc>https://verklighetensgard.se/halmhus.php</loc>
+</url>
+<url>
+<loc>https://verklighetensgard.se/butik.php</loc>
 </url>
 </urlset>
 <!--
