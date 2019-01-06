@@ -233,6 +233,7 @@ table {
 body {
   font-family: "Raleway", sans-serif;
   font-size: 16px;
+  line-height: 1.2em;
   color: #2d2d2d;
   background-color: #F6F6F6; }
 
@@ -501,7 +502,7 @@ iframe {
   display: block;
   transition: background-color 0.5s;
   color: white;
-  padding: 15px 0;
+  padding: 15px 5px;
   text-align: center; }
   .button:hover {
     background-color: #748366;
@@ -536,6 +537,9 @@ iframe {
         text-align: left; }
     .index li {
       margin: 10px 35px; }
+
+  .mr {
+    margin-right: 5px; }
 
   .menu {
     overflow: hidden;
