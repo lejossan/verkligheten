@@ -263,8 +263,10 @@ p {
 
 a {
   font-weight: bold;
-  color: #9C7B7B;
+  color: #824c4c;
   text-decoration: none; }
+  a:hover {
+    text-decoration: underline; }
   a.readmore:after, a.readup:after {
     font-family: FontAwesome;
     font-weight: normal;
@@ -401,6 +403,11 @@ iframe {
   .imagewrapper--small.honor .image, .imagewrapper--medium.honor .image, .imagewrapper--big.honor .image {
     background-image: url(../img/honor.jpg);
     background-position: 0 90%; }
+  .imagewrapper--small.butik .image, .imagewrapper--medium.butik .image, .imagewrapper--big.butik .image {
+    background-image: url(../img/butik.jpg);
+    background-position: 100% 20%; }
+  .imagewrapper--small.butik h1, .imagewrapper--medium.butik h1, .imagewrapper--big.butik h1 {
+    left: 20%; }
   .imagewrapper--small .image-view, .imagewrapper--medium .image-view, .imagewrapper--big .image-view {
     background-image: url(../img/view1.jpg);
     background-position: 0 60%; }
@@ -484,6 +491,21 @@ iframe {
   .icon--mail {
     background: url("../img/icon-mail.svg") no-repeat;
     background-size: 50px; }
+  .icon--mail-white {
+    background: url("../img/icon-mail-white.svg") no-repeat;
+    background-size: 50px; }
+
+.button {
+  background-color: #8b9c7b;
+  border-radius: 4px;
+  display: block;
+  transition: background-color 0.5s;
+  color: white;
+  padding: 15px 0;
+  text-align: center; }
+  .button:hover {
+    background-color: #748366;
+    text-decoration: none; }
 
 @media only screen and (max-width: 765px) {
   .container {

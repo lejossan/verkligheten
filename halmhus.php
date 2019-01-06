@@ -270,7 +270,10 @@
   <h3>Vidare arbete</h3>
     <p>Vi kommer att fylla på den här sidan under hela bygget men för att få det senaste är det bäst att kolla in vårt byggkonto på Instagram: <a href="https://www.instagram.com/byggiverkligheten/" target="_blank"><span class="icon icon--instagram"></span>@byggiverkligheten</a></p>
     <p>Tack till Manos och Marta från <a href="http://www.minoeco.com/en/">Minoeco</a> och Herbert från <a href="http://www.strohnatur.at/">StrohNatur</a> för bilder på halmning och putsning.</p>
-    <a href="/halmhus.php" class="readup">Gå upp</a>
+    
+  </div>
+  <div class="col--2">
+    <a class="button" href="/halmhus.php">Gå upp</a>
   </div>
 </div>
 

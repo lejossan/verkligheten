@@ -9,14 +9,7 @@
 
   <div class="section container">
 
-  <div class="col--6">
-    <h2>KONTAKT</h2>
-  </div>
   <div class="col--12">
-    <h3>MAILA OSS</h3>
-    <p>
-      <a href="mailto:verklighetensgard@gmail.com"><span class="icon icon--mail mr"></span>Maila oss!</a>
-    </p>
     
     <h3>FACEBOOK & INSTAGRAM</h3>
     <ul class="left-align">
@@ -38,6 +31,10 @@
       </li>
     </ul>
 
+  </div>
+
+  <div class="col--4">
+    <a class="button" href="mailto:verklighetensgard@gmail.com"><span class="icon icon--mail-white mr"></span>Maila oss!</a>
   </div>
 
   <div class="col--12">

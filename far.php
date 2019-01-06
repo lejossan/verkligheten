@@ -32,8 +32,10 @@
   <div class="section container">
     <div class="col--12">
       <h2>LAMMSKINN</h2>
-      <p>Vi bereder alla lammskinn och säljer de efter hand när de kommer in. Håll utkik på <a href="www.facebook.com/verklighetensgard">Verklighetens Gård</a> på Facebook, när det finns kommer vi även sälja skinnen på våra evenemang som tex adventsmarknaden.</p>
-      <a class="readmore" href="aktuellt.php">Läs mer om våra evenemang här.</a>
+      <p>Vi bereder alla lammskinn och säljer de efter hand när de kommer in. Håll utkik på <a href="www.facebook.com/verklighetensgard">Verklighetens Gård</a> på Facebook, när det finns kommer vi även sälja skinnen på våra marknader.</p>
+    </div>
+    <div class="col--6">
+      <a class="button" href="aktuellt.php">Läs mer om våra marknader</a>
     </div>
     <div class="col--12">
       <h2>ULL</h2>

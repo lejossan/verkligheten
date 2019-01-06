@@ -32,8 +32,11 @@ p{
 }
 a{
   font-weight: bold;
-  color: $red;
+  color: $reddark;
   text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
   &.readmore:after,
   &.readup:after{
     font-family: FontAwesome;
@@ -98,7 +101,7 @@ iframe{
 
 
 .payoff{
-  background-color: $green;
+  background-color: $greenlight;
   text-align: center;
   padding: 0.5em;
   margin-top: -3px;

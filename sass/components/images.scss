@@ -71,6 +71,15 @@
     background-image: url(../img/honor.jpg);
     background-position: 0 90%;
   }
+  &.butik {
+    .image{
+      background-image: url(../img/butik.jpg);
+      background-position: 100% 20%;
+    }
+    h1{
+      left: 20%;
+    }
+  }
   .image-view{
     background-image: url(../img/view1.jpg);
     background-position: 0 60%;

@@ -1,0 +1,13 @@
+.button {
+  background-color: $green;
+  border-radius: 4px;
+  display: block;
+  transition: background-color 0.5s;
+  color: white;
+  padding: $gutter 0;
+  text-align: center;
+  &:hover {
+    background-color: $greendark;
+    text-decoration: none;
+  }
+}
