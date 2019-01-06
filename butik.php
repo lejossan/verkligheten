@@ -11,7 +11,7 @@
     <div class="col--12">
       <h2>PRODUKTER FRÅN VERKLIGHETEN</h2>
       <p>Vi odlar mycket här i Verkligheten och säljer gärna det vi själva inte gör av med. Till våra marknader fixar vi en liten butik i stallet. Där finns ett urval av noga utvalda produkter, alla med stor hänsyn till människa och miljö. Du kan tex hitta ekologiska tvålar från Klockargårdens, linoljeprodukter från Kulturhantverkarna, ekologiska fröer från ECO Grow och rengöringsprodukter från Iris Hantverk. Från oss i verkligheten brukar det finnas både tovat och prylar i trä. På vårmarknaden säljer vi även en massa olika förodlade grönsaksplantor. På julmarknaden kan du instället hitta fröhjärtan till fåglarna, jullimpor och julgrupper till julkalaset.</p>
-      <p><a href="mailto:verklighetensgard@gmail.com" class="button"><span class="icon icon--mail-white mr"></span>maila oss för beställning eller mer info om varje pryl!</a></p>
+      <p><a href="mailto:verklighetensgard@gmail.com" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></p>
     </div>
 
     <div class="col--12">
@@ -116,7 +116,7 @@
       </div>
 
     </div>
-    <p><a class="button" href="mailto:verklighetensgard@gmail.com"><span class="icon icon--mail-white mr"></span>maila oss för beställning eller mer info om varje pryl!</a></p>
+    <p><a class="button" href="mailto:verklighetensgard@gmail.com"><span class="icon icon--mail-white mr"></span>Maila oss för mer info!</a></p>
   </div>
 
 
