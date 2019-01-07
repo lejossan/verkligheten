@@ -507,6 +507,9 @@ iframe {
     background-color: #748366;
     text-decoration: none; }
 
+#mc_embed_signup form {
+  background: #F6F6F6; }
+
 @media only screen and (max-width: 765px) {
   .container {
     margin: 0 15px; }
