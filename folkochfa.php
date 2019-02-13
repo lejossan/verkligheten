@@ -28,7 +28,7 @@
   </div>
   
 
-  <div class="section container">
+  <div class="section container image--list">
     <div class="col--2">
       <a href="../img/folkfa/pertekla.jpg" data-fancybox="folkfa" data-caption="Per och Tekla vid gungan">
         <img class="" src="../img/folkfa/pertekla-thumb.png" alt="Per och Tekla vid gungan" />

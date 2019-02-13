@@ -38,11 +38,11 @@
       <br/>
       <br/>
       <a href="../img/advent/hylla.png" data-fancybox="advent" data-caption="Folly hjälper till att dra hem granar">
-        <img class="" src="../img/advent/hylla-thumb.png" alt="folly" />
+        <img class="" src="../img/advent/hylla-thumb.png" alt="hylla" />
       </a>
     </div>
   </div>
-  <div class="section container">
+  <div class="section container image--list">
     <div class="col--2">
       <a href="../img/advent/folly.png" data-fancybox="advent" data-caption="Folly hjälper till att dra hem granar">
         <img class="" src="../img/advent/folly-thumb.png" alt="folly" />

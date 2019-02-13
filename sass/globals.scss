@@ -36,6 +36,7 @@ $big: 550px;
   }
 }
 
+
 /* CONTAINERS */
 $container-width: 740px;
 $column-count: 12;
@@ -50,12 +51,8 @@ $gutter: 15px;
     width: calc(#{100%/$column-count * $i} - #{$gutter}); 
     display: inline-block;
     vertical-align: top;
-    margin-right: $gutter;
     img{
       width: 100%;
-    }
-    &:last-child{
-      margin-right: 0;
     }
   }
   @media only screen and (max-width: 765px) {

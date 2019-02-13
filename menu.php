@@ -9,6 +9,7 @@
   $menuItems[] = new MenuItem(getActiveMenuItem("/butik"), "butik.php", "BUTIK");
   $menuItems[] = new MenuItem(getActiveMenuItem("/far"), "far.php", "FÅR");
   $menuItems[] = new MenuItem(getActiveMenuItem("/folkochfa"), "folkochfa.php", "FOLK & FÄ");
+  $menuItems[] = new MenuItem(getActiveMenuItem("/camping"), "camping.php", "CAMPING");
   $menuItems[] = new MenuItem(getActiveMenuItem("/kontakt"), "kontakt.php", "KONTAKT");
 
 ?>

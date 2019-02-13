@@ -8,7 +8,7 @@
   <?php include('menu.php'); ?>
 
   <div class="section container">
-    <h2>MILJÖVÄNLIGT OCH DJURETISKT</h2>
+    <h2 class="mt">MILJÖVÄNLIGT OCH DJURETISKT</h2>
     <div class="col--12 ">
       <p>Under sommarhalvåret går våra djur i stora hagar och det är avgörande för att vi ska kunna hålla markerna öppna. På vintern äter de ensilage från bönderna runtomkring. Djuren gör om gräs som vi inte kan äta till något för oss ätbart, lammkött. Detta gör att vårt kött har en låg inverkan på miljön och klimatet.</p>
     </div>
@@ -44,7 +44,7 @@
     </div>
   </div>
 
-  <div class="section container">
+  <div class="section container image--list">
     <div class="col--2">
       <a href="../img/far/far1.jpg" data-fancybox="far" data-caption="Får på rad.">
         <img class="" src="../img/far/far1-thumb.png" alt="får" />

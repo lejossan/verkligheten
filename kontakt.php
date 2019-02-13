@@ -9,9 +9,9 @@
 
   <div class="section container">
 
-  <div class="col--12">
+  <div class="col--12 mb">
     
-    <h3>NYHETSBREV</h3>
+    <h3 class="mt">NYHETSBREV</h3>
     <p>Skriv upp dig här nedan om du vill få inbjudan till våra marknader eller annan information som rör verksamheten här på gården. </p>
     <!-- Begin Mailchimp Signup Form -->
     <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">

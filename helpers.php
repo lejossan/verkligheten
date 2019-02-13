@@ -22,6 +22,9 @@ function getMetaDescription() {
     case "/folkochfa.php":
       $description = "I verkligheten bor två familjer. Familjen Salbark bygger halmhus och familjen Espenkrona bor i det gamla boningshuset på gården.";
       break;
+      case "/camping.php":
+      $description = "Camping i verkligheten!";
+      break;
     case "/kontakt.php":
       $description = "Verklighetens Gård ligger 2.5 mil söder om Linköping i Östergötland.";
       break;
