@@ -7,7 +7,7 @@
   <?php include('menu.php'); ?>
 
   <?php include('texts/payoff.php'); ?>
-  <a href="/test.html">Test</a>
+  
   <div class="section white">
     <div class="container">
       <div class="col--6">
