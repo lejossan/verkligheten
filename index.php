@@ -40,7 +40,7 @@
     <div class="container">
       <div class="col--6">
         <h2>VILL DU BESÖKA OSS?</h2>
-        <p>Vi välkomnar framförallt besökare på våra marknader som vi håller två gånger om året. En gång på våren och en gång till advent. Läs mer under <a href="/aktuellt.php">Aktuellt</a>.</p>
+        <p>Söker ni ställplats eller camping i Östergötland ska ni kolla in sidan om vår <a href="/camping.php">camping</a>. Vi välkomnar även besökare på våra marknader som vi håller två gånger om året. En gång på våren och en gång till advent. Läs mer under <a href="/aktuellt.php">Aktuellt</a>.</p>
       </div>
     </div>
   </div>
