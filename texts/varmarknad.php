@@ -8,7 +8,7 @@
     <p>Missa heller inte att kika på vad våra inbjudna försäljare har gjort. Hantverk i garn, tyg och trä, egensydda barnkläder, luffarslöjd och säkert fler saker kommer också att finnas på borden.</p>
     <p>Allt i liten skala och med omtanke om människor och miljö.</p>';
   echo '<p>Gratis parkering och inträde!</p>';
-  echo '<p class="strong">Nästa vårmarknad äger rum våren 2019!</p>';
+  echo '<p class="strong">Nästa vårmarknad äger rum 12 maj 2019!</p>';
 
   echo '</div>';
     echo '<div class="col--6">  
