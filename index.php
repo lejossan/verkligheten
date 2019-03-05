@@ -10,19 +10,8 @@
   
   <div class="section white">
     <div class="container">
-      <div class="col--6">
-        <img class="lamm" src="../img/halmhus-round.png" alt="lamm" />
-      </div>
-      <div class="col--6 left-align">
-        <?php include('texts/halmhus_teaser.php'); ?>
-      </div>
-    </div>
-  </div>
-
-  <div class="section">
-    <div class="container center-align">
       <div class="col--6 right-align">
-        
+    
         <?php //include('texts/far_teaser.php'); ?>
         <?php //include('texts/julmarknad_teaser.php'); ?>
         <?php include('texts/varmarknad_teaser.php'); ?>
@@ -32,6 +21,17 @@
         <!--<img class="lamm" src="../img/jul-round.png" alt="julmarknad" />-->
         <!--<img class="lamm" src="../img/lamm-round.png" alt="lamm" /> -->
         <img class="lamm" src="../img/var-round.png" alt="lamm" />
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="container center-align">
+      <div class="col--6">
+        <img class="lamm" src="../img/halmhus-round.png" alt="lamm" />
+      </div>
+      <div class="col--6 left-align">
+        <?php include('texts/halmhus_teaser.php'); ?>
       </div>
     </div>
   </div>
