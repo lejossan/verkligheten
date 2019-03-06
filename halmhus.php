@@ -26,7 +26,7 @@
   <div id="sektion-planering" class="section container">
     <div class="col--12">
       <h2>PLANERING & RITNING</h2>
-      <p>Efter lite funderande beslöt oss vi för att bygga ett hus med en stomme av timmer och med halmbalar som isolering. Vi trodde också att det skulle bli billigare och vara enklare än att bygga ett vanligt hus, men så här halvvägs in i projektet kan vi inget annat än konstatera att det var helt fel! </p>
+      <p>Efter lite funderande beslöt oss vi för att bygga ett hus med en stomme av timmer och med halmbalar som isolering. Vi trodde också att det skulle bli billigare och vara enklare än att bygga ett vanligt hus, men så här inflyttade och nästan färdiga kan vi inget annat än konstatera att det var helt fel. </p>
       <p>Vi har ritat huset själva utifrån de behov och tankar som vi har. Det gör kanske att vi har gått på en del “designmissar” men det blir i alla fall våra missar! Det här gör också att huset växer fram under tiden vi bygger. Vi vet inte alla lösningar än och med tiden så förändras en del både i konstruktion och utseende. Vi har t.ex. valt bort det stora glastaket över allrummet, anledningen var att det blev betydligt dyrare än tänkt. Eftersom vi även har köpt de flesta dörrar och en del fönster begagnade varierar mått och utseende på dessa. </p>
       <p>För att bygga ett hus på detta sätt, i stort sett helt själva och lösa de flesta problem längs med vägen, krävs förkunskap. Vi har tidigare renoverat en hel del och har dessutom väldigt mycket kunskap inom familjen. Men även om ni inte har det, var inte rädda för att testa, men räkna med att det tar lång tid, många moment faller inom kategorin “gör om gör rätt” och det blir alltid dyrare än planerat! En god idé kan ju vara att börja med uthuset, för att testbygga och göra de flesta misstagen där. </p>
       <h3>Bygglovsprocess för halmbalshus</h3>
@@ -40,14 +40,17 @@
     <div class="col--12 ">
     <br/><br/>
       <p>På taket kommer det växa gräs, tätskicktet kommer vara en EPDM duk över de delar som är hus och takpapp över de delar som enbart är taköverhäng. Anledningen till det är att det finns många kronor att spara på att minimera EPDM duken och att taköverhänget är väldigt stort. Blir det läckage där kommer det dessutom att kunna upptäckas och åtgärdas direkt och de delarna är även betydligt större lutning på. En avvägning baserat på risk och kostnad alltså. </p>
+
       <h3>Skafferi, entré & allrum</h3>
-      <p>Eftersom vi, så småningom, vill odla mycket av vår mat själva har huset stora skafferier, ett varmt och ett kallt. I huset finns en grovéntre, vilket vi tror alla som bor på landet ser som en nödvändighet i vardagen. Där kommer vi även ha en diskbänk och i planen finns även en gallersektion precis innanför dörren för alla smutsig stövlar, vi får väl se om den blir verklighet.</p>
-      <p>Det stora rummet är väl tilltaget och har plats för kök, matplats, soffa och finentré. Rummet har stora fönster och stora glasdörrar som på sommaren kan stå öppna för att sudda ut gränser för vad som är inne och ute. Vi funderade ett tag även på att variera golvmaterialen så att stenläggningen ute går en bit in i rummet, men vi kanske skippar det, vi får se!
-      </p>
-      <h3>Badrum & tadelakt</h3>
-      <p>I badrummet finns en låg dubbeldörr som leder ut, för där vill vi ha ett badkar till så vi kan sitta ute och bada även när vi inte orkar elda upp i badtunnan! I badrummets yttervägg har vi inga halmbalar utan lecasten som är kalkputsade. Anledningen till det är att vi vill bygga ett badrum utan tätskikt och ett bra sätt att göra det på är att se till att de material som kan riskera att bli fuktiga tål vatten och fukt. På de mest utsatta ställena kommer vi troligtvis använda oss av tadelakt, <a href="https://sv.wikipedia.org/wiki/Tadelakt">se wiki</a>, som är ett sätt att behandla kalkputsen med olivolja som gör att alla porer stängs, man förvandlar helt enkelt putsen till en hård, slät och vattentät yta som blir fantastiskt vacker.</p>
-      <h3>Sovrum & tvättstuga</h3>
-      <p>Eftersom vi tycker att det här med att bära smutstvätt är rätt trist har vi funderat ut en planritning så att alla sovrum har kontakt med tvättstugan, det gör att man kan ha tvättnedkast direkt till tvättstugan istället för tvättkorgar! Våra garderober hamnar dessutom så att tvätt kan, genom en lucka, placeras direkt in i garderoberna istället för att bäras omkring. Vi får väl se hur det i slutändan blir med detta, men det är planen! </p>
+      <p>Eftersom vi, så småningom, vill odla mycket av vår mat själva har huset stora skafferier, ett varmt och ett kallt. I huset finns en grovéntre, vilket vi tror alla som bor på landet ser som en nödvändighet i vardagen. Där finns en diskbänk och här finns även en gallersektion precis innanför dörren för alla smutsig stövlar.</p>
+      <p>Det stora rummet är väl tilltaget och har plats för kök, matplats, soffa och finentré. Rummet har stora fönster och stora glasdörrar som på sommaren kan stå öppna för att sudda ut gränser för vad som är inne och ute.</p>
+
+      <h3>Badrum</h3>
+      <p>Badrummet består av tre delar, en toalettdel, en duschdel och en baddel. I baddelen finns dessutom en dörr ut där vi i framtiden planerar att ha ett utebadkar! I badrummets yttervägg har vi inga halmbalar utan lecasten som är kalkputsade. Anledningen till det är att vi vill bygga ett badrum utan tätskikt och ett bra sätt att göra det på är att se till att de material som kan riskera att bli fuktiga tål vatten och fukt.</p>
+      <p>I duschen har vi marmormosaik för att få en yta som är enkel att hålla ren. Innerväggarna är av lera med lerputs som sedan är målade med äggoljetempera. På så sätt har vi även fått in material som buffrar den fukt som bildas i badrummet. </p>
+      <p>I taket har vi valt att sätta träullit skivor eftersom de har en bra buffrande förmåga och inte är känsliga för fukt. Över dessa har vi sedan en papp som hindrar fukten innan råspont, isolering och golv till övervåningen. </p>
+      <p>I badrummet finns dessutom ett gammalt sopnedkast som leder direkt in till tvättstugan, perfekt att slippa bära smutstvätten!</p>
+
     </div>
   </div>
 
@@ -229,17 +232,16 @@
 <div id="sektion-kalkputs" class="section container">
   <div class="col--12">
     <h2>KALK OCH LERPUTS</h2>
-    <p>Halmväggarna putsas med lera på insidan och kalk på utsidan. Anledningen till att inte använda lera på utsidan är att den inte tål vatten, då rinner den bort. Detta  kan även lösas genom att ha riktigt långa taköverhäng, men vi valde kalk på utsidan istället. På vissa delar av fasaden har vi istället träpanel med en vindpapp under. </p>
+    <p>Halmväggarna putsas med lera på insidan och kalk på utsidan. Anledningen till att inte använda lera på utsidan är att den inte tål vatten, då rinner den bort. Detta  kan även lösas genom att ha riktigt långa taköverhäng, men vi valde kalk på utsidan istället. På vissa delar av fasaden har vi istället träpanel med lera under. </p>
     
     <h3>Eget lerbruk</h3>
     <p>Leran tar vi från vår egen mark. Vi märkte att den leran vi har här är väldigt fin och av mycket bra kvalité. Eftersom ren lera spricker när den torkar blandas den med sand innan väggarna lerklinas. En nackdel med sanden är att ju mer sand som används desstu porösare blir väggen, målet är alltså att använda så lite sand som möjligt.  Vi har gjort tester och konstaterar att det räcker att blandar den 1:1 med sand för att den inte ska spricka, vilket tydligen är väldigt bra. </p>
 
-    <p>Samtliga ytterväggar och tak inomhus kommer att lerklinas. Innerväggarna är vi inte säkra på än men kommer troligen vara en mix av “vanliga” regelväggar och olika typer av lerväggar, lite beroende på omständigheter som var i huset väggen är, hur mycket som ska fästas på den och om den ska vara rak eller böjd. </p>
+    <p>Samtliga ytterväggar och tak inomhus kommer att lerklinas. Innerväggarna består en del av lera och en del av vanlig råspont med träfiberisolering eller linisolering mellan. </p>
 
     <h3>Kalk på ytterväggar</h3>
     <p>Tillsammans med StrohNatur var även <a href="http://www.minoeco.com/en/">Minoeco</a> som är duktiga på kalkputs. På deras inrådan blandade vi vårt eget kalkbruk istället för att köpa en färdig mix. Vi tycker själva att resultatet är fantastisk, med en snygg naturvit kulör som kommer hålla många år. Väggarna ska putsas med minst tre lager puts. Putsningen är kul men lite trixig, det är inte så svårt att komma igång men tar ett tag innan man får in snitsen. </p>
 
-    <p>Just nu har vi två lager kalkputs på i stort sett all yta som ska kalkas, i sommar (2017) kommer vi fortsätta med putsen och även lerputsen inomhus.</p>
   </div>
   <div class="col--12 lessons">
     <h2>LÄRDOMAR PUTS</h2>
@@ -268,14 +270,23 @@
 <div class="section container">
   <div class="col--12">
   <h3>Vidare arbete</h3>
-    <p>Vi kommer att fylla på den här sidan under hela bygget men för att få det senaste är det bäst att kolla in vårt byggkonto på Instagram: <a href="https://www.instagram.com/byggiverkligheten/" target="_blank"><span class="icon icon--instagram"></span>@byggiverkligheten</a></p>
+    <p>Vi har flyttat in men är inte färdigbyggda ännu, för att få uppdateringar och se fler bilder är det bäst att kolla in vårt byggkonto på Instagram: <a href="https://www.instagram.com/byggiverkligheten/" target="_blank"><span class="icon icon--instagram"></span>@byggiverkligheten</a></p>
     <p>Tack till Manos och Marta från <a href="http://www.minoeco.com/en/">Minoeco</a> och Herbert från <a href="http://www.strohnatur.at/">StrohNatur</a> för bilder på halmning och putsning.</p>
     
   </div>
+  <div class="col--12">
+    <h3 id="besokhalmhus">Besök i Halmhuset</h3>
+    <p>Har vi tid och möjlighet tar vi gärna emot studiebesök i huset. Är ni intresserade är det lättast att maila. Vi ber er att alltid höra av er innan och boka tid, vi har ofta saker på gång och har svårt att ta emot spontanbesök på gården. Kostnad beror på upplägg och hur många ni är. </p>
+    </div>
+    <div class="col--6">
+      <p><a href="mailto:info@verklighetensgard.se" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></p>
+    </div>
+  
+</div>
+<div class="section container">
   <div class="col--2">
     <a class="button" href="/halmhus.php">Gå upp</a>
   </div>
 </div>
-
 
 <?php include('footer.php'); ?>
