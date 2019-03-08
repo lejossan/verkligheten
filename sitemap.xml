@@ -26,6 +26,9 @@ Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator
 <url>
 <loc>https://verklighetensgard.se/camping.php</loc>
 </url>
+<url>
+<loc>https://verklighetensgard.se/slowtv.php</loc>
+</url>
 </urlset>
 <!--
 <guid value="2bb7450a-abe2-4cbe-a7c6-9385801ea191" />
