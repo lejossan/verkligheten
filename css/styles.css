@@ -401,6 +401,10 @@ iframe {
   vertical-align: top;
 }
 
+iframe.slowtv {
+  height: 90vh;
+}
+
 .ml {
   margin-left: 15px;
 }

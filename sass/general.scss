@@ -134,6 +134,9 @@ iframe{
     }
   }
 }
+iframe.slowtv {
+  height: 90vh;
+}
 
 .ml {
   margin-left: $gutter;
