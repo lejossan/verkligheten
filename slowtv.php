@@ -1,4 +1,4 @@
-<?php $title = "Kontakt"; include('header.php'); ?>
+<?php $title = "Slowtv"; include('header.php'); ?>
 
 
   <?php include('menu.php'); ?>
