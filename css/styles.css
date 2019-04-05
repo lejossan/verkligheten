@@ -368,6 +368,11 @@ iframe {
   width: 100%;
 }
 
+.hulta {
+  font-size: 0.7em;
+  display: block;
+}
+
 /* SECTIONS */
 .payoff {
   background-color: #D9D9C6;

@@ -1,6 +1,7 @@
 <div id="footer">
   <div class="container">
-    <p>&copy; 2013-<?php echo date("Y"); ?> Verklighetens Gård </p>
+    <p>&copy; 2013-<?php echo date("Y"); ?> Verklighetens Gård
+    <a class="hulta" href="http://www.hultabygden.se/" target="_blank">En del av Hultabygdens Kretsloppsförening</a></p>
   </div>
 </div>
 
