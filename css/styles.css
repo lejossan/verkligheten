@@ -261,6 +261,7 @@ body {
 
 h1, h2, h3, .h1, .h2, .h3 {
   font-family: "Amatica SC", "Times";
+  vertical-align: middle;
 }
 
 h1, .h1 {
@@ -321,6 +322,10 @@ a.nolink {
   text-decoration: none;
   color: #FFFFFF;
   font-weight: normal;
+}
+
+.minor {
+  font-size: 0.8em;
 }
 
 .strong {
@@ -646,6 +651,12 @@ iframe.slowtv {
   background: url("../img/icon-mail-white.svg") no-repeat;
   background-size: 50px;
 }
+.icon--tv {
+  background: url("../img/icon-tv.svg") no-repeat;
+  background-size: 90px;
+  width: 90px;
+  height: 95px;
+}
 
 .button {
   background-color: #8b9c7b;
@@ -653,14 +664,38 @@ iframe.slowtv {
   display: block;
   transition: background-color 0.5s;
   color: white;
-  padding: 15px 5px;
+  padding: 15px;
   text-align: center;
 }
 .button:hover {
   background-color: #748366;
   text-decoration: none;
 }
+.button.redlight {
+  background-color: #C57B7B;
+}
+.button:hover {
+  background-color: #824c4c;
+  text-decoration: none;
+}
+.button.more {
+  text-align: left;
+  padding: 15px 30px;
+}
+.button.more .h2 {
+  display: block;
+  margin-top: 0;
+  line-height: 1.1em;
+}
 
+@media only screen and (max-width: 765px) {
+  .button.more {
+    text-align: center;
+  }
+  .button.more .icon {
+    margin-top: 15px;
+  }
+}
 #mc_embed_signup form {
   background: #F6F6F6;
 }

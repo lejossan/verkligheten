@@ -8,6 +8,20 @@
 
   <?php include('texts/payoff.php'); ?>
   
+  <div class="section">
+    <div class="container">
+      <div class="col--6">
+          <a href="/slowtv.php" class="button more redlight">
+            <div class="col--8">
+              <span class="h2">JUST NU!</span>
+              <span class="minor">Första kycklingen är född för i år! Följ det spännande dramat här.</span>
+            </div>
+            <span class="icon icon--tv ml"></span>
+          </a>
+      </div>
+    </div>
+  </div>
+
   <div class="section white">
     <div class="container">
       <div class="col--6 right-align">

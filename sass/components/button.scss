@@ -4,10 +4,39 @@
   display: block;
   transition: background-color 0.5s;
   color: white;
-  padding: $gutter 5px;
+  padding: $gutter;
   text-align: center;
   &:hover {
     background-color: $greendark;
     text-decoration: none;
   }
+  &.redlight {
+    background-color: $redlight;
+  }
+  &:hover {
+    background-color: $reddark;
+    text-decoration: none;
+  }
+  &.more {
+    text-align: left;
+    padding: $gutter $gutter*2;
+    .h2 {
+      display: block;
+      margin-top: 0;
+      line-height: 1.1em;
+    }
+  }
 }
+
+
+
+
+
+@media only screen and (max-width: 765px) {
+    .button.more {
+      text-align: center;
+      .icon {
+        margin-top: $gutter;
+      }
+    }
+  }

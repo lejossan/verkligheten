@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="219px" height="226px" viewBox="0 0 219 226" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>TV</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Profil" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-81.000000, -649.000000)">
+            <g id="JustNu!" transform="translate(30.000000, 631.000000)">
+                <g id="TV" transform="translate(49.000000, 19.000000)">
+                    <g stroke-width="1" fill-rule="evenodd" transform="translate(-1.000000, 0.000000)" stroke="#FFFFFF">
+                        <path d="M37.8597571,65.8450955 C21.6667571,65.9165026 8.55831753,79.0275288 8.49010532,95.2205426 L8.10173615,187.416157 C8.101379,187.500941 8.10138737,187.585726 8.10176124,187.67051 C8.17360602,203.962752 21.4393192,217.111982 37.7315609,217.040137 L187.140243,216.381281 C203.333243,216.309874 216.441682,203.198848 216.509895,187.005834 L216.898264,94.8102192 C216.898621,94.7254354 216.898613,94.6406504 216.898239,94.5558667 C216.826394,78.263625 203.560681,65.1143952 187.268439,65.18624 L37.8597571,65.8450955 Z" id="Rectangle" stroke-width="3" transform="translate(112.500000, 141.113188) rotate(-5.000000) translate(-112.500000, -141.113188) "></path>
+                        <path d="M66.8265514,82.3727724 C50.6335455,82.4441375 37.5250695,95.5551386 37.4568233,111.748158 L37.2001499,172.649986 C37.1997926,172.734765 37.1998007,172.819545 37.2001744,172.904324 C37.2719768,189.196566 50.5376558,202.34583 66.8298977,202.274028 L178.987758,201.77973 C195.180764,201.708365 208.28924,188.597364 208.357486,172.404345 L208.614159,111.502517 C208.614517,111.417738 208.614508,111.332958 208.614135,111.248179 C208.542332,94.9559369 195.276653,81.8066727 178.984411,81.8784752 L66.8265514,82.3727724 Z" id="Rectangle-Copy" stroke-width="3" transform="translate(122.907155, 142.076251) rotate(-5.000000) translate(-122.907155, -142.076251) "></path>
+                        <path d="M95.1064533,66.8156425 L57.3732215,33.4078212" id="Line" stroke-width="3" fill="#FFFFFF" stroke-linecap="round"></path>
+                        <path d="M93.9569557,66.7909325 L135.394264,1.30962613" id="Line-Copy" stroke-width="3" fill="#FFFFFF" stroke-linecap="round"></path>
+                        <ellipse id="Oval" fill="#FFFFFF" cx="23.5" cy="147.476852" rx="5.5" ry="5.85648148"></ellipse>
+                        <ellipse id="Oval-Copy" fill="#FFFFFF" cx="21.5" cy="129.375" rx="5.5" ry="5.85648148"></ellipse>
+                        <path d="M20,162.292055 L30.8780488,159.722222" id="Line-2" stroke-width="3" fill="#FFFFFF" stroke-linecap="round"></path>
+                    </g>
+                    <text id="Slow-TV" transform="translate(122.516954, 136.815001) rotate(-6.000000) translate(-122.516954, -136.815001) " font-family="AmaticSC-Bold, Amatic SC" font-size="59" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="58.5169544" y="159.815001">Slow TV</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
