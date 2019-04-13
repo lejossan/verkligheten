@@ -56,7 +56,17 @@
 
   </div>
 
-  <div class="col--4">
+  <div class="col--12">
+    <h3>Besök i Halmhuset</h3>
+    <p>Har vi tid och möjlighet tar vi gärna emot studiebesök i huset. Är ni intresserade är det lättast att maila. Vi ber er att alltid höra av er innan och boka tid, vi har ofta saker på gång och har svårt att ta emot spontanbesök på gården. Kostnad beror på upplägg och hur många ni är. </p>
+  </div>
+
+  <div class="col--12">
+    <h3>Föreläsning halmhus</h3>
+    <p>Vi kommer gärna och föreläser i olika sammanhang. Dels om halmhus och byggnadsteknik men även om att ta klivet och att följa sina drömmar. Längd på föredraget anpassar vi efter önskemål.</p>
+  </div>
+
+  <div class="col--4 mt">
     <a class="button" href="mailto:info@verklighetensgard.se"><span class="icon icon--mail-white mr"></span>Maila oss!</a>
   </div>
 

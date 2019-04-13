@@ -1,17 +1,24 @@
 .index{
   background: $red;
   padding: $gutter;
-  position: -webkit-sticky;
   position: sticky;
   top: 0;
   color: $white;
   text-align: left;
   float: left;
+  overflow: hidden;
+  .title {
+    margin-top: 0;
+    cursor: pointer;
+  }
   li{
     margin: $gutter 0;
   }
   a{
     color: $white;
     text-decoration: none;
+  }
+  h3 {
+    margin: 0;
   }
 }

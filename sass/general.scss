@@ -75,6 +75,9 @@ a{
 .right-align, .right-align p {
   text-align: right;
 }
+.left-align, .left-align p {
+  text-align: left;
+}
 .center-align > div {
   vertical-align: middle;
 }
@@ -92,7 +95,7 @@ a{
     line-height: inherit;
   }
   li {
-    padding: 10PX 0;
+    padding: 10px 0;
   }
 }
 img, iframe{

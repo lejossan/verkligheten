@@ -8,13 +8,14 @@
   <?php include('menu.php'); ?>
 
   <ul class="index col--2">
-    <li class="title"><h3>Innehåll</h3></li>
+    <li class="title"><h3>Innehåll > </h3></li>
     <li><a href="#sektion-planering">Planering & Ritning</a></li>
     <li><a href="#sektion-grund">Grund med skumglas</a></li>
     <li><a href="#sektion-rundtimmer">Rundtimmer & Ek</a></li>
     <li><a href="#sektion-rundhustak">Självbärande rundhustak</a></li>
     <li><a href="#sektion-halmväggar">Väggar i halm</a></li>
     <li><a href="#sektion-kalkputs">Egen kalkputs</a></li>
+    <li><a href="#sektion-besok">Besök & Föreläsning</a></li>
   </ul>
   <div class="section container">
     <div class="col--6 ">
@@ -275,9 +276,13 @@
     
   </div>
   <div class="col--12">
-    <h3 id="besokhalmhus">Besök i Halmhuset</h3>
+    <h3 id="sektion-besok">Besök i Halmhuset</h3>
     <p>Har vi tid och möjlighet tar vi gärna emot studiebesök i huset. Är ni intresserade är det lättast att maila. Vi ber er att alltid höra av er innan och boka tid, vi har ofta saker på gång och har svårt att ta emot spontanbesök på gården. Kostnad beror på upplägg och hur många ni är. </p>
     </div>
+  
+    <h3>Föreläsning halmhus</h3>
+    <p>Vi kommer gärna och föreläser i olika sammanhang. Dels om halmhus och byggnadsteknik men även om att ta klivet och att följa sina drömmar. Längd på föredraget anpassar vi efter önskemål.</p>
+
     <div class="col--6">
       <p><a href="mailto:info@verklighetensgard.se" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></p>
     </div>
