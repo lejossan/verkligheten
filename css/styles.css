@@ -340,6 +340,10 @@ a.nolink {
   text-align: right;
 }
 
+.left-align, .left-align p {
+  text-align: left;
+}
+
 .center-align > div {
   vertical-align: middle;
 }
@@ -357,7 +361,7 @@ a.nolink {
   line-height: inherit;
 }
 .list li {
-  padding: 10PX 0;
+  padding: 10px 0;
 }
 
 img, iframe {
@@ -608,12 +612,16 @@ iframe.slowtv {
 .index {
   background: #9C7B7B;
   padding: 15px;
-  position: -webkit-sticky;
   position: sticky;
   top: 0;
   color: #FFFFFF;
   text-align: left;
   float: left;
+  overflow: hidden;
+}
+.index .title {
+  margin-top: 0;
+  cursor: pointer;
 }
 .index li {
   margin: 15px 0;
@@ -621,6 +629,9 @@ iframe.slowtv {
 .index a {
   color: #FFFFFF;
   text-decoration: none;
+}
+.index h3 {
+  margin: 0;
 }
 
 .lessons span {
