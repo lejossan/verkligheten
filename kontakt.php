@@ -67,7 +67,7 @@
   </div>
 
   <div class="col--4 mt">
-    <a class="button" href="mailto:info@verklighetensgard.se"><span class="icon icon--mail-white mr"></span>Maila oss!</a>
+    <a class="button" href="mailto:verklighetensgard@gmail.com"><span class="icon icon--mail-white mr"></span>Maila oss!</a>
   </div>
 
   <div class="col--12">

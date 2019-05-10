@@ -284,7 +284,7 @@
     <p>Vi kommer gärna och föreläser i olika sammanhang. Dels om halmhus och byggnadsteknik men även om att ta klivet och att följa sina drömmar. Längd på föredraget anpassar vi efter önskemål.</p>
 
     <div class="col--6">
-      <p><a href="mailto:info@verklighetensgard.se" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></p>
+      <p><a href="mailto:linnea.salbark@gmail.com" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></p>
     </div>
   
 </div>

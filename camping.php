@@ -30,7 +30,7 @@
 			</ul>
 				<p class="col--6">Betalning sker kontant eller med Swisch. Håll utkik på hemsidan för öppettider, vi tar inga förbokningar men det går bra att maila innan för att se så det finns plats. </p>
 			</div>
-      <div class="col--6 mb"><a href="mailto:info@verklighetensgard.se" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></div>
+      <div class="col--6 mb"><a href="mailto:verklighetensgard@gmail.com" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></div>
 		
   <div class="section container image--list mb">
   	<div class="col--2">
@@ -72,7 +72,7 @@
 			</ul>
 
     </div>
-    <div class="col--6 mb mt"><a href="mailto:info@verklighetensgard.se" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></div>
+    <div class="col--6 mb mt"><a href="mailto:verklighetensgard@gmail.com" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></div>
     </div>
 		
 
