@@ -18,7 +18,7 @@
       </a>
     </div>
     <div class="col--12 ">
-      <h3>Djurens bästa i focus</h3>
+      <h3>Djurens bästa i fokus</h3>
       <p>Vi känner våra tackor väl och har en relation till varje djur. För oss är det mycket viktigt att de trivs och har det bra. Därför går djuren i stora hagar med varierande terräng på somrarna och på vintrarna har de möjlighet att gå ut som de själva vill. Du kan därför vara säker på att det kött du har på tallriken både är bra för miljön och att djuret har haft det bra under sin uppväxt.</p>
     <h3>Slakten</h3>
       <p>Till hösten slaktas lammen på ett litet slakteri, vi kör själva dit och lämnar över direkt till slaktaren. Stressen blir därför minimal för djuren. Köttet styckas, om så önskas, annars kan man få lammet ostyckat och göra det själv. Önskas inälvsmat eller andra delar som normalt inte tas tillbaka, säg till innan slakt så ordnar vi det. </p>

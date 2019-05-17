@@ -28,7 +28,8 @@
     
         <?php //include('texts/far_teaser.php'); ?>
         <?php //include('texts/julmarknad_teaser.php'); ?>
-        <?php include('texts/varmarknad_teaser.php'); ?>
+        <?php include('texts/butik_teaser.php'); ?>
+        <?php //include('texts/varmarknad_teaser.php'); ?>
 
       </div> 
       <div class="col--6">
@@ -54,7 +55,7 @@
     <div class="container">
       <div class="col--6">
         <h2>VILL DU BESÖKA OSS?</h2>
-        <p>Söker ni ställplats eller camping i Östergötland ska ni kolla in sidan om vår <a href="/camping.php">camping</a>. Vi välkomnar även besökare på våra marknader som vi håller två gånger om året. En gång på våren och en gång till advent. Läs mer under <a href="/aktuellt.php">Aktuellt</a>.</p>
+        <p>Söker ni ställplats eller camping i Östergötland ska ni kolla in sidan om vår <a href="/camping.php">camping</a>. Vi välkomnar även besökare på våra marknader som vi håller två gånger om året. En gång på våren och en gång till advent. Läs mer under <a href="/aktuellt.php">Aktuellt</a>. Butiken har öppet helger under sommarhalvåret. Läs mer under <a href="/butik.php">Butik</a></p>
         <p>För studiebesök i halmhuset läs mer under <a href="/halmhus.php#besokhalmhus">Halmhus</a>. Kostnad beror på upplägg och hur många ni är.</p>
       </div>
     </div>

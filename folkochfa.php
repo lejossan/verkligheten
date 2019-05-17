@@ -10,7 +10,7 @@
   <div class="section container">
     <div class="col--12">
       <h2>FOLK</h2>
-      <p>I verkligheten bor två familjer. Familjen Salbark bygger halmhus och familjen Espenkrona bor i det gamla boningshuset på gården. Framöver kommer även Linnea och Josefines föräldrar flytta in i ett av husen.</p>
+      <p>Verkligheten är ett generationsboende. Familjen Salbark bor i sitt halmhus,  familjen Espenkrona bor i det gamla boningshuset på gården och föräldrarna Ottosson bor i Bokammaren, ett gammalt sädesmagasin som är ombyggt till bostadshus. Här lever vi och hjälps åt i vardagen, vi odlar ihop och sköter våra djur tillsammans. </p>
       <p>Lokaltidningen Corren har varit här och gjort reportage om både halmhuset och det gamla boningshuset.
       <ul class="left-align list">
         <li><a href="http://www.mvt.se/24corren/?clip=om4824052" class="readmore">Se andra reportaget om halmhuset här.</a></li>
@@ -23,7 +23,7 @@
     <div class="col--12">
       <h2>FÄ</h2>
       <p>I verkligheten bor förutom höns och får också två bruna hästar. Den stora hästen heter MaryAnne. Den lilla heter Folly. Här bor även bordercollien Jazz som mest busar runt och lever rövare. </p>
-      <p>Vi har också två katter som heter Evert och Missen, de bor i logen och hjälper oss hålla koll på den.</p>
+      <p>Vi har också två katter som heter Evert och Missen, de bor i logen och hjälper oss hålla koll på den. De nyaste tillskotten är Siv och Maj, våra små dvärgvädurskaniner. </p>
     </div>
   </div>
   

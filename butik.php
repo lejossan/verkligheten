@@ -9,12 +9,54 @@
 
   <div class="section container">
     <div class="col--12">
-      <h2>PRODUKTER FRÅN VERKLIGHETEN</h2>
-      <p>Vi odlar mycket här i Verkligheten och säljer gärna det vi själva inte gör av med. Till våra marknader fixar vi en liten butik i stallet. Där finns ett urval av noga utvalda produkter, alla med stor hänsyn till människa och miljö. Du kan tex hitta ekologiska tvålar från Klockargårdens, linoljeprodukter från Kulturhantverkarna, ekologiska fröer från ECO Grow och rengöringsprodukter från Iris Hantverk. Från oss i verkligheten brukar det finnas både tovat och prylar i trä. På vårmarknaden säljer vi även en massa olika förodlade grönsaksplantor. På julmarknaden kan du instället hitta fröhjärtan till fåglarna, jullimpor och julgrupper till julkalaset.</p>
-      <div class="col--6">
-        <p><a href="mailto:verklighetensgard@gmail.com" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></p>
+      <h2>MED OMTANKE OM MÄNNISKOR OCH MILJÖ</h2>
+      <p>Vi väljer våra produkter med omsorg och är noga när vi väljer vilka vi vill vara återförsäljare för. Vårt fokus ligger på att välja produkter som håller länge och där både tillverkning och användande sker på ett miljösmart sätt. Helst vill vi hitta hantverkare och tillverkare från Sverige, men ibland måste vi sträcka oss längre för att hitta det vi söker.</p>
+      <p>I butiken hittar du även våra egna varor, framförallt grönsaker och produkter från ull och lammskinn. Vi driver gården utan kemiska bekämpningsmedel, konstgödsel eller stora maskiner. Vi odlar och har djur för att vi tycker om det och för att kunna erbjuda våra kunder närproducerade livsmedel och produkter med så liten påverkan på miljön som möjligt. </p>
+      <p>När du handlar i butiken kan du vara säker på att vilken sak du än fastnar för så är den tillverkad med omsorg om människor och miljö! </p>
+    <div>
+      <h3 class="mt">ÖPPETTIDER</h3>
+      <ul class="col--6 camping--priser">
+        <li><span>Lördag & Söndag</span> <span>11-17</span></li>
+      </ul>
+        <p class="col--6">Betalning sker kontant eller med Swisch. Ibland när vi är hemma har vi extraöppet, håll utkik här eller på Facebook. I anslutning till butiken finns även en loppis.</p>
       </div>
+      <div class="col--6 mb"><a href="mailto:verklighetensgard@gmail.com" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></div>
+
     </div>
+
+
+  <div class="section container image--list">
+    <div class="col--2">
+      <a href="../img/butik/butik_inne.jpg" data-fancybox="butik" data-caption="Butik">
+        <img class="" src="../img/butik/butik_inne_thumb.jpg" alt="Butik" />
+      </a>
+    </div><!--
+    --><div class="col--2">
+      <a href="../img/butik/aleppo.jpg" data-fancybox="butik" data-caption="Aleppotvål">
+        <img class="" src="../img/butik/aleppo_thumb.jpg" alt="aleppotvål" />
+      </a>
+    </div><!--
+    --><div class="col--2">
+      <a href="../img/butik/butik_inne2.jpg" data-fancybox="butik" data-caption="Butik">
+        <img class="" src="../img/butik/butik_inne2_thumb.jpg" alt="butik" />
+      </a>
+    </div><!--
+    --><div class="col--2">
+        <a href="../img/butik/svampknivar.jpg" data-fancybox="butik" data-caption="Svampknivar">
+          <img class="" src="../img/butik/svampknivar_thumb.jpg" alt="svampknivar" />
+        </a>
+    </div><!--    
+    --><div class="col--2">
+        <a href="../img/butik/vagg.jpg" data-fancybox="butik" data-caption="En vägg i butiken.">
+          <img class="" src="../img/butik/vagg_thumb.jpg" alt="vägg i butiken" />
+        </a>
+    </div><!--    
+    --><div class="col--2">
+      <a href="../img/butik/kok.jpg" data-fancybox="butik" data-caption="En hel massa köksprylar.">
+        <img class="" src="../img/butik/kok_thumb.jpg" alt="Prylar till kök." />
+      </a>
+    </div>
+  </div>
 
     <div class="col--12">
       <h2>GRÖNSAKER</h2>
@@ -34,7 +76,7 @@
       </div>
     </div>
 
-
+<!--
     <div class="col--12">
       <h2>PRYLAR I ENE</h2>
       <p>Vi har många fina gamla enar här i Verkligheten. En av dem lutade över vägen och var inte längre särskilt fin, den tog vi istället ner och gjorde saker av, bland annat äggkoppar och äggförvaring.</p>
@@ -45,11 +87,10 @@
         </a>
       </div>
     </div>
-
+-->
     <div class="col--12">
       <h2>ÄGG</h2>
-        <p>Våra höns ger oss de godaste ägg med den gulaste gula man kan tänka sig. De går i en stor gård där de hittar både mask och gräs att äta. Vi har olika raser och därför även olika färg på äggen, vita, bruna, gröna och turkosa. </p>
-        <p>Ibland finns ägg till försäljning, sväng förbi eller hör av dig så har vi säkert över. Vi tar 40 kr för ett tolvpack. </p>
+        <p>Våra höns ger oss de godaste ägg med den gulaste gula man kan tänka sig. De går i en stor gård där de hittar både mask och gräs att äta. Vi har olika raser och därför även olika färg på äggen, vita, bruna, gröna och turkosa. </p><p>Har du tur finns de till försäljning i butiken.</p>
     </div>
     <div class="section container">
       <a class="col--4" href="img/doris.png" data-fancybox="ägg" data-caption="Tuppen Doris">
@@ -59,15 +100,13 @@
         <img src="img/knut.png" alt="Tuppen knut" />
       </a>
     </div>
-
+<!--
     <div class="col--12">
       <h2>LAMMSKINN</h2>
-      <p>Vi bereder alla lammskinn och säljer de efter hand när de kommer in. Håll utkik på <a href="www.facebook.com/verklighetensgard">Verklighetens Gård</a> på Facebook, när det finns kommer vi även sälja skinnen på våra marknader.</p>
+      <p>Vi bereder alla lammskinn och säljer de efter hand när de kommer in. Håll utkik på <a href="www.facebook.com/verklighetensgard">Verklighetens Gård</a> på Facebook, när det finns kommer vi även sälja skinnen i butiken.</p>
     </div>
-
-    <div class="col--6">
-      <a class="button" href="aktuellt.php">Läs mer om våra marknader här.</a>
-    </div>
+  -->
+<!--
     <div class="col--12">
       <h2>IRIS HANTVERK</h2>
       <p>I slutet av 1800-talet startades ett litet borstbinderi i Stockholm. Det blev en lyckad rörelse, så lyckad att den finns än idag. Nu, som då dras varje borste för hand av människor som saknar synförmåga. Handgjort och fingertoppskänsla får här en ny dimension. Alla borstarna är av exklusiv design och tillverkas mestadels av naturmaterial.</p>
@@ -116,8 +155,10 @@
           <img class="" src="img/var/ecogrow.jpg" alt="Ekologiska fröer" />
         </a>
       </div>
+       </div>
+-->
+   
 
-    </div>
     <div class="col--6">
     <p><a class="button" href="mailto:verklighetensgard@gmail.com"><span class="icon icon--mail-white mr"></span>Maila oss för mer info!</a></p></div>
   </div>
