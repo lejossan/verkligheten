@@ -1,6 +1,6 @@
 <?php
 
-echo '<h2 class="mt">Butiken har öppnat!</h2>';
+echo '<h2 class="mt" style="margin-top:50px;">Butiken har öppnat!</h2>';
 
 echo '<p>Nu har vi öppnat vår sommarbutik för säsongen. Från och med 18 maj är butiken öppen lördagar och söndagar 11-17. I anslutning till butiken finns även vår loppis som har samma öppettider. Välkomna!</p>';
 
