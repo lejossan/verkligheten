@@ -12,10 +12,10 @@
   }
   &.redlight {
     background-color: $redlight;
-  }
-  &:hover {
-    background-color: $reddark;
-    text-decoration: none;
+    &:hover {
+      background-color: $reddark;
+      text-decoration: none;
+    }
   }
   &.more {
     text-align: left;

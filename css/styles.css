@@ -375,6 +375,7 @@ iframe {
   vertical-align: top;
   display: inline-block !important;
   width: 100%;
+  height: 70vh;
 }
 
 .hulta {
@@ -662,6 +663,10 @@ iframe.slowtv {
   background: url("../img/icon-mail-white.svg") no-repeat;
   background-size: 50px;
 }
+.icon--pin {
+  background: url("../img/icon-pin.svg") no-repeat;
+  background-size: 30px;
+}
 .icon--tv {
   background: url("../img/icon-tv.png") no-repeat;
   background-size: 90px;
@@ -685,7 +690,7 @@ iframe.slowtv {
 .button.redlight {
   background-color: #C57B7B;
 }
-.button:hover {
+.button.redlight:hover {
   background-color: #824c4c;
   text-decoration: none;
 }
