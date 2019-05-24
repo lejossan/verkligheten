@@ -260,7 +260,9 @@ body {
 }
 
 h1, h2, h3, .h1, .h2, .h3 {
-  font-family: "Amatica SC", "Times";
+  font-family: "Amatica SC", "Times", sans-serif;
+  font-weight: 400;
+  font-style: normal;
   vertical-align: middle;
 }
 
