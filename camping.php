@@ -12,7 +12,7 @@
     <div class="col--12">
       <h2 class="mt">CAMPING I VERKLIGHETEN</h2>
       <p>
-				Nu har du möjlighet att stanna en natt eller flera i Verkligheten! Till sommaren öppnar vi en minicamping med tre ställplatser för husbil eller husvagn och även plats för tält. Här sover du på det vi kallar midsommarängen precis utanför hagen. Tillgång till vattentoalett och dusch finns i det gamla utedasset, här finns även en enklare ho till disken.
+				Nu har du möjlighet att stanna en natt eller flera i Verkligheten! Här har vi en minicamping med tre ställplatser för husbil eller husvagn och även plats för tält. Här sover du på det vi kallar midsommarängen precis utanför hagen. Tillgång till vattentoalett och dusch finns i det gamla utedasset, här finns även en enklare ho till disken.
 			</p>
 			<p>
 				Här prioriterar vi närhet till naturen och enkelheten. Kanske hälsar fåren på under morgonkaffet eller kanske har gårdens höns värpt så det finns färska ägg att köpa? På sommaren finns nästan alltid möjlighet att skörda grönsaker till kvällens middag, eller kanske hyra grillplatsen uppe i skogen? 
@@ -26,9 +26,10 @@
 			<ul class="col--6 camping--priser">
 				<li><span>Campingplats</span> <span>150 kr per natt</span></li>
 				<li><span>El</span> <span>50 kr per natt</span></li>
+        <li><span>Wi-Fi</span> <span>Gratis</span></li>
 				<li><span>Låna grillplats i skogen (inkl ved och murikka)</span> <span>100 kr per gång</span></li>
 			</ul>
-				<p class="col--6">Betalning sker kontant eller med Swisch. Håll utkik på hemsidan för öppettider, vi tar inga förbokningar men det går bra att maila innan för att se så det finns plats. </p>
+				<p class="col--6">Betalning sker kontant eller med Swisch. Vi har öppet fram till hösten, vi tar inga förbokningar men det går bra att maila innan för att se så det finns plats.</p>
 			</div>
       <div class="col--6 mb"><a href="mailto:verklighetensgard@gmail.com" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></div>
 		

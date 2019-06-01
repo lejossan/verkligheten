@@ -49,16 +49,16 @@
         <p>På Facebook annonserar vi våra marknader via event, vi lägger även ut information då och då om vad som händer på gården. Glöm inte att följa oss!</p>
       </li>
       <li>
+        <a href="https://www.instagram.com/verklighetensgard/" target="_blank"><span class="icon icon--instagram mr"></span>@verklighetensgard</a>
+        <p>Här kan ni följa allt som sker i Verkligheten.</p>
+      </li>
+      <li>
         <a href="https://www.instagram.com/byggiverkligheten/" target="_blank"><span class="icon icon--instagram mr"></span>@byggiverkligheten</a>
         <p>Följ oss i vår väg mot vårt nya hus, ett bygge av halm, lera, blod, svett och tårar. Vi är självbyggare med ett ekotänkt och vilda idéer.</p>
       </li>
       <li>
         <a href="https://www.instagram.com/odlaiverkligheten/" target="_blank"><span class="icon icon--instagram mr"></span>@odlaiverkligheten</a>
         <p>Här delar vi våra erfarenheter och tankar på vägen mot att leva ett lite mer självförsörjande och miljömässigt hållbart liv.</p>
-      </li>
-      <li>
-        <a href="https://www.instagram.com/djuriverkligheten/" target="_blank"><span class="icon icon--instagram mr"></span>@djuriverkligheten</a>
-        <p>Här kan ni följa vardagen för djuren i Verkligheten.</p>
       </li>
     </ul>
 
