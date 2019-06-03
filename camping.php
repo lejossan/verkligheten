@@ -29,7 +29,7 @@
         <li><span>Wi-Fi</span> <span>Gratis</span></li>
 				<li><span>Låna grillplats i skogen (inkl ved och murikka)</span> <span>100 kr per gång</span></li>
 			</ul>
-				<p class="col--6">Betalning sker kontant eller med Swisch. Vi har öppet fram till hösten, vi tar inga förbokningar men det går bra att maila innan för att se så det finns plats.</p>
+				<p class="col--6">Betalning sker kontant eller med Swisch.</p>
 			</div>
       <div class="col--6 mb"><a href="mailto:verklighetensgard@gmail.com" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></div>
 		
@@ -50,7 +50,13 @@
       </a>
     </div> 
   </div>
-
+  <div class="col--12">
+      <h3>ÖPPETTIDER</h3>
+      <p>
+        Vi har öppet under sommaren och fram till hösten, vi tar inga förbokningar men det går bra att maila innan för att se så det finns plats. 
+        På midsommarafton och lördagen efter 29/6 är det fest här i Verklighetens loge. Då är campingen stängd eller full av festgäster.
+      </p>
+    </div>
 		<div class="col--12">
       <h3>UTFLYKTSMÅL I NÄRHETEN</h3>
       <p>
