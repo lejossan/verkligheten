@@ -10,13 +10,13 @@
   <div class="section container">
     <div class="col--12">
       <h2>MED OMTANKE OM MÄNNISKOR OCH MILJÖ</h2>
-      <p>Vi väljer våra produkter med omsorg och är noga när vi väljer vilka vi vill vara återförsäljare för. Vårt fokus ligger på att välja produkter som håller länge och där både tillverkning och användande sker på ett miljösmart sätt. Helst vill vi hitta hantverkare och tillverkare från Sverige, men ibland måste vi sträcka oss längre för att hitta det vi söker.</p>
-      <p>I butiken hittar du även våra egna varor, framförallt grönsaker och produkter från ull och lammskinn. Vi driver gården utan kemiska bekämpningsmedel, konstgödsel eller stora maskiner. Vi odlar och har djur för att vi tycker om det och för att kunna erbjuda våra kunder närproducerade livsmedel och produkter med så liten påverkan på miljön som möjligt. </p>
+      <p>Här hittar du allt från lammskinn från våra egna får, tvål, textilier till dukning och bad, köksredskap till glass och våra egna grönsaker. Vi väljer våra produkter med omsorg och vårt fokus ligger på att välja produkter som håller länge och där både tillverkning och användande sker på ett miljösmart sätt. </p>
       <p>När du handlar i butiken kan du vara säker på att vilken sak du än fastnar för så är den tillverkad med omsorg om människor och miljö! </p>
     <div>
       <h3 class="mt">ÖPPETTIDER</h3>
       <ul class="col--6 camping--priser">
-        <li><span>Lördag & Söndag</span> <span>11-17</span></li>
+        <li><span>Lördag</span> <span>11-17</span></li>
+        <li>Sista helgen vi har öppet för säsongen är 7-8 september!</li>
       </ul>
         <p class="col--6">Betalning sker kontant eller med Swisch. Ibland när vi är hemma har vi extraöppet, håll utkik här eller på Facebook. I anslutning till butiken finns även en loppis.</p>
       </div>
@@ -60,9 +60,9 @@
 
     <div class="col--12">
       <h2>GRÖNSAKER</h2>
-      <p>Vi odlar mycket grönsaker här på gården och säljer överskottet via direktförsäljning på gården men också via REKO Linköping på Facebook. Alla grönsaker är småskaligt och ekologiskt odlade utan stora maskiner, de är dessutom endast gödslade med näring från gårdens djur. Mer hållbart än så blir det inte!</p>
+      <p>I butiken hittar du även säsongens grönsaker, odlade här på vår egen gård. Alla grönsaker är småskaligt och ekologiskt odlade utan stora maskiner, de är dessutom endast gödslade med näring från gårdens djur. Mer hållbart än så blir det inte!</p>
       <h3>REKO</h3>
-      <p>Kika in på <a href="https://www.facebook.com/groups/1163498600349258/"> REKO Linköping</a> för information om nästa utlämningstillfälle. Vi säljer inte på alla utlämningar så håll utkik efter ett inlägg från Verklighetens Gård!</p>
+      <p>När det är skördetid hittas vi ofta på REKO Linköping. Kika in här :<a href="https://www.facebook.com/groups/1163498600349258/"> REKO Linköping</a> för information om nästa utlämningstillfälle. Vi säljer inte på alla utlämningar så håll utkik efter ett inlägg från Verklighetens Gård!</p>
       <div class="section container">
         <a class="col--4" href="img/produkter/löklåda.jpg" data-fancybox="grönsaker" data-caption="Löklåda från Verklighetens Gård">
           <img class="" src="img/produkter/löklåda.jpg" alt="Löklåda" />
