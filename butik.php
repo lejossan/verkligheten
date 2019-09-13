@@ -15,8 +15,8 @@
     <div>
       <h3 class="mt">ÖPPETTIDER</h3>
       <ul class="col--6 camping--priser">
-        <li><span>Lördag</span> <span>11-17</span></li>
-        <li>Sista helgen vi har öppet för säsongen är 7-8 september!</li>
+        <li><span></span> <span></span></li>
+        <li>Stängt för säsongen, välkommen till advent igen!</li>
       </ul>
         <p class="col--6">Betalning sker kontant eller med Swisch. Ibland när vi är hemma har vi extraöppet, håll utkik här eller på Facebook. I anslutning till butiken finns även en loppis.</p>
       </div>

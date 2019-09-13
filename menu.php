@@ -4,7 +4,7 @@
 
   $menuItems = array();
   $menuItems[] = new MenuItem(getActiveMenuItem("/index"), "index.php", "HEM");
-  $menuItems[] = new MenuItem(getActiveMenuItem("/aktuellt"), "aktuellt.php", "AKTUELLT");
+  //$menuItems[] = new MenuItem(getActiveMenuItem("/aktuellt"), "aktuellt.php", "AKTUELLT");
   $menuItems[] = new MenuItem(getActiveMenuItem("/halmhus"), "halmhus.php", "HALMHUS");
   $menuItems[] = new MenuItem(getActiveMenuItem("/butik"), "butik.php", "BUTIK");
   $menuItems[] = new MenuItem(getActiveMenuItem("/far"), "far.php", "FÅR");
