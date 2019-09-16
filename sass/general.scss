@@ -40,7 +40,7 @@ p{
 }
 a{
   font-weight: bold;
-  color: $reddark;
+  color: $bluelight;
   text-decoration: none;
   &:hover {
     text-decoration: underline;
@@ -76,7 +76,7 @@ a{
   font-size: 1.2rem;
   font-weight: bold;
   padding: 1rem;
-  background: $red;
+  background: $bluelight;
 }
 .left-align {
   text-align: left;
@@ -126,13 +126,16 @@ iframe{
 
 
 .payoff{
-  background-color: $greenlight;
+  background-color: $greendark;
+  color: $white;
   text-align: center;
   padding: 0.5em;
   margin-top: -3px;
-  font-size: 1.1em;
+  font-size: 1rem;
   p{
     text-align: center;
+    font-style: italic;
+    padding: 0.5rem;
   }
 }
 .image--list div {

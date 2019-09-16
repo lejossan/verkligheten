@@ -11,7 +11,7 @@
     <div class="col--12">
       <h2>FOLK</h2>
       <p>Verkligheten är ett generationsboende. Familjen Salbark bor i sitt halmhus,  familjen Espenkrona bor i det gamla boningshuset på gården och föräldrarna Ottosson bor i Bokammaren, ett gammalt sädesmagasin som är ombyggt till bostadshus. Här lever vi och hjälps åt i vardagen, vi odlar ihop och sköter våra djur tillsammans. </p>
-      <p>Lokaltidningen Corren har varit här och gjort reportage om både halmhuset och det gamla boningshuset.
+      <p>Lokaltidningen Corren har varit här och gjort reportage om både halmhuset och det gamla boningshuset.</p>
       <ul class="left-align list">
         <li><a href="http://www.mvt.se/24corren/?clip=om4824052" class="readmore">Se andra reportaget om halmhuset här.</a></li>
         <li><a href="http://corren.se/24corren/?clip=om4143755" class="readmore">Se första reportaget om halmhuset här.</a></li>

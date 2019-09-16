@@ -27,7 +27,23 @@
     }
   }
 }
-
+.readmore--container {
+  position: relative;
+}
+.readmore--outline {
+  border: 1px solid white;
+  background: transparent;
+  color: #FFFFFF;
+  position: absolute;
+  bottom: 6rem;
+  left: 8.5rem;
+  border-radius: .4rem;
+  padding: 0.6rem;
+  &:hover {
+    background: rgba(255, 255, 255, 0.4);
+    text-decoration: none;
+  }
+}
 
 
 

@@ -301,7 +301,7 @@ p {
 
 a {
   font-weight: bold;
-  color: #824c4c;
+  color: #679FAC;
   text-decoration: none;
 }
 a:hover {
@@ -339,7 +339,7 @@ a.nolink {
   font-size: 1.2rem;
   font-weight: bold;
   padding: 1rem;
-  background: #9C7B7B;
+  background: #679FAC;
 }
 
 .left-align {
@@ -395,14 +395,17 @@ iframe {
 
 /* SECTIONS */
 .payoff {
-  background-color: #D9D9C6;
+  background-color: #42493A;
+  color: #FFFFFF;
   text-align: center;
   padding: 0.5em;
   margin-top: -3px;
-  font-size: 1.1em;
+  font-size: 1rem;
 }
 .payoff p {
   text-align: center;
+  font-style: italic;
+  padding: 0.5rem;
 }
 
 .image--list div {
@@ -449,7 +452,7 @@ iframe.slowtv {
 /* Menu */
 .menu {
   height: 50px;
-  background-color: #666666;
+  background-color: #A5AE9D;
   color: #F6F6F6;
   font-size: 1em;
 }
@@ -606,7 +609,7 @@ iframe.slowtv {
 }
 
 #footer {
-  background-color: #666666;
+  background-color: #42493A;
   color: #F6F6F6;
   padding: 15px 0;
 }
@@ -621,7 +624,7 @@ iframe.slowtv {
 }
 
 .index {
-  background: #9C7B7B;
+  background: #A5AE9D;
   padding: 15px;
   position: sticky;
   top: 0;
@@ -685,7 +688,7 @@ iframe.slowtv {
 }
 
 .button {
-  background-color: #8b9c7b;
+  background-color: #8B9C7B;
   border-radius: 4px;
   display: block;
   transition: background-color 0.5s;
@@ -694,7 +697,7 @@ iframe.slowtv {
   text-align: center;
 }
 .button:hover {
-  background-color: #748366;
+  background-color: #42493A;
   text-decoration: none;
 }
 .button.redlight {
@@ -712,6 +715,25 @@ iframe.slowtv {
   display: block;
   margin-top: 0;
   line-height: 1.1em;
+}
+
+.readmore--container {
+  position: relative;
+}
+
+.readmore--outline {
+  border: 1px solid white;
+  background: transparent;
+  color: #FFFFFF;
+  position: absolute;
+  bottom: 6rem;
+  left: 8.5rem;
+  border-radius: 0.4rem;
+  padding: 0.6rem;
+}
+.readmore--outline:hover {
+  background: rgba(255, 255, 255, 0.4);
+  text-decoration: none;
 }
 
 @media only screen and (max-width: 765px) {

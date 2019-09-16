@@ -4,7 +4,6 @@ echo '<h2 class="mt" style="margin-top:50px;">Butiken är stängd för säsongen
 
 echo '<p>Vi har packat ihop för den här säsongen och tar en paus i butiken. Till advent kan hända att vi igen slår upp portarna för extra julmys och glögg-doft. Såklart kommer vi då fylla upp med fina och snälla prylar till julstök och klappar.</p>';
 
-echo '<a class="readmore" href="butik.php">Läs mer om butiken</a>';
 ?>
 
 

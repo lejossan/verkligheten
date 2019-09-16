@@ -32,20 +32,22 @@
         <?php //include('texts/varmarknad_teaser.php'); ?>
 
       </div> 
-      <div class="col--6">
+      <div class="col--6 readmore--container">
         <!--<img class="lamm" src="../img/jul-round.png" alt="julmarknad" />-->
         <!--<img class="lamm" src="../img/lamm-round.png" alt="lamm" /> -->
         <!--<img class="lamm" src="../img/var-round.png" alt="lamm" />-->
         <img class="butik" src="../img/butik-round.png" alt="butik" />
+        <a class="readmore--outline" href="/butik.php">Läs mer</a>
       </div>
     </div>
   </div>
 
   <div class="section">
     <div class="container center-align">
-      <div class="col--6">
+      <div class="col--6 readmore--container">
         <img class="camping" src="../img/camping-round.png" alt="camping" />
         <!--<img class="lamm" src="../img/halmhus-round.png" alt="lamm" />-->
+        <a class="readmore--outline" href="/camping.php">Läs mer</a>
       </div>
       <div class="col--6 left-align">
         <?php include('texts/camping_teaser.php'); ?>
@@ -55,7 +57,24 @@
     </div>
   </div>
 
+
   <div class="section white">
+    <div class="container">
+      <div class="col--12">
+        <h2>VI SOM BOR HÄR</h2>
+        <p>Verkligheten är ett generationsboende. Familjen Salbark bor i sitt halmhus,  familjen Espenkrona bor i det gamla boningshuset på gården och föräldrarna Ottosson bor i Bokammaren, ett gammalt sädesmagasin som är ombyggt till bostadshus. Här lever vi och hjälps åt i vardagen, vi odlar ihop och sköter våra djur tillsammans. </p>
+        <p>På gården bor ungefär 25 höns som ger oss de godaste ägg med den gulaste gula man kan tänka sig. De går i en stor gård där de hittar både mask och gräs att äta. Vi har olika raser och därför även olika färg på äggen, vita, bruna, gröna och turkosa. </p>
+        <p>I verkligheten bor förutom höns och får också två hästar. Här bor även bordercollien Jazz som mest busar runt och lever rövare. </p>
+        <p>Vi har också två katter som heter Evert och Missen, de bor i logen och hjälper oss hålla koll på den. De nyaste tillskotten är Siv och Maj, våra små dvärgvädurskaniner. </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="imagewrapper--small folk">
+    <div class="header-image image"></div>
+  </div>
+  
+  <div class="section">
     <div class="container">
       <div class="col--6">
         <h2>VILL DU BESÖKA OSS?</h2>
