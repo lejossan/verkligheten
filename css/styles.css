@@ -334,6 +334,14 @@ a.nolink {
   font-weight: 900;
 }
 
+.emph {
+  color: #FFFFFF;
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 1rem;
+  background: #9C7B7B;
+}
+
 .left-align {
   text-align: left;
 }

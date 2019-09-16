@@ -11,6 +11,8 @@
     <div class="section container">
     <div class="col--12">
       <h2 class="mt">CAMPING I VERKLIGHETEN</h2>
+      <br/>
+      <p class="emph">Campingen är stängd för säsongen, välkommen igen i vår!</p>
       <p>
 				Nu har du möjlighet att stanna en natt eller flera i Verkligheten! Här har vi en minicamping med tre ställplatser för husbil eller husvagn och även plats för tält. Här sover du på det vi kallar midsommarängen precis utanför hagen. Tillgång till vattentoalett och dusch finns i det gamla utedasset, här finns även en enklare ho till disken.
 			</p>
