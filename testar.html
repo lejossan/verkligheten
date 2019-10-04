@@ -13,7 +13,7 @@
             
         }
 
-        #bm2 {
+        #bm3 {
             border: 2px solid rgba(0, 0, 0, .87);
         }
         .bm {
@@ -31,16 +31,20 @@
 </head>
 
 <body>
-    <h3>Autoplay</h3>
+    <h3>Autoplay/loop</h3>
     <div id="bm1" class="bm"></div>
 
-    <h3>Play on mouse enter</h3>
+    <h3>Autoplay/no loop</h3>
     <div id="bm2" class="bm"></div>
+
+    <h3>Play on mouse enter</h3>
+    <div id="bm3" class="bm"></div>
 
     <script src="js/lottie.js" type="text/javascript"></script>
     <script>
         const bm1 = document.getElementById('bm1');
         const bm2 = document.getElementById('bm2');
+        const bm3 = document.getElementById('bm3');
 
         var animation = bodymovin.loadAnimation({
             container: bm1,
@@ -52,14 +56,21 @@
         var animation = bodymovin.loadAnimation({
             container: bm2,
             renderer: 'svg',
+            loop: false,
+            autoplay: true,
+            path: 'bodymovin/FBK-konto/data.json'
+        });
+        var animation = bodymovin.loadAnimation({
+            container: bm3,
+            renderer: 'svg',
             loop: true,
             autoplay: false,
             path: 'bodymovin/FBK-konto/data.json'
         });
-        bm2.addEventListener("mouseenter", function () {
+        bm3.addEventListener("mouseenter", function () {
             animation.play();
         });
-        bm2.addEventListener("mouseleave", function () {
+        bm3.addEventListener("mouseleave", function () {
             animation.stop();
         });
     </script>
