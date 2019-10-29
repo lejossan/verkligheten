@@ -21,7 +21,7 @@ $bluelight: #679FAC;
 $bluedark: #316C77;
 $greenlight: #A5AE9D;
 $green: #8B9C7B;
-$greendark: #69745C;
+$greendark: #6B7362;
 
 /* IMAGES */
 $small: 350px;
@@ -49,6 +49,13 @@ $container-width: 740px;
 $column-count: 12;
 $gutter: 15px;
 
+.container-flex {
+  @include center();
+  max-width: $container-width;
+  display: flex;
+  justify-content: center;
+}
+
 .container {
   @include center();
   max-width: $container-width;
@@ -67,5 +74,10 @@ $gutter: 15px;
       width: 100%;
       text-align: center;
     }
+    .container-flex {
+      flex-direction: column;
+    }
   }
 }
+
+

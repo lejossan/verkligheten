@@ -23,7 +23,7 @@
   </div>
 -->
   <div class="section white">
-    <div class="container">
+    <div class="container-flex">
       <div class="col--6 right-align">
     
         <?php //include('texts/far_teaser.php'); ?>
@@ -44,7 +44,7 @@
   </div>
 
   <div class="section">
-    <div class="container center-align">
+    <div class="container-flex center-align">
       <div class="col--6 readmore--container">
         <!-- <img class="camping" src="../img/camping-round.png" alt="camping" /> -->
         <!--<img class="lamm" src="../img/halmhus-round.png" alt="lamm" />-->

@@ -29,6 +29,8 @@
 }
 .readmore--container {
   position: relative;
+  display: flex;
+  justify-content: center;
 }
 .readmore--outline {
   border: 1px solid white;
