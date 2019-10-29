@@ -395,7 +395,7 @@ iframe {
 
 /* SECTIONS */
 .payoff {
-  background-color: #42493A;
+  background-color: #69745C;
   color: #FFFFFF;
   text-align: center;
   padding: 0.5em;
@@ -609,7 +609,7 @@ iframe.slowtv {
 }
 
 #footer {
-  background-color: #42493A;
+  background-color: #69745C;
   color: #F6F6F6;
   padding: 15px 0;
 }
@@ -697,7 +697,7 @@ iframe.slowtv {
   text-align: center;
 }
 .button:hover {
-  background-color: #42493A;
+  background-color: #69745C;
   text-decoration: none;
 }
 .button.redlight {

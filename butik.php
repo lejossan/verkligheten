@@ -58,11 +58,11 @@
     </div>
   </div>
 
-    <div class="col--12">
+    <div id="gronsaker" class="col--12">
       <h2>GRÖNSAKER</h2>
       <p>I butiken hittar du även säsongens grönsaker, odlade här på vår egen gård. Alla grönsaker är småskaligt och ekologiskt odlade utan stora maskiner, de är dessutom endast gödslade med näring från gårdens djur. Mer hållbart än så blir det inte!</p>
       <h3>REKO</h3>
-      <p>När det är skördetid hittas vi ofta på REKO Linköping. Kika in här :<a href="https://www.facebook.com/groups/1163498600349258/"> REKO Linköping</a> för information om nästa utlämningstillfälle. Vi säljer inte på alla utlämningar så håll utkik efter ett inlägg från Verklighetens Gård!</p>
+      <p>När det är skördetid hittas vi ofta på REKO Linköping. Kika in här: <a href="https://www.facebook.com/groups/1163498600349258/"> REKO Linköping</a> för information om nästa utlämningstillfälle. Vi säljer inte på alla utlämningar så håll utkik efter ett inlägg från Verklighetens Gård!</p>
       <div class="section container">
         <a class="col--4" href="img/produkter/löklåda.jpg" data-fancybox="grönsaker" data-caption="Löklåda från Verklighetens Gård">
           <img class="" src="img/produkter/löklåda.jpg" alt="Löklåda" />
