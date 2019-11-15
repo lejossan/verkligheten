@@ -3,28 +3,22 @@
 
   <div class="imagewrapper--small camping">
     <div class="header-image image"></div>
-    <h1>CAMPING</h1>
+    <h1>NATURLOGI</h1>
   </div>
   <?php include('menu.php'); ?>
 
 
-    <div class="section container">
+  <div class="section container">
     <div class="col--12">
-      <h2 class="mt">CAMPING I VERKLIGHETEN</h2>
+      <h2 class="mt">NATURLOGI I VERKLIGHETEN</h2>
       <br/>
-      <p class="emph">Campingen är stängd för säsongen, välkommen igen i vår!</p>
+      <p class="emph">Allt är stängd för säsongen, välkommen igen i vår!</p>
       <p>
-				Nu har du möjlighet att stanna en natt eller flera i Verkligheten! Här har vi en minicamping med tre ställplatser för husbil eller husvagn och även plats för tält. Här sover du på det vi kallar midsommarängen precis utanför hagen. Tillgång till vattentoalett och dusch finns i det gamla utedasset, här finns även en enklare ho till disken.
-			</p>
-			<p>
-				Här prioriterar vi närhet till naturen och enkelheten. Kanske hälsar fåren på under morgonkaffet eller kanske har gårdens höns värpt så det finns färska ägg att köpa? På sommaren finns nästan alltid möjlighet att skörda grönsaker till kvällens middag, eller kanske hyra grillplatsen uppe i skogen? 
-			</p>
-			<p>
-				Vill du som sover i tält hellre slå upp tältet i skogen än på ängen går det bra, här kan du tälta i skogen samtidigt som du har tillgång till toalett och dusch! 
-			</p>
-
-
-			<h3 class="mt">PRISER</h3>
+        Vi arbetar med ett nytt koncept för övernattning och upplevelser hos oss, Naturlogi. Arbete pågår och spännande saker händer framöver.  
+      </p>
+      <p>Mer info kommer under våren</p>
+      </div> 
+			<!-- <h3 class="mt">PRISER</h3>
 			<ul class="col--6 camping--priser">
 				<li><span>Campingplats</span> <span>150 kr per natt</span></li>
 				<li><span>El</span> <span>50 kr per natt</span></li>
@@ -32,10 +26,10 @@
 				<li><span>Låna grillplats i skogen (inkl ved och murikka)</span> <span>100 kr per gång</span></li>
 			</ul>
 				<p class="col--6">Betalning sker kontant eller med Swisch.</p>
-			</div>
+			
       <div class="col--6 mb"><a href="mailto:verklighetensgard@gmail.com" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></div>
-		
-  <div class="section container image--list mb">
+		-->
+  <!-- <div class="section container image--list mb">
   	<div class="col--2">
         <a href="../img/camping/midsommarang.png" data-fancybox="camping" data-caption="Camping på midsommarängen">
           <img class="" src="../img/camping/midsommarang_thumb.png" alt="Midsommarängen" />
@@ -51,7 +45,7 @@
         <img class="" src="../img/camping/camping2_thumb.png" alt="Campa bland ekarna" />
       </a>
     </div> 
-  </div>
+  </div> 
   <div class="col--12">
       <h3>ÖPPETTIDER</h3>
       <p>
@@ -78,15 +72,35 @@
 				<li><span>Kanot 	(ska helst förbokas)</span> <span>350 kr för 1 dag, 600 kr för 2 dagar, därefter 250 kr per dag.</span></li>
 				<li><span>Kanotvagn</span> <span>50 kr per dag</span></li>
 				<li><span>Flytväst</span> <span>50 kr per dag</span></li>
-			</ul>
+			</ul> 
 
     </div>
     <div class="col--6 mb mt"><a href="mailto:verklighetensgard@gmail.com" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></div>
-    </div>
+  
+  </div>
 		
+ --> 
+</div>
 
   <div class="section container image--list mb">
-    <div class="col--2">
+  <div class="col--4">
+      <a href="../img/lagerplats.jpg" data-fancybox="naturlogi" data-caption="Tacka">
+        <img src="img/lagerplats.jpg" alt="Tacka och lamm" />
+      </a>
+</div>
+<div class="col--4">
+      <a href="../img/wood5.jpg" data-fancybox="naturlogi" data-caption="Skog">
+        <img src="img/wood5.jpg" alt="Skog" />
+      </a>
+</div>
+<div class="col--4">
+      <a href="../img/lykta.jpg" data-fancybox="naturlogi" data-caption="Lykta i natten">
+        <img src="img/lykta.jpg" alt="Lykta i natten" />
+      </a>
+</div>
+
+    </div> 
+    <!-- <div class="col--2">
       <a href="../img/camping/hackelboa4.png" data-fancybox="aktiviteter" data-caption="På spång i Hackelboös naturreservat.">
         <img class="" src="../img/camping/hackelboa4_thumb.png" alt="På spång i Hackelboö" />
       </a>
@@ -105,12 +119,12 @@
       <a href="../img/camping/trollegater.jpg" data-fancybox="aktiviteter" data-caption="Grottor i Trollegater">
         <img class="" src="../img/camping/trollegater_thumb.png" alt="Grottor i Trollegater" />
       </a>
-    </div><!--
-    --><div class="col--2">
+    </div>
+    <div class="col--2">
       <a href="../img/camping/kanot3.png" data-fancybox="aktiviteter" data-caption="Kanottur på Drögen">
         <img class="" src="../img/camping/kanot3_thumb.png" alt="Kanottur på Drögen" />
       </a>
-    </div>
+    </div> -->
   </div>
 
     <?php include('footer.php'); ?>

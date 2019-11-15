@@ -4,7 +4,8 @@
 
 .imagewrapper--small, .imagewrapper--medium, .imagewrapper--big{
   width: 100%;
-  h1{
+  position: relative;
+  h1, .logo{
     position: absolute;
     left: 50%;
     text-align: center;
@@ -20,8 +21,16 @@
       background-position: 50%;
       background-repeat: no-repeat;
   }
-  &.wood .image{
-    background-image: url(../img/wood2.jpg);
+  &.wood {
+    .image{
+      background-image: url(../img/wood2.jpg);
+    }
+  .logo {
+      border: none;
+      width: 70vw;
+      max-width: 640px;
+      bottom: 9em;
+    }
   }
   &.far{
     .image{
@@ -48,6 +57,15 @@
     h1{
       left: 15%; 
     }
+  }
+  &.lok{ 
+    .image{
+      background-image: url(../img/lok.jpg);
+      background-position: 0 40%;
+    }
+    h1 {
+      background: rgba(0, 0, 0, 0.3);
+    }
   } 
   &.kontakt{ 
     .image{
@@ -60,8 +78,8 @@
   }
   &.camping{ 
     .image{
-      background-image: url(../img/camping.jpg);
-      background-position: 0 80%;
+      background-image: url(../img/wood6.jpg);
+      background-position: 0 46%;
     }
     h1{
       left: 15%; 
@@ -82,11 +100,12 @@
   }
   &.butik {
     .image{
-      background-image: url(../img/butik2.jpg);
+      background-image: url(../img/butik3.jpg);
       background-position: 100% 65%;
     }
     h1{
-      left: 20%;
+      left: 12%;
+      background: rgba(0, 0, 0, 0.3);
     }
   }
   .image-view{
@@ -129,6 +148,10 @@
   .imagewrapper--small, .imagewrapper--medium, .imagewrapper--big{
     &.halmhus h1 {
       transform: translate(-50%, -90%);
+    }
+    &.wood .logo {
+      width: 90vw;
+      bottom: 0;
     }
   }
 }

@@ -1,8 +1,8 @@
 <?php
 
-echo '<h2 class="mt" style="margin-top:50px;">Butiken är stängd för säsongen!</h2>';
+echo '<h2 class="mt" style="margin-top:50px;">Adventsöppet!</h2>';
 
-echo '<p>Vi har packat ihop för den här säsongen och tar en paus i butiken. Till advent kan hända att vi igen slår upp portarna för extra julmys och glögg-doft. Såklart kommer vi då fylla upp med fina och snälla prylar till julstök och klappar.</p>';
+echo '<p>Julen närmar sig och vi öppnar upp butiken för adventsmys. Välkommen hit och kom i julstämning med oss, kanske hittar du den där perfekta julklappen?  Vi bjuder på glögg och pepparkakor.</p>';
 
 ?>
 
@@ -15,6 +15,6 @@ echo '<p>Här hittar du säsongens grönsaker, tvålar, textilier och massa anna
 
 echo '<a class="readmore" href="kontakt.php">Hitta hit</a>';
 echo '<br/>';
-echo '<a class="readmore" href="butik.php">Läs mer om butiken</a>';
+echo '<a class="readmore" href="handelsbod.php">Läs mer om butiken</a>';
 
 ?> -->

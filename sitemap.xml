@@ -12,7 +12,7 @@ Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator
 <loc>https://verklighetensgard.se/aktuellt.php</loc>
 </url>
 <url>
-<loc>https://verklighetensgard.se/far.php</loc>
+<loc>https://verklighetensgard.se/smabruk.php</loc>
 </url>
 <url>
 <loc>https://verklighetensgard.se/index.php</loc>
@@ -21,10 +21,10 @@ Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator
 <loc>https://verklighetensgard.se/halmhus.php</loc>
 </url>
 <url>
-<loc>https://verklighetensgard.se/butik.php</loc>
+<loc>https://verklighetensgard.se/handelsbod.php</loc>
 </url>
 <url>
-<loc>https://verklighetensgard.se/camping.php</loc>
+<loc>https://verklighetensgard.se/naturlogi.php</loc>
 </url>
 <url>
 <loc>https://verklighetensgard.se/slowtv.php</loc>
