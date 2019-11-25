@@ -34,14 +34,14 @@
 }
 .readmore--outline {
   border: 1px solid white;
-  background: rgba(0,0,0,0.2);
+  background: rgba(107, 115, 98, 0.8);
   color: #FFFFFF;
   position: absolute;
   bottom: 6rem;
-  border-radius: .4rem;
+  border-radius: .2rem;
   padding: 0.6rem;
   &:hover {
-    background: rgba(255, 255, 255, 0.4);
+    background: rgba(107, 115, 98, 1);
     text-decoration: none;
   }
 }
