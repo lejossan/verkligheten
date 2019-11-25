@@ -33,7 +33,7 @@
         <!--<img class="lamm" src="../img/jul-round.png" alt="julmarknad" />-->
         <!--<img class="lamm" src="../img/lamm-round.png" alt="lamm" /> -->
         <!--<img class="lamm" src="../img/var-round.png" alt="lamm" />-->
-        <img class="butik" src="../img/advent-round2.png" alt="handelsbod" />
+        <img class="butik" src="../img/advent-round.png" alt="handelsbod" />
         <a class="readmore--outline" href="/handelsbod.php">Läs mer</a>
       </div>
     </div>
