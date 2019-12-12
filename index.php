@@ -27,14 +27,14 @@
   <div class="section white">
     <div class="container-flex">
       <div class="col--6 right-align">
-        <?php include('texts/butik_teaser.php'); ?>
+        <?php include('texts/far_teaser.php'); ?>
       </div> 
       <div class="col--6 readmore--container">
         <!--<img class="lamm" src="../img/jul-round.png" alt="julmarknad" />-->
-        <!--<img class="lamm" src="../img/lamm-round.png" alt="lamm" /> -->
+        <img class="lamm" src="../img/lamm-round.png" alt="lamm" />
         <!--<img class="lamm" src="../img/var-round.png" alt="lamm" />-->
-        <img class="butik" src="../img/advent-round.png" alt="handelsbod" />
-        <a class="readmore--outline" href="/handelsbod.php">Läs mer</a>
+        <!--<img class="butik" src="../img/advent-round.png" alt="handelsbod" />-->
+        <!--<a class="readmore--outline" href="/folkochfa.php">Läs mer</a>-->
       </div>
     </div>
   </div>
@@ -45,7 +45,7 @@
         <!-- <img class="camping" src="../img/camping-round.png" alt="camping" /> -->
         <!--<img class="lamm" src="../img/halmhus-round.png" alt="lamm" />-->
         <img class="reko" src="../img/reko-round.png" alt="butik" />
-        <a class="readmore--outline" href="/smabruk.php#gronsaker">Läs mer</a>
+        <!--<a class="readmore--outline" href="/smabruk.php#gronsaker">Läs mer</a>-->
       </div>
       <div class="col--6 left-align">
         <?php include('texts/reko_teaser.php'); ?>

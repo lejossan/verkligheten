@@ -1,9 +1,8 @@
 <?php
 
 echo '<h2 class="mt" style="margin-top:50px;">REKO-tider!</h2>';
-
 echo '<p>Skörden är över och förråden påfyllda. Vi har just nu massor fin lök och hela jordkällaren är fylld med potatis. Då passar vi på att komma på REKO-utlämningarna i Linköping. Hoppas vi ses där!</p>';
-
+echo '<a class="readmore" href="smabruk.php">Läs mer om vårt småbruk här.</a>';
 ?>
 
 
@@ -15,6 +14,6 @@ echo '<p>Här hittar du säsongens grönsaker, tvålar, textilier och massa anna
 
 echo '<a class="readmore" href="kontakt.php">Hitta hit</a>';
 echo '<br/>';
-echo '<a class="readmore" href="butik.php">Läs mer om butiken</a>';
+echo '<a class="readmore" href="handelsbod.php">Läs mer om butiken</a>';
 
 ?> -->
