@@ -16,8 +16,8 @@
     <div>
       <h3 class="mt">ÖPPETTIDER</h3>
       <ul class="col--6 camping--priser">
-        <li><span>Adventsöppet</span> <span></span></li>
-        <li><span>1 & 8 december</span> <span>11-16</span></li>
+        <li><span>Stängt för säsongen, öppnar igen i vår!</span> <span></span></li>
+        <!--<li><span>1 & 8 december</span> <span>11-16</span></li>-->
       </ul>
         <p class="col--6">Betalning sker kontant eller med Swisch.</p>
       </div>
