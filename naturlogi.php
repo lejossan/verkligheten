@@ -18,17 +18,20 @@
       </p>
       <p>Mer info kommer under våren</p>
       </div> 
-			<!-- <h3 class="mt">PRISER</h3>
-			<ul class="col--6 camping--priser">
+		  <h3 class="mt">STÄLLPLATSER</h3>
+      <p>Våra ställplatser kommer finnas kvar precis som förr. Här har vi en minicamping med tre ställplatser för husbil eller husvagn och även plats för tält. Här sover du på det vi kallar midsommarängen precis utanför hagen. Tillgång till vattentoalett och dusch finns i det gamla utedasset, här finns även en enklare ho till disken. Vi har öppet under sommaren och fram till hösten, vi tar inga förbokningar men det går bra att maila innan för att se så det finns plats.
+			</p>
+      <h3 class="mt">PRISER</h3>
+			<ul class="col--6 camping--priser mb">
 				<li><span>Campingplats</span> <span>150 kr per natt</span></li>
 				<li><span>El</span> <span>50 kr per natt</span></li>
         <li><span>Wi-Fi</span> <span>Gratis</span></li>
-				<li><span>Låna grillplats i skogen (inkl ved och murikka)</span> <span>100 kr per gång</span></li>
+				<!--<li><span>Låna grillplats i skogen (inkl ved och murikka)</span> <span>100 kr per gång</span></li>-->
 			</ul>
-				<p class="col--6">Betalning sker kontant eller med Swisch.</p>
+				<!--<p class="col--6">Betalning sker kontant eller med Swisch.</p>-->
 			
-      <div class="col--6 mb"><a href="mailto:verklighetensgard@gmail.com" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></div>
-		-->
+      <div class="col--6 mb mt"><a href="mailto:verklighetensgard@gmail.com" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></div>
+
   <!-- <div class="section container image--list mb">
   	<div class="col--2">
         <a href="../img/camping/midsommarang.png" data-fancybox="camping" data-caption="Camping på midsommarängen">
@@ -83,17 +86,12 @@
 </div>
 
   <div class="section container image--list mb">
-  <div class="col--4">
+  <div class="col--6">
       <a href="../img/lagerplats.jpg" data-fancybox="naturlogi" data-caption="Tacka">
         <img src="img/lagerplats.jpg" alt="Tacka och lamm" />
       </a>
 </div>
-<div class="col--4">
-      <a href="../img/wood5.jpg" data-fancybox="naturlogi" data-caption="Skog">
-        <img src="img/wood5.jpg" alt="Skog" />
-      </a>
-</div>
-<div class="col--4">
+<div class="col--6">
       <a href="../img/lykta.jpg" data-fancybox="naturlogi" data-caption="Lykta i natten">
         <img src="img/lykta.jpg" alt="Lykta i natten" />
       </a>
