@@ -26,7 +26,6 @@
   
   <link rel="stylesheet" href="css/styles.css?v=<?php echo time(); ?>">
   <link rel="stylesheet" href="css/jquery.fancybox.min.css">
-  <link href="https://fonts.googleapis.com/css?family=Amatica+SC|Raleway:200" rel="stylesheet">
 
   <script src="https://use.fontawesome.com/d84dbab98e.js"></script>
   

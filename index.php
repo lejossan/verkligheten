@@ -31,7 +31,7 @@
       </div> 
       <div class="col--6 readmore--container">
         <!--<img class="lamm" src="../img/jul-round.png" alt="julmarknad" />-->
-        <img class="lamm" src="../img/lamm-round.png" alt="lamm" />
+        <img class="lamm" src="../img/lamm-round-white.png" alt="lamm" />
         <!--<img class="lamm" src="../img/var-round.png" alt="lamm" />-->
         <!--<img class="butik" src="../img/advent-round.png" alt="handelsbod" />-->
         <!--<a class="readmore--outline" href="/folkochfa.php">Läs mer</a>-->
