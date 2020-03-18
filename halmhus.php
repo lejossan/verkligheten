@@ -1,6 +1,5 @@
 <?php $title = "Halmhuset Lilla Verkligheten"; include('header.php'); ?>
 
-
   <div class="imagewrapper--small halmhus">
     <div class="header-image image"></div>
     <h1>HALMHUSET LILLA VERKLIGHETEN</h1>
@@ -18,62 +17,54 @@
     <li><a href="#sektion-besok">Besök & Föreläsning</a></li>
   </ul>
   <div class="section container">
-    <div class="col--6 ">
+    <div class="col--6">
       <h2>HALMHUSET FRÅN VERKLIGHETEN</h2>
       <p>Vi ville bygga ett hus, på riktigt och från grunden. Det skulle vara ett hus som är miljövänligare och med mindre kemikalier, både i byggskedet och när vi bor i det. Vi ville också ha ett hus som smälte in i naturen där det befinner sig, och ett hus som inte är som alla andra. Här har vi försökt att förklara lite hur vi har gjort och vad vi har lärt oss hittills.</p>
     </div>
+    <div class="col--6">
+      <h4>Faktaruta</h4>
+      <ul>
+        <li>Fakta 1</li>
+        <li>Fakta 1</li>
+        <li>Fakta 1</li>
+        <li>Fakta 1</li>
+        <li>Fakta 1</li>
+      </ul>
+    </div>
   </div>
 
-  <div id="sektion-planering" class="section container">
-    <div class="col--12">
-      <h2>PLANERING & RITNING</h2>
-      <p>Efter lite funderande beslöt oss vi för att bygga ett hus med en stomme av timmer och med halmbalar som isolering. Vi trodde också att det skulle bli billigare och vara enklare än att bygga ett vanligt hus, men så här inflyttade och nästan färdiga kan vi inget annat än konstatera att det var helt fel. </p>
-      <p>Vi har ritat huset själva utifrån de behov och tankar som vi har. Det gör kanske att vi har gått på en del “designmissar” men det blir i alla fall våra missar! Det här gör också att huset växer fram under tiden vi bygger. Vi vet inte alla lösningar än och med tiden så förändras en del både i konstruktion och utseende. Vi har t.ex. valt bort det stora glastaket över allrummet, anledningen var att det blev betydligt dyrare än tänkt. Eftersom vi även har köpt de flesta dörrar och en del fönster begagnade varierar mått och utseende på dessa. </p>
-      <p>För att bygga ett hus på detta sätt, i stort sett helt själva och lösa de flesta problem längs med vägen, krävs förkunskap. Vi har tidigare renoverat en hel del och har dessutom väldigt mycket kunskap inom familjen. Men även om ni inte har det, var inte rädda för att testa, men räkna med att det tar lång tid, många moment faller inom kategorin “gör om gör rätt” och det blir alltid dyrare än planerat! En god idé kan ju vara att börja med uthuset, för att testbygga och göra de flesta misstagen där. </p>
-      <h3>Bygglovsprocess för halmbalshus</h3>
-      <p>Många frågar oss om hur hur svårt det var att få bygglov, vårt svar är inte alls svårt. Vi pratade med byggkontoret väldigt tidigt i processen för att stämma av vilka dokument som behövdes och vilka andra krav som finns. Kom ihåg att de krav som finns i plan och bygglagen till stor del är för att få till ett bra hus för de som ska bo i det och det är ju inte direkt motsträvigt med vårt syfte. Att ha tänkt till angående handikappanpassning kan ju kännas smart om man råkar ut för en olycka, det behöver ju inte vara allvarligare än att man bryter ett ben! </p>
-      <p>Men det är klart, bygglovsprocessen är inte riktigt gjord för oss självbyggare men heller inte så avancerat att anpassa sig till. </p>
-      <h3>Grästak och taköverhäng till marken</h3>
-      <p>Vi vill ha ett hus som upptäcks ju mer besökare närmar sig det, vi har därför designat det på ett sätt som gör att entrédörren hittas genom ett hål i  marken. Innanför dörren öppnar huset upp sig och från trädgården är huset istället stort med en stor fasad. Runt de delar av huset som inte är mot trädgården finns ett långt taköverhäng som på ena sidan går ner i marken, vilket gör att huset från den sidan mer kommer se ut som en kulle. </p>
-      <p>Vi har även valt olika fasad på olika delar av huset, den största delen är kalkputsad men på de delar som är “under kullen” kommer vi istället ha okantad lockpanel. Anledningen är att vi tycker det är kul när det händer saker längs med huset och att det finns många saker att upptäcka. </p>
-
+  <div class="section container">
+    <div class="col--4">
+      <a class="button" href="/rundhustak.php">Självbärande tak</a>
     </div>
+    <div class="col--4">
+      <a class="button" href="/badrum.php">Miljövänligt badrum</a>
+    </div>
+    <div class="col--4">
+      <a class="button" href="/planering.php">Planering & Bygglov</a>
+    </div>
+  </div>
+  <div class="section container">
+    <div class="col--4">
+      <a class="button" href="/rundhustak.php">Väggar i halm</a>
+    </div>
+    <div class="col--4">
+      <a class="button" href="/badrum.php">Puts</a>
+    </div>
+    <div class="col--4">
+      <a class="button" href="/planering.php">Bilder</a>
+    </div>
+  </div>
+  <div id="sektion-planering" class="section container">
     <div class="col--12 ">
     <br/><br/>
-      <p>På taket kommer det växa gräs, tätskicktet kommer vara en EPDM duk över de delar som är hus och takpapp över de delar som enbart är taköverhäng. Anledningen till det är att det finns många kronor att spara på att minimera EPDM duken och att taköverhänget är väldigt stort. Blir det läckage där kommer det dessutom att kunna upptäckas och åtgärdas direkt och de delarna är även betydligt större lutning på. En avvägning baserat på risk och kostnad alltså. </p>
-
-      <h3>Skafferi, entré & allrum</h3>
-      <p>Eftersom vi, så småningom, vill odla mycket av vår mat själva har huset stora skafferier, ett varmt och ett kallt. I huset finns en grovéntre, vilket vi tror alla som bor på landet ser som en nödvändighet i vardagen. Där finns en diskbänk och här finns även en gallersektion precis innanför dörren för alla smutsig stövlar.</p>
-      <p>Det stora rummet är väl tilltaget och har plats för kök, matplats, soffa och finentré. Rummet har stora fönster och stora glasdörrar som på sommaren kan stå öppna för att sudda ut gränser för vad som är inne och ute.</p>
-
-      <h3>Badrum</h3>
-      <p>Badrummet består av tre delar, en toalettdel, en duschdel och en baddel. I baddelen finns dessutom en dörr ut där vi i framtiden planerar att ha ett utebadkar! I badrummets yttervägg har vi inga halmbalar utan lecasten som är kalkputsade. Anledningen till det är att vi vill bygga ett badrum utan tätskikt och ett bra sätt att göra det på är att se till att de material som kan riskera att bli fuktiga tål vatten och fukt.</p>
-      <p>I duschen har vi marmormosaik för att få en yta som är enkel att hålla ren. Innerväggarna är av lera med lerputs som sedan är målade med äggoljetempera. På så sätt har vi även fått in material som buffrar den fukt som bildas i badrummet. </p>
-      <p>I taket har vi valt att sätta träullit skivor eftersom de har en bra buffrande förmåga och inte är känsliga för fukt. Över dessa har vi sedan en papp som hindrar fukten innan råspont, isolering och golv till övervåningen. </p>
-      <p>I badrummet finns dessutom ett gammalt sopnedkast som leder direkt in till tvättstugan, perfekt att slippa bära smutstvätten!</p>
-
-    </div>
+      <a href="https://www.instagram.com/byggiverkligheten/" target="_blank"><span class="icon icon--instagram mr"></span>@byggiverkligheten</a>
+        <p>Följ oss i vår väg mot vårt nya hus, ett bygge av halm, lera, blod, svett och tårar. Vi är självbyggare med ett ekotänkt och vilda idéer.</p>
+      
+  </div>
   </div>
 
-  <div class="section container">
-    <div class="col--6">
-      <a href="../img/halmhus/entreplan.png" data-fancybox="ritningar" data-caption="Entreplan">
-        <img class="" src="../img/halmhus/entreplan-thumb.png" alt="Entréplan" />
-      </a>
-    </div>
-    <div class="col--6">
-      <a href="../img/halmhus/ovreplan.png" data-fancybox="ritningar" data-caption="Övre plan">
-        <img class="" src="../img/halmhus/ovreplan-thumb.png" alt="Övre plan" />
-      </a>
-    </div>
-  </div>
-  <div class="section container">
-    <div class="col--12">
-      <a href="../img/halmhus/collage.png" data-fancybox="ritningar" data-caption="Kollage">
-        <img class="" src="../img/halmhus/collage-thumb.png" alt="collage" />
-      </a>
-    </div>
-  </div>
+
 
   <div id="sektion-grund" class="section container">
     <div class="col--12">
@@ -154,39 +145,7 @@
   </div>
 </div>
 
-<div id="sektion-rundhustak" class="section container">
-  <div class="col--12">
-    <h2>SJÄLVBÄRANDE RUNDHUSTAK</h2>
-    <p>Den bärande konstruktionen i taket påminner om en klassisk indian-tipi, men med mycket flackare vinkel. Takstockarna stöttar varandra och konstruktionen bygger på att varje takstock bär upp nästa i cirkeln.  Den stora eken i mitten bär alltså inte upp någon vikt av taket utan står helt fritt och bär endast upp golvet på balkongen. Vi inspirerades tidigt av den här typen av tak och det är en stor anledning till att huset blev runt. Till taket kom vi överens om att det inte var fusk att hyra en lyftkran, så vi hyrde en lite smidig sak som lätt kunde lyfta upp takstockarna. </p>
-    <a href="../img/halmhus/rundhustak2.jpg" data-fancybox="rundhustak" data-caption="Barkning pågår">
-      <img class="" src="../img/halmhus/rundhustak2-thumb.png" alt="Barkning" />
-    </a>
-  </div>
 
-  <div class="col--12 lessons">
-  <h2>LÄRDOMAR SJÄLVBÄRANDE TAK</h2>
-  <ul>
-    <li><span class="h2">1.</span><p class="col--10">Det blir sjukt snyggt, gör det. </p></li>
-    <li><span class="h2">2.</span>
-    <p class="col--10">Man får panik av att taket sjunker när man lägger på vikt, men det är helt naturligt och slutar när det sjunkit klart.  </p></li>
-    <li><span class="h2">3.</span>
-    <p class="col--10">Att hyra en lyftkran är klart värt pengarna.</p></li>
-  </ul>
-  <br/>
-    <a href="../img/halmhus/lyftkran.jpg" data-fancybox="rundhustak" data-caption="Lyftkranen hjälper till med taket.">
-      <img class="" src="../img/halmhus/lyftkran.jpg" alt="Lyftkran" />
-    </a>
-  </div>
-</div>
-</div>
-
-<div class="section container">
-  <div class="col--12">
-    <a href="../img/halmhus/rundhustak1.png" data-fancybox="rundhustak" data-caption="Så här ser nocken ut på ett rundhustak.">
-      <img class="" src="../img/halmhus/rundhustak1-thumb.png" alt="Rundhustak" />
-    </a>
-  </div>
-</div>
 
 <div id="sektion-halmväggar" class="section container">
   <div class="col--12">
@@ -221,6 +180,7 @@
     </a>
   </div>
 </div>
+
 <div class="section container">
   <div class="col--12">
     <a href="../img/halmhus/halmning.jpg" data-fancybox="halmning" data-caption="Här syns CUT konstruktionen tydligt.">
@@ -260,6 +220,7 @@
     </a>
   </div>
 </div>
+
 <div class="section container">
   <div class="col--12">
     <a href="../img/halmhus/puts2.jpg" data-fancybox="halmning" data-caption="Här putsas väggarna med andra lagret kalk.">
@@ -270,23 +231,21 @@
 
 <div class="section container">
   <div class="col--12">
-  <h3>Vidare arbete</h3>
+    <h3>Vidare arbete</h3>
     <p>Vi har flyttat in men är inte färdigbyggda ännu, för att få uppdateringar och se fler bilder är det bäst att kolla in vårt byggkonto på Instagram: <a href="https://www.instagram.com/byggiverkligheten/" target="_blank"><span class="icon icon--instagram"></span>@byggiverkligheten</a></p>
     <p>Tack till Manos och Marta från <a href="http://www.minoeco.com/en/">Minoeco</a> och Herbert från <a href="http://www.strohnatur.at/">StrohNatur</a> för bilder på halmning och putsning.</p>
-    
   </div>
   <div class="col--12">
     <h3 id="sektion-besok">Besök i Halmhuset</h3>
     <p>Har vi tid och möjlighet tar vi gärna emot studiebesök i huset. Är ni intresserade är det lättast att maila. Vi ber er att alltid höra av er innan och boka tid, vi har ofta saker på gång och har svårt att ta emot spontanbesök på gården. Kostnad beror på upplägg och hur många ni är. </p>
-    </div>
+  </div>
   
-    <h3>Föreläsning halmhus</h3>
-    <p>Vi kommer gärna och föreläser i olika sammanhang. Dels om halmhus och byggnadsteknik men även om att ta klivet och att följa sina drömmar. Längd på föredraget anpassar vi efter önskemål.</p>
+  <h3>Föreläsning halmhus</h3>
+  <p>Vi kommer gärna och föreläser i olika sammanhang. Dels om halmhus och byggnadsteknik men även om att ta klivet och att följa sina drömmar. Längd på föredraget anpassar vi efter önskemål.</p>
 
-    <div class="col--6">
-      <p><a href="mailto:linnea.salbark@gmail.com" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></p>
-    </div>
-  
+  <div class="col--6">
+    <p><a href="mailto:linnea.salbark@gmail.com" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></p>
+  </div>
 </div>
 <div class="section container">
   <div class="col--2">
