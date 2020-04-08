@@ -20,7 +20,7 @@
 
 <div class="section">
   <div class="container">
-    <div class="col--6"><a href="/halmhus.php#besokhalmhus">Tillbaka till Halmhus</a>
+    <div class="col--6"><a href="/halmhus.php">Tillbaka till Halmhus</a>
     </div>
   </div>
 </div>

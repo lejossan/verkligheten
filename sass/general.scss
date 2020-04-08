@@ -139,7 +139,15 @@ iframe{
 .image--list div {
   margin-right: 5px;
 }
-.camping--priser {
+.box {
+  border: 1px solid;
+  margin: 110px 25px 0 25px;
+  padding: 10px;
+  h3 {
+    margin-top: 0;
+  }
+}
+.listbox {
   text-align: left;
   clear: both;
   display: block;
@@ -148,7 +156,7 @@ iframe{
   li {
     padding: 5px 0;
     font-weight: bold;
-    span {
+    label {
       width: 45%;
       display: inline-block;
       vertical-align: top;

@@ -22,9 +22,9 @@
       <p>Våra ställplatser kommer finnas kvar precis som förr. Här har vi en minicamping med tre ställplatser för husbil eller husvagn och även plats för tält. Här sover du på det vi kallar midsommarängen precis utanför hagen. Tillgång till vattentoalett och dusch finns i det gamla utedasset, här finns även en enklare ho till disken. Vi har öppet under sommaren och fram till hösten, vi tar inga förbokningar men det går bra att maila innan för att se så det finns plats.
 			</p>
       <h3 class="mt">PRISER</h3>
-			<ul class="col--6 camping--priser mb">
-				<li><span>Campingplats</span> <span>200 kr/natt ink el</span></li>
-        <li><span>Wi-Fi</span> <span>Gratis</span></li>
+			<ul class="col--6 listbox mb">
+				<li><label>Campingplats</label> <span>200 kr/natt ink el</span></li>
+        <li><label>Wi-Fi</label> <span>Gratis</span></li>
 				<!--<li><span>Låna grillplats i skogen (inkl ved och murikka)</span> <span>100 kr per gång</span></li>-->
 			</ul>
 				<!--<p class="col--6">Betalning sker kontant eller med Swisch.</p>-->

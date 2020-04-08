@@ -384,9 +384,6 @@ a.readmore:after, a.readup:after {
   margin: 0px 0px 0px 10px;
   text-decoration: none;
 }
-a.readmore:after {
-  /*content: '\f061';*/
-}
 a.readup:after {
   content: "";
 }
@@ -482,18 +479,27 @@ iframe {
   margin-right: 5px;
 }
 
-.camping--priser {
+.box {
+  border: 1px solid;
+  margin: 110px 25px 0 25px;
+  padding: 10px;
+}
+.box h3 {
+  margin-top: 0;
+}
+
+.listbox {
   text-align: left;
   clear: both;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
-.camping--priser li {
+.listbox li {
   padding: 5px 0;
   font-weight: bold;
 }
-.camping--priser li span {
+.listbox li label {
   width: 45%;
   display: inline-block;
   vertical-align: top;

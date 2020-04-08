@@ -6,7 +6,7 @@
   </div>
   <?php include('menu.php'); ?>
 
-  <ul class="index col--2">
+<!--   <ul class="index col--2">
     <li class="title"><h3>Innehåll > </h3></li>
     <li><a href="#sektion-planering">Planering & Ritning</a></li>
     <li><a href="#sektion-grund">Grund med skumglas</a></li>
@@ -15,21 +15,23 @@
     <li><a href="#sektion-halmväggar">Väggar i halm</a></li>
     <li><a href="#sektion-kalkputs">Egen kalkputs</a></li>
     <li><a href="#sektion-besok">Besök & Föreläsning</a></li>
-  </ul>
+  </ul> -->
   <div class="section container">
     <div class="col--6">
       <h2>HALMHUSET FRÅN VERKLIGHETEN</h2>
       <p>Vi ville bygga ett hus, på riktigt och från grunden. Det skulle vara ett hus som är miljövänligare och med mindre kemikalier, både i byggskedet och när vi bor i det. Vi ville också ha ett hus som smälte in i naturen där det befinner sig, och ett hus som inte är som alla andra. Här har vi försökt att förklara lite hur vi har gjort och vad vi har lärt oss hittills.</p>
     </div>
     <div class="col--6">
-      <h4>Faktaruta</h4>
-      <ul>
-        <li>Fakta 1</li>
-        <li>Fakta 1</li>
-        <li>Fakta 1</li>
-        <li>Fakta 1</li>
-        <li>Fakta 1</li>
-      </ul>
+      <div class="box">
+        <h3>Faktaruta</h4>
+        <ul class="listbox ml">
+          <li><label>Startår:</label>2013</li>
+          <li><label>Kvadradmeter:</label>220kvm</li>
+          <li><label>Plats:</label>Södra Östergötland</li>
+          <li>Fakta 1</li>
+          <li>Fakta 1</li>
+        </ul>
+      </div>
     </div>
   </div>
 
@@ -64,8 +66,12 @@
   </div>
   </div>
 
-
-
+  <div id="sektion-grund" class="section container">
+    <div class="col--12">
+      <h2>BILD PÅ HUSET</h2>
+    </div>
+  </div>
+  
   <div id="sektion-grund" class="section container">
     <div class="col--12">
       <h2 id="grund">GRUND MED SKUMGLAS</h2>
