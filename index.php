@@ -42,13 +42,13 @@
   <div class="section">
     <div class="container-flex center-align">
       <div class="col--6 readmore--container">
-        <!-- <img class="camping" src="../img/camping-round.png" alt="camping" /> -->
+        <img class="var" src="../img/var-round-grey.png" alt="var" />
         <!--<img class="lamm" src="../img/halmhus-round.png" alt="lamm" />-->
-        <img class="reko" src="../img/reko-round.png" alt="butik" />
+        <!--<img class="reko" src="../img/reko-round.png" alt="butik" />-->
         <!--<a class="readmore--outline" href="/smabruk.php#gronsaker">Läs mer</a>-->
       </div>
       <div class="col--6 left-align">
-        <?php include('texts/reko_teaser.php'); ?>
+        <?php include('texts/varmarknad_teaser.php'); ?>
       </div>
     </div>
   </div>
