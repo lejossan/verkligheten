@@ -12,8 +12,8 @@
     <div class="col--12">
       <h2 class="mt">NATURLOGI I VERKLIGHETEN</h2>
       <br/>
-      <p class="emph">Allt är stängd för säsongen, välkommen igen i vår!</p>
-      <p>
+      <p>Allt är stängt för säsongen men vi öppnar upp våra ställplatser Kristi Himmelsfärdshelgen med start 21 maj. Välkomna då!</p>
+     <p>
         Vi arbetar med ett nytt koncept för övernattning och upplevelser hos oss, Naturlogi. Arbete pågår och spännande saker händer framöver.  
       </p>
       <p>Mer info kommer under våren</p>
@@ -23,8 +23,7 @@
 			</p>
       <h3 class="mt">PRISER</h3>
 			<ul class="col--6 camping--priser mb">
-				<li><span>Campingplats</span> <span>150 kr per natt</span></li>
-				<li><span>El</span> <span>50 kr per natt</span></li>
+				<li><span>Campingplats</span> <span>200 kr/natt ink el</span></li>
         <li><span>Wi-Fi</span> <span>Gratis</span></li>
 				<!--<li><span>Låna grillplats i skogen (inkl ved och murikka)</span> <span>100 kr per gång</span></li>-->
 			</ul>
