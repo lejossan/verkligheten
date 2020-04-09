@@ -42,11 +42,43 @@
   }
   &.halmhus{ 
     .image{
-      background-image: url(../img/halmhus.jpg);
+      background-image: url(../img/halmhus.png);
       background-position: 0 50%;
     }
     h1{
-      left: 90%; 
+      left: 20%;
+      background: rgba(0, 0, 0, 0.3);
+      width: 250px;
+    }
+  } 
+  &.rundhustak{ 
+    .image{
+      background-image: url(../img/halmhus/halmhus1.jpg);
+      background-position: 0 50%;
+    }
+    h1{
+      left: 85%;
+      background: rgba(0, 0, 0, 0.3);
+    }
+  }
+  &.puts{ 
+    .image{
+      background-image: url(../img/halmhus/puts2.jpg);
+      background-position: 0 30%;
+    }
+    h1{
+      left: 15%;
+      background: rgba(0, 0, 0, 0.3);
+    }
+  } 
+  &.konstruktion{ 
+    .image{
+      background-image: url(../img/halmhus/spaning.png);
+      background-position: 0 30%;
+    }
+    h1{
+      left: 85%;
+      background: rgba(0, 0, 0, 0.3);
     }
   } 
   &.folk{ 
@@ -149,9 +181,19 @@
     &.halmhus h1 {
       transform: translate(-50%, -90%);
     }
+    &.puts h1 {
+      top: 40%;
+    }
     &.wood .logo {
       width: 90vw;
       bottom: 0;
     }
   }
+  .imagewrapper--small h1 {
+    left: 50%!important;
+  }
+  .imagewrapper--big .header-image{
+    height: 350px;
+  }
+
 }

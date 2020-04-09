@@ -1,6 +1,6 @@
 <?php $title = "Halmhuset Lilla Verkligheten"; include('header.php'); ?>
 
-<div class="imagewrapper--small halmhus">
+<div class="imagewrapper--small rundhustak">
     <div class="header-image image"></div>
     <h1>SJÄLVBÄRANDE TAK</h1>
   </div>
@@ -45,11 +45,33 @@
   </div>
 </div>
 
-<div class="section">
-  <div class="container">
-    <div class="col--6"><a href="/halmhus.php#besokhalmhus">Tillbaka till Halmhus</a>
-    </div>
+<div class="section container">
+  <div class="col--12">
+    <h2>Mer att läsa om halmhuset</h2>
+  </div>
+  <div class="col--4">
+    <a class="button disabled" href="/rundhustak.php">Självbärande tak</a>
+  </div>
+  <div class="col--4">
+    <a class="button" href="/badrum.php">Miljövänligt badrum</a>
+  </div>
+  <div class="col--4">
+    <a class="button" href="/planering.php">Planering & Bygglov</a>
+  </div>
+  <div class="col--4">
+    <a class="button" href="/halmvaggar.php">Väggar i halm</a>
+  </div>
+  <div class="col--4">
+    <a class="button" href="/puts.php">Puts</a>
+  </div>
+  <div class="col--4">
+    <a class="button" href="/konstruktion.php">Konstruktion</a>
   </div>
 </div>
 
+<div class="section">
+  <div class="col--4">
+    <a class="button" href="/halmhus.php">Startsida för Halmhus</a>
+  </div>
+</div>
 <?php include('footer.php'); ?>

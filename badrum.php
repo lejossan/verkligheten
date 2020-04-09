@@ -18,10 +18,34 @@
     </div>
   </div>
 
+
+<div class="section container">
+  <div class="col--12">
+    <h2>Mer att läsa om halmhuset</h2>
+  </div>
+  <div class="col--4">
+    <a class="button" href="/rundhustak.php">Självbärande tak</a>
+  </div>
+  <div class="col--4">
+    <a class="button disabled" href="/badrum.php">Miljövänligt badrum</a>
+  </div>
+  <div class="col--4">
+    <a class="button" href="/planering.php">Planering & Bygglov</a>
+  </div>
+  <div class="col--4">
+    <a class="button" href="/halmvaggar.php">Väggar i halm</a>
+  </div>
+  <div class="col--4">
+    <a class="button" href="/puts.php">Puts</a>
+  </div>
+  <div class="col--4">
+    <a class="button" href="/konstruktion.php">Konstruktion</a>
+  </div>
+</div>
+
 <div class="section">
-  <div class="container">
-    <div class="col--6"><a href="/halmhus.php">Tillbaka till Halmhus</a>
-    </div>
+  <div class="col--4">
+    <a class="button" href="/halmhus.php">Startsida för Halmhus</a>
   </div>
 </div>
 <?php include('footer.php'); ?>

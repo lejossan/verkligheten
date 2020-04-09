@@ -5,16 +5,11 @@
   h1, h2, h3, .right-align p, a, a.left-align, .left-align, .right-align {
     text-align: center;
   }
-  .imagewrapper--small h1 {
-    left: 50%!important;
+
+  .box {
+    margin-top: 0;
   }
-  .imagewrapper--big .header-image{
-    height: 350px;
-  }
-  .imagewrapper--small.halmhus .image{
-    background-position: 100% 53%;
-  }
-  .index{
+  .index {
     height: 40px;
     overflow: hidden;
     padding: 0px;

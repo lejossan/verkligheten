@@ -40,8 +40,8 @@ p{
 }
 a{
   font-weight: bold;
-  color: $bluelight;
-  text-decoration: none;
+  color: $dark;
+  text-decoration: underline;
   &:hover {
     text-decoration: underline;
   }
@@ -109,13 +109,13 @@ img, iframe{
   display: block;
   @include center();
 }
-
+/* 
 iframe{
   vertical-align: top;
   display: inline-block!important;
   width: 100%;
   height: 70vh;
-}
+} */
 .hulta {
   font-size: 0.7em;
   display: block;
