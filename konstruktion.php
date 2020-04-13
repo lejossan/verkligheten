@@ -41,18 +41,9 @@
 </div>
 <div class="section container">
   <div class="col--6">
-    <a href="../img/halmhus/teklabarkar.jpg" data-fancybox="rundtimmer" data-caption="Barkning pågår">
-      <img class="" src="../img/halmhus/teklabarkar.jpg" alt="Barkning" />
-    </a>
-    </div>
-
-  <div class="col--6">
-    <a href="../img/halmhus/timmerknut.png" data-fancybox="rundtimmer" data-caption="Timmerknut">
-        <img class="" src="../img/halmhus/timmerknut-thumb.png" alt="timmerknut" />
-      </a>
-    <a href="../img/halmhus/infastning.png" data-fancybox="halmning" data-caption="Infästning">
-      <img class="" src="../img/halmhus/infastning.png" alt="Halmning" />
-    </a>
+    <img class="mb" src="../img/halmhus/teklabarkar.jpg" alt="Barkning pågår" />
+    <img class="mb" src="../img/halmhus/timmerknut.png" alt="Timmerknut" />
+    <img class="" src="../img/halmhus/infastning.png" alt="Halmning" />
   </div>
 </div>
 

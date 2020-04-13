@@ -26,7 +26,7 @@
   <div class="col--12">
     <br/>
     <h3>CUT - Cells Under Tension</h3>
-    <p>Det finns lite olika metoder för att få en stadig halmvägg, och den vi valde kallas för CUT (Cells Under Tension). I korthet så pressar man in balarna mellan stående plank, och varje lager pressas ner med en tunn läkt som man fäster i plankorna. Detta bilder ett tunt fackverk som pressar balarna från alla håll.</p>
+    <p>Det finns lite olika metoder för att få en stadig halmvägg, och den vi valde kallas för CUT (Cells Under Tension). I korthet så pressar man in balarna mellan stående plank, och varje lager pressas ner med en tunn läkt som man fäster i plankorna. Detta bildar ett tunt fackverk som pressar balarna från alla håll.</p>
 
     <p>När väggen väl är på plats så kan den vara ganska ojämn och ”luddig”. Då kan man gå över den med en häcksax för att snagga halmen så den blir jämn och stabil för att putsa på.</p>
     <p>Här finns mer info om hur metoden CUT går till:</p>
