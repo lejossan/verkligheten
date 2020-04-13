@@ -51,6 +51,16 @@
       width: 250px;
     }
   }
+  &.halmvaggar{ 
+    .image{
+      background-image: url(../img/halmhus/halmvaggar.jpg);
+      background-position: 0 35%;
+    }
+    h1{
+      left: 20%;
+      background: rgba(0, 0, 0, 0.3);
+    }
+  }
   &.rundhustak{ 
     .image{
       background-image: url(../img/halmhus/tak1.jpg);
@@ -75,6 +85,16 @@
     .image{
       background-image: url(../img/halmhus/spaning.png);
       background-position: 0 30%;
+    }
+    h1{
+      left: 85%;
+      background: rgba(0, 0, 0, 0.3);
+    }
+  }
+  &.planering{ 
+    .image{
+      background-image: url(../img/halmhus/entreplan.png);
+      background-position: 0 50%;
     }
     h1{
       left: 85%;
@@ -191,6 +211,11 @@
     &.rundhustak{ 
       .image{
         background-position: 50% 50%;
+      }
+    }
+    &.konstruktion{ 
+      .image{
+        background-position: 43% 50%;
       }
     }
   }

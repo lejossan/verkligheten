@@ -1,6 +1,6 @@
 <?php $title = "Miljövändligt badrum"; include('header.php'); ?>
 
-<div class="imagewrapper--small halmhus">
+<div class="imagewrapper--small halmvaggar">
     <div class="header-image image"></div>
     <h1>VÄGGAR I HALM</h1>
   </div>
@@ -19,15 +19,9 @@
     
   </div>
 
-  <div class="col--6">
-    <a href="../img/halmhus/halmning.jpg" data-fancybox="halmning" data-caption="Här syns CUT konstruktionen tydligt.">
-        <img class="" src="../img/halmhus/halmning.jpg" alt="Halmning" />
-      </a>
-</div>
-<div class="col--6">
-    <a href="../img/halmhus/halmning1.jpg" data-fancybox="halmning" data-caption="Bra att hjälpas åt vid halmningen!">
-      <img class="" src="../img/halmhus/halmning1.jpg" alt="Halmning" />
-    </a>
+  <div class="col--12">
+      <img class="mb" src="../img/halmhus/halmning.jpg" alt="Här syns CUT konstruktionen tydligt." />
+      <img class="" src="../img/halmhus/halmning1.jpg" alt="Bra att hjälpas åt vid halmningen!" />
   </div>
   <div class="col--12">
     <br/>

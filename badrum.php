@@ -14,7 +14,7 @@
       <p>I duschen har vi marmormosaik för att få en yta som är enkel att hålla ren. Innerväggarna är av lera med lerputs som sedan är målade med äggoljetempera. På så sätt har vi även fått in material som buffrar den fukt som bildas i badrummet. </p>
       <p>I taket har vi valt att sätta träullit skivor eftersom de har en bra buffrande förmåga och inte är känsliga för fukt. Över dessa har vi sedan en papp som hindrar fukten innan råspont, isolering och golv till övervåningen. </p>
       <p>I badrummet finns dessutom ett gammalt sopnedkast som leder direkt in till tvättstugan, perfekt att slippa bära smutstvätten!</p>
-
+      <img class="" src="../img/halmhus/badrum1.jpg" alt="Badrum" />
     </div>
   </div>
 

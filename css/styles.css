@@ -448,13 +448,10 @@ img, iframe {
   display: block;
 }
 
-/* 
-iframe{
-  vertical-align: top;
-  display: inline-block!important;
+iframe {
   width: 100%;
-  height: 70vh;
-} */
+}
+
 .hulta {
   font-size: 0.7em;
   display: block;
@@ -602,6 +599,14 @@ iframe.slowtv {
   background: rgba(0, 0, 0, 0.3);
   width: 250px;
 }
+.imagewrapper--small.halmvaggar .image, .imagewrapper--medium.halmvaggar .image, .imagewrapper--big.halmvaggar .image {
+  background-image: url(../img/halmhus/halmvaggar.jpg);
+  background-position: 0 35%;
+}
+.imagewrapper--small.halmvaggar h1, .imagewrapper--medium.halmvaggar h1, .imagewrapper--big.halmvaggar h1 {
+  left: 20%;
+  background: rgba(0, 0, 0, 0.3);
+}
 .imagewrapper--small.rundhustak .image, .imagewrapper--medium.rundhustak .image, .imagewrapper--big.rundhustak .image {
   background-image: url(../img/halmhus/tak1.jpg);
   background-position: 0 50%;
@@ -623,6 +628,14 @@ iframe.slowtv {
   background-position: 0 30%;
 }
 .imagewrapper--small.konstruktion h1, .imagewrapper--medium.konstruktion h1, .imagewrapper--big.konstruktion h1 {
+  left: 85%;
+  background: rgba(0, 0, 0, 0.3);
+}
+.imagewrapper--small.planering .image, .imagewrapper--medium.planering .image, .imagewrapper--big.planering .image {
+  background-image: url(../img/halmhus/entreplan.png);
+  background-position: 0 50%;
+}
+.imagewrapper--small.planering h1, .imagewrapper--medium.planering h1, .imagewrapper--big.planering h1 {
   left: 85%;
   background: rgba(0, 0, 0, 0.3);
 }
@@ -714,6 +727,9 @@ iframe.slowtv {
   }
   .imagewrapper--small.rundhustak .image, .imagewrapper--medium.rundhustak .image, .imagewrapper--big.rundhustak .image {
     background-position: 50% 50%;
+  }
+  .imagewrapper--small.konstruktion .image, .imagewrapper--medium.konstruktion .image, .imagewrapper--big.konstruktion .image {
+    background-position: 43% 50%;
   }
 
   .imagewrapper--small h1 {

@@ -35,9 +35,9 @@
 
 <div class="section container">
   <div class="col--12">
-      
       <img class="" src="../img/halmhus/tak2.jpg" alt="Rundhustak med skorsten" />
-  </div>
+      <p>Färdigt tak inifrån med skorsten som snirklar sig utmed eken och ut genom det självbärande taket.</p>
+    </div>
   <br/>
   <br/>
 </div>
