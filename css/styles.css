@@ -603,7 +603,7 @@ iframe.slowtv {
   width: 250px;
 }
 .imagewrapper--small.rundhustak .image, .imagewrapper--medium.rundhustak .image, .imagewrapper--big.rundhustak .image {
-  background-image: url(../img/halmhus/halmhus1.jpg);
+  background-image: url(../img/halmhus/tak1.jpg);
   background-position: 0 50%;
 }
 .imagewrapper--small.rundhustak h1, .imagewrapper--medium.rundhustak h1, .imagewrapper--big.rundhustak h1 {
@@ -711,6 +711,9 @@ iframe.slowtv {
   .imagewrapper--small.wood .logo, .imagewrapper--medium.wood .logo, .imagewrapper--big.wood .logo {
     width: 90vw;
     bottom: 0;
+  }
+  .imagewrapper--small.rundhustak .image, .imagewrapper--medium.rundhustak .image, .imagewrapper--big.rundhustak .image {
+    background-position: 50% 50%;
   }
 
   .imagewrapper--small h1 {

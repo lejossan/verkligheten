@@ -50,10 +50,10 @@
       background: rgba(0, 0, 0, 0.3);
       width: 250px;
     }
-  } 
+  }
   &.rundhustak{ 
     .image{
-      background-image: url(../img/halmhus/halmhus1.jpg);
+      background-image: url(../img/halmhus/tak1.jpg);
       background-position: 0 50%;
     }
     h1{
@@ -187,6 +187,11 @@
     &.wood .logo {
       width: 90vw;
       bottom: 0;
+    }
+    &.rundhustak{ 
+      .image{
+        background-position: 50% 50%;
+      }
     }
   }
   .imagewrapper--small h1 {

@@ -19,7 +19,7 @@
   <div class="section container">
     <div class="col--6">
       <h2>HALMHUSET FRÅN VERKLIGHETEN</h2>
-      <p>Vi ville bygga ett hus, på riktigt och från grunden. Det skulle vara ett hus som är miljövänligare och med mindre kemikalier, både i byggskedet och när vi bor i det. Vi ville också ha ett hus som smälte in i naturen där det befinner sig, och ett hus som inte är som alla andra. Här har vi försökt att förklara lite hur vi har gjort och vad vi har lärt oss hittills.</p>
+      <p>Vi ville bygga ett hus, på riktigt och från grunden. Det skulle vara ett hus som var miljövänligare och med mindre kemikalier, både i byggskedet och när vi bor i det. Vi ville också ha ett hus som smälte in i naturen där det befinner sig och ett hus som inte var som alla andra. Sedan december 2018 bor vi i huset men vi är långt ifrån klara. Huset är mer som ett pågående projekt och kommer nog aldrig bli helt klart, alltid finns det en idé till att ta tag i.</p>
     </div>
     <div class="col--6">
       <div class="box">
@@ -58,11 +58,11 @@
 
   <div id="sektion-planering" class="section container">
     <div class="col--4">
-      <h2 style="margin-top:25px;">INSTAGRAM</h2>
+      <h2 style="margin-top:10px;">INSTAGRAM</h2>
         <a href="https://www.instagram.com/byggiverkligheten/" target="_blank"><span class="icon icon--instagram mr"></span>@byggiverkligheten</a>
     </div>
     <div class="col--6">
-      <p>Följ oss i vår väg mot vårt nya hus, ett bygge av halm, lera, blod, svett och tårar. Vi är självbyggare med ett ekotänkt och vilda idéer.</p>
+      <p>På Instagram och kontot @byggiverkligheten hittar du fler bilder och kan följa vad som händer framöver.</p>
     </div>
   </div>
 
@@ -76,11 +76,11 @@
 <div class="section container">
   <div class="col--12">
     <h3 id="sektion-besok">Besök i Halmhuset</h3>
-    <p>Har vi tid och möjlighet tar vi gärna emot studiebesök i huset. Är ni intresserade är det lättast att maila. Vi ber er att alltid höra av er innan och boka tid, vi har ofta saker på gång och har svårt att ta emot spontanbesök på gården. Kostnad beror på upplägg och hur många ni är. </p>
+    <p>Har vi tid och möjlighet tar vi gärna emot studiebesök i huset. Är ni intresserade är det lättast att maila. Vi ber er att alltid höra av er innan och boka tid, vi har ofta saker på gång och har svårt att ta emot spontanbesök på gården. Kostnad är 100 kr per person, men minst 500 kr. Då bjuder vi på fika och går igenom byggprocessen och pratar om det som är intressant för er. </p>
   </div>
   
   <h3>Föreläsning halmhus</h3>
-  <p>Vi kommer gärna och föreläser i olika sammanhang. Dels om halmhus och byggnadsteknik men även om att ta klivet och att följa sina drömmar. Längd på föredraget anpassar vi efter önskemål.</p>
+  <p>Vi kommer gärna och föreläser i olika sammanhang. Dels om halmhus och byggnadsteknik men även om att ta klivet och att följa sina drömmar. Längd på föredraget anpassar vi efter önskemål. Kostnad enligt överenskommelse.</p>
 
   <div class="col--6">
     <p><a href="mailto:linnea.salbark@gmail.com" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></p>
