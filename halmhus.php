@@ -30,6 +30,7 @@
           <li><label>Kvadratmeter:</label>ca 240kvm</li>
           <li><label>Plats:</label>Södra Östergötland</li>
           <li><label>Teknik:</label>CUT</li>
+          <li><label>Grund:</label>Skumglas</li>
         </ul>
       </div>
     </div>
