@@ -57,7 +57,7 @@
       <a class="button disabled" href="/planering.php">Planering & Bygglov</a>
     </div>
     <div class="col--4">
-      <a class="button" href="/halmvaggar.php">Väggar i halm</a>
+      <a class="button" href="/halmvaggar.php">Isolera med halm</a>
     </div>
     <div class="col--4">
       <a class="button" href="/puts.php">Puts</a>

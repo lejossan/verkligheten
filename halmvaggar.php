@@ -2,7 +2,7 @@
 
 <div class="imagewrapper--small halmvaggar">
     <div class="header-image image"></div>
-    <h1>VÄGGAR I HALM</h1>
+    <h1>ISOLERA MED HALM</h1>
   </div>
   <?php include('menu.php'); ?>
 
@@ -63,7 +63,7 @@
     <a class="button" href="/planering.php">Planering & Bygglov</a>
   </div>
   <div class="col--4">
-    <a class="button disabled" href="/halmvaggar.php">Väggar i halm</a>
+    <a class="button disabled" href="/halmvaggar.php">Isolera med halm</a>
   </div>
   <div class="col--4">
     <a class="button" href="/puts.php">Puts</a>
