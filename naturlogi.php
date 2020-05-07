@@ -13,13 +13,15 @@
       <h2 class="mt">NATURLOGI I VERKLIGHETEN</h2>
       <br/>
       <p>Allt är stängt för säsongen men vi öppnar upp våra ställplatser Kristi Himmelsfärdshelgen med start 21 maj. Välkomna då!</p>
-     <p>
-        Vi arbetar med ett nytt koncept för övernattning och upplevelser hos oss, Naturlogi. Arbete pågår och spännande saker händer framöver.  
-      </p>
-      <p>Mer info kommer under våren</p>
-      </div> 
+      <p>Vi har ett nytt koncept för övernattning och upplevelser hos oss, Naturlogi. Vi erbjuder våra vanliga ställplatser men även bekväm camping vid lägerplats samt vårt nya koncept med skogsrum. Skogsrummen är vårt mest exklusiva boende, här bor du med ett fönster mellan dig och skogen, en egen grillplats och en skön säng att krypa ner i.</p>
+      <p>Läs mer om våra ställplatser, lägerplatsen och skogsrummen på Naturlogi.se -></p>  
+    </div>
+      <div class="col--6 mb mt">
+        <a href="https://naturlogi.se" class="button"><span class="icon icon--naturlogi"></span></a>
+      </div>
+      
 		  <h3 class="mt">STÄLLPLATSER</h3>
-      <p>Våra ställplatser kommer finnas kvar precis som förr. Här har vi en minicamping med tre ställplatser för husbil eller husvagn och även plats för tält. Här sover du på det vi kallar midsommarängen precis utanför hagen. Tillgång till vattentoalett och dusch finns i det gamla utedasset, här finns även en enklare ho till disken. Vi har öppet under sommaren och fram till hösten, vi tar inga förbokningar men det går bra att maila innan för att se så det finns plats.
+      <p>Här har vi en minicamping med tre ställplatser för husbil eller husvagn och även plats för tält. Här sover du på det vi kallar midsommarängen precis utanför hagen. Tillgång till vattentoalett och dusch finns i det gamla utedasset, här finns även en enklare ho till disken. Vi har öppet under sommaren och fram till hösten, vi tar inga förbokningar men det går bra att maila innan för att se så det finns plats.
 			</p>
       <h3 class="mt">PRISER</h3>
 			<ul class="col--6 listbox mb">
