@@ -909,15 +909,14 @@ iframe.slowtv {
 
 .readmore--outline {
   border: 1px solid white;
-  background: rgba(107, 115, 98, 0.8);
   color: #FFFFFF;
   position: absolute;
   bottom: 6rem;
-  border-radius: 0.2rem;
   padding: 0.6rem;
 }
 .readmore--outline:hover {
-  background: #6b7362;
+  background: white;
+  color: grey;
   text-decoration: none;
 }
 

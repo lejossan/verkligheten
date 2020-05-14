@@ -27,11 +27,13 @@
   <div class="section white">
     <div class="container-flex">
       <div class="col--6 right-align">
-        <?php include('texts/far_teaser.php'); ?>
+        <?php include('texts/butik_teaser.php'); ?>
       </div> 
       <div class="col--6 readmore--container">
         <!--<img class="lamm" src="../img/jul-round.png" alt="julmarknad" />-->
-        <img class="lamm" src="../img/lamm-round-white.png" alt="lamm" />
+        <!--<img class="lamm" src="../img/lamm-round-white.png" alt="lamm" />-->
+        <img class="lamm" src="../img/butik-round.png" alt="lamm" />
+        <a class="readmore--outline" href="/handelsbod.php">Läs mer</a>
         <!--<img class="lamm" src="../img/var-round.png" alt="lamm" />-->
         <!--<img class="butik" src="../img/advent-round.png" alt="handelsbod" />-->
         <!--<a class="readmore--outline" href="/folkochfa.php">Läs mer</a>-->
@@ -42,7 +44,7 @@
   <div class="section">
     <div class="container-flex center-align">
       <div class="col--6 readmore--container">
-        <img class="var" src="../img/var-round-grey.png" alt="var" />
+        <img class="var" src="../img/lamm-round.png" alt="var" />
         <!--<img class="lamm" src="../img/halmhus-round.png" alt="lamm" />-->
         <!--<img class="reko" src="../img/reko-round.png" alt="butik" />-->
         <!--<a class="readmore--outline" href="/smabruk.php#gronsaker">Läs mer</a>-->

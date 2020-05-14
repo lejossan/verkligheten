@@ -1,8 +1,8 @@
 <?php
 
-echo '<h2 class="mt" style="margin-top:50px;">Adventsöppet!</h2>';
+echo '<h2 class="mt" style="margin-top:50px;">Säsongsöppning!</h2>';
 
-echo '<p>Julen närmar sig och vi öppnar upp butiken för adventsmys. Välkommen hit och kom i julstämning med oss, kanske hittar du den där perfekta julklappen?  Vi bjuder på glögg och pepparkakor.</p>';
+echo '<p>Här finns glass, kaffe och saft. Lammen är i hagen bredvid och kaninerna finns att klappa. Vi har möblerat om lite och ber alla ta hänsyns till varandra och vänta utanför om det blir trångt.</p>';
 
 ?>
 
