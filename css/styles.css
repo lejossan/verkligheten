@@ -588,7 +588,7 @@ iframe.slowtv {
   bottom: 9em;
 }
 .imagewrapper--small.gora .image, .imagewrapper--medium.gora .image, .imagewrapper--big.gora .image {
-  background-image: url(../img/vindskydd.jpg);
+  background-image: url(../img/lagerplats/vindskydd.jpg);
   background-position: 21% 60%;
 }
 .imagewrapper--small.gora h1, .imagewrapper--medium.gora h1, .imagewrapper--big.gora h1 {
@@ -669,13 +669,6 @@ iframe.slowtv {
   background-position: 0 30%;
 }
 .imagewrapper--small.kontakt h1, .imagewrapper--medium.kontakt h1, .imagewrapper--big.kontakt h1 {
-  left: 15%;
-}
-.imagewrapper--small.camping .image, .imagewrapper--medium.camping .image, .imagewrapper--big.camping .image {
-  background-image: url(../img/wood6.jpg);
-  background-position: 0 46%;
-}
-.imagewrapper--small.camping h1, .imagewrapper--medium.camping h1, .imagewrapper--big.camping h1 {
   left: 15%;
 }
 .imagewrapper--small.brollop .image, .imagewrapper--medium.brollop .image, .imagewrapper--big.brollop .image {
