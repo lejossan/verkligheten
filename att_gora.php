@@ -11,10 +11,6 @@
     <div class="col--12">
       <h2>ATT GÖRA</h2>
       <p>Förutom att besöka vår handelsbod och slå dig ner med en glass en stund finns även andra saker som händer på gården. Beroende på säsong erbjuder vi olika alternativ och just nu är det grillkväll och lammys på schemat.</p>
-      <p>Ps. Ni har väl inte missat vårt nya upplevelse Naturlogi? Läs mer här -></p>
-    </div>
-    <div class="col--6">
-      <a href="https://naturlogi.se" class="button"><span class="icon icon--naturlogi"></span></a>
     </div>
 
     <div class="col--12">
@@ -62,6 +58,14 @@
     </div>
   </div>
 
+  <div class="section container">
+    <div class="col--12">
+      <p>Ps. Ni har väl inte missat vårt nya logi och upplevelsekoncept Naturlogi? Läs mer här -></p>
+    </div>
+    <div class="col--6">
+      <a href="https://naturlogi.se" class="button"><span class="icon icon--naturlogi"></span></a>
+    </div>
+</div>
   <br />
   <br />
   <br />
