@@ -2,7 +2,7 @@
 
 echo '<h2 class="mt" style="margin-top:50px;">Säsongsöppning!</h2>';
 
-echo '<p>Här finns glass, kaffe och saft. Lammen är i hagen bredvid och kaninerna finns att klappa. Vi har möblerat om lite och ber alla ta hänsyns till varandra och vänta utanför om det blir trångt.</p>';
+echo '<p><b>21-24 maj öppnar vi för säsongen!</b> <br/>Här finns glass, kaffe och saft. Lammen är i hagen bredvid och kaninerna finns att klappa. Vi har möblerat om lite och ber alla ta hänsyns till varandra och vänta utanför om det blir trångt.</p>';
 
 ?>
 

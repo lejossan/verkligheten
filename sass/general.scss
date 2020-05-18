@@ -37,6 +37,9 @@ p{
   line-height: 1.5em;
   text-align: justify;
   padding: $gutter 0;
+  b {
+    font-weight: 700;
+  }
 }
 a{
   font-weight: bold;

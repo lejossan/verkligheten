@@ -1,4 +1,4 @@
-<?php $title = "Camping"; include('header.php'); ?>
+<?php $title = "404"; include('header.php'); ?>
 
   <div class="imagewrapper--small wood">
     <div class="header-image image"></div>

@@ -368,6 +368,9 @@ p {
   text-align: justify;
   padding: 15px 0;
 }
+p b {
+  font-weight: 700;
+}
 
 a {
   font-weight: bold;
@@ -583,6 +586,14 @@ iframe.slowtv {
   width: 70vw;
   max-width: 640px;
   bottom: 9em;
+}
+.imagewrapper--small.gora .image, .imagewrapper--medium.gora .image, .imagewrapper--big.gora .image {
+  background-image: url(../img/vindskydd.jpg);
+  background-position: 21% 60%;
+}
+.imagewrapper--small.gora h1, .imagewrapper--medium.gora h1, .imagewrapper--big.gora h1 {
+  left: 20%;
+  background: rgba(0, 0, 0, 0.3);
 }
 .imagewrapper--small.far .image, .imagewrapper--medium.far .image, .imagewrapper--big.far .image {
   background-image: url(../img/far.jpg);
