@@ -17,9 +17,9 @@
       <p class="col--6 mb">Betalning sker med kort, kontant eller Swisch.</p>
     <div>
       <h3 class="mt">ÖPPETTIDER</h3>
-      <ul class="col--6 camping--priser mb">
-        <li><span>Stängt för säsongen, öppnar igen i vår!</span> <span></span></li>
-        <!--<li><span>1 & 8 december</span> <span>11-16</span></li>-->
+      <ul class="col--6 listbox mb">
+        <li><span class="mr">Säsongsöppning 21-24 maj!</span> <span>11:00 - 17:00</span></li>
+        <!-- <li><span>Fre, Lör, Sön</span> <span>11-17</span></li> -->
       </ul>
         
       </div>
