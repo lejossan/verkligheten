@@ -49,8 +49,8 @@
         <!--<img class="reko" src="../img/reko-round.png" alt="butik" />-->
         <!--<a class="readmore--outline" href="/smabruk.php#gronsaker">Läs mer</a>-->
       </div>
-      <div class="col--6 left-align">
-        <?php include('texts/varmarknad_teaser.php'); ?>
+      <div class="col--6 left-align mt">
+        <?php include('texts/att_gora_teaser.php'); ?>
       </div>
     </div>
   </div>
