@@ -12,7 +12,7 @@
     <div class="col--12">
       <h2 class="mt">NATURLOGI I VERKLIGHETEN</h2>
       <br/>
-      <p>Allt är stängt för säsongen men vi öppnar upp våra ställplatser Kristi Himmelsfärdshelgen med start 21 maj. Välkomna då!</p>
+      <p>Vi har öppnat våra ställplatser för säsongen! Nytt för i år är att vi har grusat upp och slätat ut tre fina platser. El ingår alltid. Läs mer på <a href="https://naturlogi.se">Naturlogi.se</a>. Välkomna!</p>
       <p>Vi har ett nytt koncept för övernattning och upplevelser hos oss, Naturlogi. Vi erbjuder våra vanliga ställplatser men även bekväm camping vid lägerplats samt vårt nya koncept med skogsrum. Skogsrummen är vårt mest exklusiva boende, här bor du med ett fönster mellan dig och skogen, en egen grillplats och en skön säng att krypa ner i.</p>
       <p>Läs mer om våra ställplatser, lägerplatsen och skogsrummen på Naturlogi.se -></p>  
     </div>
