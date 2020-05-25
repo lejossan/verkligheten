@@ -15,7 +15,7 @@
 
     <div class="col--12">
       <h2>GRILLKVÄLL</h2>
-      <p>Upplev skogen i Verkligheten och samlas runt lägerelden. Här tar ni med er en korg med korvar från trakten, hembakade korvbröd och goda tillbehör upp till skogen. I skogen tänder ni sedan elden, njuter av skogen runt er och eldens sprakande. Orkar ni inte vänta på glöden kan ni istället steka korvarna i någon av de stekpannor som finns. Här sitter ni så länge ni vill, kanske tills mörkret faller.</p>
+      <p>Upplev skogen i Verkligheten och samlas runt lägerelden. Här får ni med er en korg med korvar från trakten, hembakade korvbröd och goda tillbehör. I skogen tänder ni sedan elden, njuter av skogen runt er och eldens sprakande. Orkar ni inte vänta på glöden kan ni istället steka korvarna i någon av de stekpannor som finns. Här sitter ni så länge ni vill, kanske tills mörkret faller.</p>
       <p>Vi bokar alltid bara ett sällskap åt gången så ni behöver inte tänka på trängsel, här är bara ni och naturen. Grillkvällar kan bokas alla kvällar i veckan från den tid som passar er.</p>
       <p>2 personer: <b>640kr</b></p>
       <p>Barn/styck: <b>95kr</b></p>

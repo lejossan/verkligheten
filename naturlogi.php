@@ -1,4 +1,4 @@
-<?php $title = "Camping"; include('header.php'); ?>
+<?php $title = "Naturlogi"; include('header.php'); ?>
 
 
   <div class="imagewrapper--small camping">
