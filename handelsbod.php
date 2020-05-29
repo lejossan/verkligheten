@@ -18,8 +18,7 @@
     <div>
       <h3 class="mt">ÖPPETTIDER</h3>
       <ul class="col--6 listbox mb">
-        <li><span class="mr">Säsongsöppning 21-24 maj!</span> <span>11:00 - 17:00</span></li>
-        <!-- <li><span>Fre, Lör, Sön</span> <span>11-17</span></li> -->
+        <li><span class="mr">Lördag & Söndag</span> <span>11:00 - 17:00</span></li>
       </ul>
         
       </div>
