@@ -581,7 +581,10 @@ iframe.slowtv {
 .imagewrapper--small.wood .image, .imagewrapper--medium.wood .image, .imagewrapper--big.wood .image {
   background-image: url(../img/wood2.jpg);
 }
-.imagewrapper--small.wood .logo, .imagewrapper--medium.wood .logo, .imagewrapper--big.wood .logo {
+.imagewrapper--small.camping .image, .imagewrapper--medium.camping .image, .imagewrapper--big.camping .image {
+  background-image: url(../img/wood6.jpg);
+}
+.imagewrapper--small.camping .logo, .imagewrapper--medium.camping .logo, .imagewrapper--big.camping .logo {
   border: none;
   width: 70vw;
   max-width: 640px;
