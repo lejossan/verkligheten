@@ -2,7 +2,7 @@
 
   <div class="imagewrapper--big wood">
     <div class="header-image image"></div>
-      <!-- <a href="index.php" class="nolink" alt="home">VERKLIGHETENS GÅRD</a>
+      <!--<a href="index.php" class="nolink" alt="home">VERKLIGHETENS GÅRD</a>
       <span class="subheader">ÖVERNATTNING BUTIK GRÖNSAKER</span> -->
       <img class="logo" src="../img/logo.png" alt="Verklighetens Gård - Övernattning, butik, grönsaker">
   </div>

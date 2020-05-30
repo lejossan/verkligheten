@@ -25,6 +25,11 @@
     .image{
       background-image: url(../img/wood2.jpg);
     }
+    .logo {
+      border: none;
+      max-width: 50%;
+      top: 50%;
+    }
   }
   &.camping {
     .image{
@@ -212,7 +217,7 @@
     }
     &.wood .logo {
       width: 90vw;
-      bottom: 0;
+      max-width: inherit;
     }
     &.rundhustak{ 
       .image{
