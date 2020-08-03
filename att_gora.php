@@ -10,7 +10,7 @@
   <div class="section container">
     <div class="col--12">
       <h2>ATT GÖRA</h2>
-      <p>Förutom att besöka vår handelsbod och slå dig ner med en glass en stund finns även andra saker som händer på gården. Beroende på säsong erbjuder vi olika alternativ och just nu är det grillkväll och lammys på schemat.</p>
+      <p>Förutom att besöka vår handelsbod och slå dig ner med en glass en stund finns även andra saker som händer på gården. Beroende på säsong erbjuder vi olika alternativ och just nu är det grillkväll på schemat.</p>
     </div>
 
     <div class="col--12">
@@ -36,7 +36,7 @@
           <img class="" src="../img/lagerplats/lagereld.png" alt="Folk vid lägerelden" />
       </div>
     </div>
-
+<!-- 
     <div class="col--12">
       <h2>FIKA MED LAMMYS</h2>
       <p>Så här års är det fullt med små gulliga ulliga lamm i hagen. Våra 12 tackor är väldigt kelsjuka och deras 15 små lamm är busiga och klappvänliga. Kom och häng med oss ut i hagen för en stunds lammys, avsluta sedan med en fika med kaka, bulle, kaffe eller saft. Vi har även glass som kan köpas till för den som vill. Ps. även våra kaniner Maj och Siv kan vara sugna på ett maskrosblad eller två.</p>
@@ -44,18 +44,18 @@
       <p>Per person / inklusive fika: <b>100kr</b></p>
     </div>
   </div>
-  
-  <div class="section container">  
+   -->
+  <!-- <div class="section container">  
     <div class="col--6 mb mt"><a href="mailto:info@verklighetensgard.se" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för att boka!</span></a></div>
-  </div>
+  </div> -->
 
-  <div class="section container image--list mb">
+ <!--  <div class="section container image--list mb">
     <div class="col--6">
         <img class="" src="../img/far/elin_lamm.jpeg" alt="Elin myser med lamm" />
     </div>
     <div class="col--6">
         <img class="" src="../img/far/lamm.jpeg" alt="lamm" />
-    </div>
+    </div> -->
   </div>
 
   <div class="section container">
