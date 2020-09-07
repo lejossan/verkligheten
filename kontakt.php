@@ -61,7 +61,18 @@
         <p>Här delar vi våra erfarenheter och tankar på vägen mot att leva ett lite mer självförsörjande och miljömässigt hållbart liv.</p>
       </li>
     </ul>
-
+    <h3>NATURLOGI</h3>
+    <P>Naturlogi är sommarens nya upplevelse här på Verklighetensgard.</p>
+    <ul class="left-align">
+    <li>
+        <a href="https://www.instagram.com/naturlogi/" target="_blank"><span class="icon icon--instagram mr"></span>@naturlogi</a>
+        <p>Följ Naturlogi på Instagram. </p>
+      </li>
+      <li>
+        <a href="https://facebook.com/naturlogi" target="_blank"><span class="icon icon--facebook mr"></span>@naturlogi</a>
+        <p>Naturlogi på Facebook.</p>
+      </li>
+      </ul>
   </div>
 
   <div class="col--12">

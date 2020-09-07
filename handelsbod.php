@@ -18,7 +18,7 @@
     <div>
       <h3 class="mt">ÖPPETTIDER</h3>
       <ul class="col--6 listbox mb">
-        <li><span class="mr">Lördag</span> <span>11:00 - 17:00</span></li>
+        <li><span class="mr">Stängt för säsongen</span> <span></span></li>
       </ul>
         
       </div>
