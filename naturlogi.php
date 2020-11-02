@@ -12,9 +12,9 @@
     <div class="col--12">
       <h2 class="mt">NATURLOGI I VERKLIGHETEN</h2>
       <br/>
-      <p>Vi har öppnat våra ställplatser för säsongen! Nytt för i år är att vi har grusat upp och slätat ut tre fina platser. El ingår alltid. Läs mer på <a href="https://naturlogi.se">Naturlogi.se</a>. Välkomna!</p>
-      <p>Vi har ett nytt koncept för övernattning och upplevelser hos oss, Naturlogi. Vi erbjuder våra vanliga ställplatser men även bekväm camping vid lägerplats samt vårt nya koncept med skogsrum. Skogsrummen är vårt mest exklusiva boende, här bor du med ett fönster mellan dig och skogen, en egen grillplats och en skön säng att krypa ner i.</p>
-      <p>Läs mer om våra ställplatser, lägerplatsen och skogsrummen på Naturlogi.se -></p>  
+      <p>Just nu har vi stängt för säsongen, välkomna igen i vår!</p>
+      <p>Vi har ett nytt koncept för övernattning och upplevelser hos oss, Naturlogi. Vi erbjuder naturcamping nere på gården med tre elplatser för husbilar och husvagnar men även plats för tält. Föredrar du hellre en egen lägerplats i skogen med tält är lägerplatserna något för dig. Vill du hellre uppleva skogen från en skön säng är det skogsrummen du ska bo i. Skogsrummen är vårt mest exklusiva boende, här bor du med ett fönster mellan dig och skogen, en egen grillplats och en skön säng att krypa ner i.</p>
+      <p>Läs mer om vår naturcamping, lägerplatserna och skogsrummen på Naturlogi.se -></p>  
     </div>
       <div class="col--6 mb mt">
         <a href="https://naturlogi.se" class="button"><span class="icon icon--naturlogi"></span></a>

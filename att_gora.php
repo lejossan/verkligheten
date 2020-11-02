@@ -10,7 +10,8 @@
   <div class="section container">
     <div class="col--12">
       <h2>ATT GÖRA</h2>
-      <p>Förutom att besöka vår handelsbod och slå dig ner med en glass en stund finns även andra saker som händer på gården. Beroende på säsong erbjuder vi olika alternativ och just nu är det grillkväll på schemat.</p>
+      <p>Just nu har vi stängt för säsongen, välkomna igen i vår!</p>
+      <p>Förutom att besöka vår handelsbod och slå dig ner med en glass en stund finns även andra saker som händer på gården. Beroende på säsong händer det olika saker här på gården.</p>
     </div>
 
     <div class="col--12">

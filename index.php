@@ -27,12 +27,12 @@
   <div class="section white">
     <div class="container-flex">
       <div class="col--6 right-align">
-        <?php include('texts/closed_teaser.php'); ?>
+        <?php include('texts/naturlogi_teaser.php'); ?>
       </div> 
       <div class="col--6 readmore--container">
         <!--<img class="lamm" src="../img/jul-round.png" alt="julmarknad" />-->
         <!--<img class="lamm" src="../img/lamm-round-white.png" alt="lamm" />-->
-        <img class="lamm" src="../img/butik-round.png" alt="lamm" />
+        <img class="lamm" src="../img/naturlogi-round.png" alt="naturlogi" />
         <!-- <a class="readmore--outline" href="/kontakt.php">Läs mer</a> -->
         <!--<img class="lamm" src="../img/var-round.png" alt="lamm" />-->
         <!--<img class="butik" src="../img/advent-round.png" alt="handelsbod" />-->
@@ -46,11 +46,11 @@
       <div class="col--6 readmore--container">
         <!--<img class="var" src="../img/lamm-round.png" alt="var" />-->
         <!--<img class="lamm" src="../img/halmhus-round.png" alt="lamm" />-->
-        <img class="reko" src="../img/reko-round.png" alt="butik" />
+        <img class="lamm" src="../img/butik/butik-round-grey.png" alt="butik" />
         <!--<a class="readmore--outline" href="/smabruk.php#gronsaker">Läs mer</a>-->
       </div>
       <div class="col--6 left-align mt">
-        <?php include('texts/reko_teaser.php'); ?>
+        <?php include('texts/closed_teaser.php'); ?>
       </div>
     </div>
   </div>
@@ -64,7 +64,6 @@
       <div class="col--12">
         <h2>VI SOM BOR HÄR</h2>
         <p>Verkligheten är ett generationsboende. Familjen Salbark bor i sitt halmhus, familjen Espenkrona bor i det gamla boningshuset på gården och föräldrarna Ottosson bor i Bokammaren, ett gammalt sädesmagasin som är ombyggt till bostadshus. Här lever vi och hjälps åt i vardagen, vi odlar ihop och sköter våra djur tillsammans.</p>
-        <p>Förutom allt folk bor på gården även en hel del djur. Här har vi höns som ger oss de godaste ägg med den gulaste gula man kan tänka sig. Får och hästar som håller våra marker öppna, katterna Evert och Missen som håller koll på mössen  och bordercollien Jazz som mest busar runt och lever rövare. Här bor även de sötaste kaninerna vi kan tänka oss, Siv och Maj. </p>
       </div>
     </div>
   </div>
