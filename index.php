@@ -74,7 +74,8 @@
     <div class="container">
       <div class="col--6">
         <h2>VILL DU BESÖKA OSS?</h2>
-        <p>Söker ni ställplats eller övernattning i Östergötland ska ni kolla in sidan om vår <a href="/naturlogi.php">naturlogi</a>. Då och då har vi marknader och handelsbodens öppetider hittar du under <a href="/handelsbod.php">Handelsbod</a></p>
+        <p>Söker ni ställplats eller övernattning i Östergötland ska ni kolla in sidan om vår <a href="/naturlogi.php">naturlogi</a>. </p>
+        <p>Då och då har vi marknader och handelsbodens öppetider hittar du under <a href="/handelsbod.php">Handelsbod</a></p>
         <a href="/kontakt.php#hittahit" class="button"><span class="icon icon--pin"></span><span>Hitta till oss!</span></a>
       </div>
     </div>
