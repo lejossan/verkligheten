@@ -10,17 +10,9 @@
   <div class="section container">
     <div class="col--12">
       <h2>ATT GÖRA</h2>
-      <p>Just nu har vi stängt för säsongen, välkomna igen i vår!</p>
       <p>Förutom att besöka vår handelsbod och slå dig ner med en glass en stund finns även andra saker som händer på gården. Beroende på säsong händer det olika saker här på gården.</p>
     </div>
 
-    <div class="col--12">
-      <h2>GRILLKVÄLL</h2>
-      <p>Upplev skogen i Verkligheten och samlas runt lägerelden. Här får ni med er en korg med korvar från trakten, hembakade korvbröd och goda tillbehör. I skogen tänder ni sedan elden, njuter av skogen runt er och eldens sprakande. Orkar ni inte vänta på glöden kan ni istället steka korvarna i någon av de stekpannor som finns. Här sitter ni så länge ni vill, kanske tills mörkret faller.</p>
-      <p>Vi bokar alltid bara ett sällskap åt gången så ni behöver inte tänka på trängsel, här är bara ni och naturen. Grillkvällar kan bokas alla kvällar i veckan från den tid som passar er.</p>
-      <p>2 personer: <b>640kr</b></p>
-      <p>Barn/styck: <b>95kr</b></p>
-    </div>
 
     <div class="section container">  
       <div class="col--6 mb mt"><a href="mailto:info@verklighetensgard.se" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för att boka!</span></a></div>

@@ -75,20 +75,6 @@
 
 
 <div class="section container">
-  <div class="col--12">
-    <h3 id="sektion-besok">Besök i Halmhuset</h3>
-    <p>Har vi tid och möjlighet tar vi gärna emot studiebesök i huset. Är ni intresserade är det lättast att maila. Vi ber er att alltid höra av er innan och boka tid, vi har ofta saker på gång och har svårt att ta emot spontanbesök på gården. Kostnad är 100 kr per person, men minst 500 kr. Då bjuder vi på fika och går igenom byggprocessen och pratar om det som är intressant för er. </p>
-  </div>
-  
-  <h3>Föreläsning halmhus</h3>
-  <p>Vi kommer gärna och föreläser i olika sammanhang. Dels om halmhus och byggnadsteknik men även om att ta klivet och att följa sina drömmar. Längd på föredraget anpassar vi efter önskemål. Kostnad enligt överenskommelse.</p>
-
-  <div class="col--6">
-    <p><a href="mailto:linnea.salbark@gmail.com" class="button"><span class="icon icon--mail-white mr"></span><span>Maila oss för mer info!</span></a></p>
-  </div>
-</div>
-
-<div class="section container">
     <div class="col--12">
       <h2>Mer att läsa om halmhuset</h2>
     </div>

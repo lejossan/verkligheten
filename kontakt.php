@@ -62,7 +62,7 @@
       </li>
     </ul>
     <h3>NATURLOGI</h3>
-    <P>Naturlogi är sommarens nya upplevelse här på Verklighetensgard.</p>
+    <P>Naturlogi är vår logiverksamhet. Här kan du tälta, glampa eller bo i våra lyxiga skogsrum! Kika in på <a href="https://naturlogi.se">naturlogi.se</a> för att läsa mer.</p>
     <ul class="left-align">
     <li>
         <a href="https://www.instagram.com/naturlogi/" target="_blank"><span class="icon icon--instagram mr"></span>@naturlogi</a>
@@ -75,18 +75,9 @@
       </ul>
   </div>
 
-  <div class="col--12">
-    <h3>Besök i Halmhuset</h3>
-    <p>Har vi tid och möjlighet tar vi gärna emot studiebesök i huset. Är ni intresserade är det lättast att maila. Vi ber er att alltid höra av er innan och boka tid, vi har ofta saker på gång och har svårt att ta emot spontanbesök på gården. Kostnad beror på upplägg och hur många ni är. </p>
-  </div>
-
-  <div class="col--12">
-    <h3>Föreläsning halmhus</h3>
-    <p>Vi kommer gärna och föreläser i olika sammanhang. Dels om halmhus och byggnadsteknik men även om att ta klivet och att följa sina drömmar. Längd på föredraget anpassar vi efter önskemål.</p>
-  </div>
 
   <div class="col--4 mt">
-    <a class="button" href="mailto:verklighetensgard@gmail.com"><span class="icon icon--mail-white mr"></span>Maila oss!</a>
+    <a class="button" href="mailto:info@verklighetensgard.se"><span class="icon icon--mail-white mr"></span>Maila oss!</a>
   </div>
 
 

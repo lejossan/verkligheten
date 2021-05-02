@@ -7,7 +7,7 @@
   // $menuItems[] = new MenuItem(getActiveMenuItem("/aktuellt"), "aktuellt.php", "AKTUELLT");
   $menuItems[] = new MenuItem(getActiveMenuItem("/handelsbod"), "handelsbod.php", "HANDELSBOD");
   $menuItems[] = new MenuItem(getActiveMenuItem("/smabruk"), "smabruk.php", "SMÅBRUK");
-  $menuItems[] = new MenuItem(getActiveMenuItem("/att_gora"), "att_gora.php", "ATT GÖRA");
+  /* $menuItems[] = new MenuItem(getActiveMenuItem("/att_gora"), "att_gora.php", "ATT GÖRA"); */
   $menuItems[] = new MenuItem(getActiveMenuItem("/naturlogi"), "naturlogi.php", "NATURLOGI");
   $menuItems[] = new MenuItem(getActiveMenuItem("/halmhus"), "halmhus.php", "HALMHUS");
   $menuItems[] = new MenuItem(getActiveMenuItem("/kontakt"), "kontakt.php", "KONTAKT");
