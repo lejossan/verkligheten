@@ -12,7 +12,6 @@
     <div class="col--12">
       <h2 class="mt">NATURLOGI I VERKLIGHETEN</h2>
       <br/>
-      <p>Just nu har vi stängt för säsongen, välkomna igen i vår!</p>
       <p>Vi har ett nytt koncept för övernattning och upplevelser hos oss, Naturlogi. Vi erbjuder naturcamping nere på gården med tre elplatser för husbilar och husvagnar men även plats för tält. Föredrar du hellre en egen lägerplats i skogen med tält är lägerplatserna något för dig. Vill du hellre uppleva skogen från en skön säng är det skogsrummen du ska bo i. Skogsrummen är vårt mest exklusiva boende, här bor du med ett fönster mellan dig och skogen, en egen grillplats och en skön säng att krypa ner i.</p>
       <p>Läs mer om vår naturcamping, lägerplatserna och skogsrummen på Naturlogi.se -></p>  
     </div>
