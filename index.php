@@ -50,7 +50,7 @@
         <!--<a class="readmore--outline" href="/smabruk.php#gronsaker">Läs mer</a>-->
       </div>
       <div class="col--6 left-align mt">
-        <?php include('texts/butik_teaser.php'); ?>
+        <?php include('texts/closed_teaser.php'); ?>
       </div>
     </div>
   </div>
