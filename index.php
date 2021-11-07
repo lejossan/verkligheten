@@ -4,11 +4,11 @@
     <div class="header-image image"></div>
       <!--<a href="index.php" class="nolink" alt="home">VERKLIGHETENS GÅRD</a>
       <span class="subheader">ÖVERNATTNING BUTIK GRÖNSAKER</span> -->
-      <img class="logo" src="../img/logo.png" alt="Verklighetens Gård - Övernattning, butik, grönsaker">
+      <img class="logo" src="../img/logo-nolegs.png" alt="Verklighetens Gård">
   </div>
   <?php include('menu.php'); ?>
 
-  <?php include('texts/payoff.php'); ?>
+  <?php //include('texts/payoff.php'); ?>
   <!--
   <div class="section">
     <div class="container">
@@ -41,23 +41,23 @@
     </div>
   </div>
 
-  <div class="section">
+<div class="section">
     <div class="container-flex center-align">
       <div class="col--6 readmore--container">
-        <!--<img class="var" src="../img/lamm-round.png" alt="var" />-->
+        <img class="var" src="../img/halmhus-round.png" alt="var" />
         <!--<img class="lamm" src="../img/halmhus-round.png" alt="lamm" />-->
-        <img class="lamm" src="../img/butik/butik-round-grey.png" alt="butik" />
+        <!-- <img class="lamm" src="../img/butik/butik-round-grey.png" alt="butik" /> -->
         <!--<a class="readmore--outline" href="/smabruk.php#gronsaker">Läs mer</a>-->
       </div>
       <div class="col--6 left-align mt">
-        <?php include('texts/closed_teaser.php'); ?>
+        <?php include('texts/halmhus_teaser.php'); ?>
       </div>
     </div>
   </div>
 
-  <div class="imagewrapper--small folk">
+  <!-- <div class="imagewrapper--small folk">
     <div class="header-image image"></div>
-  </div>
+  </div> 
   
   <div class="section white">
     <div class="container">
@@ -67,10 +67,11 @@
       </div>
     </div>
   </div>
+-->
 
   
   
-  <div class="section">
+<!--   <div class="section white">
     <div class="container">
       <div class="col--6">
         <h2>VILL DU BESÖKA OSS?</h2>
@@ -79,7 +80,7 @@
         <a href="/kontakt.php#hittahit" class="button"><span class="icon icon--pin"></span><span>Hitta till oss!</span></a>
       </div>
     </div>
-  </div>
+  </div> -->
 
 
 <?php include('footer.php'); ?>
