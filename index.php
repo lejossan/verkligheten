@@ -44,7 +44,7 @@
 <div class="section">
     <div class="container-flex center-align">
       <div class="col--6 readmore--container">
-        <img class="var" src="../img/halmhus-round.png" alt="var" />
+        <img class="var" src="../img/halmhus-round.png" style="height:345px;" alt="var" />
         <!--<img class="lamm" src="../img/halmhus-round.png" alt="lamm" />-->
         <!-- <img class="lamm" src="../img/butik/butik-round-grey.png" alt="butik" /> -->
         <!--<a class="readmore--outline" href="/smabruk.php#gronsaker">Läs mer</a>-->
